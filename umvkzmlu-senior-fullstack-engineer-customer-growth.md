@@ -20,9 +20,9 @@ As a senior full stack developer on the Customer Growth team, you will lead deve
 +	An office in downtown San Francisco with a tight-knit social atmosphere including catered lunches, happy hours, a killer view of the San Francisco Bay, game and movie nights, and more!
 
 ### Company Info
-You are currently viewing the public repo, which is limited in that company details have been ommitted in this job description.  
+You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
     
-We understand that this is less than ideal.  We are, for various reasons, unable to publicize the companies we work with, so we've
+We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
 created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
     
-Please [authorize our Github OAuth2 application ](http://localhost:3000/users/auth/github?job_id=umvkzmlu-senior-fullstack-engineer-customer-growth) to be redirected to the private repo.
+Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=umvkzmlu-senior-fullstack-engineer-customer-growth) to be redirected to the private repo.

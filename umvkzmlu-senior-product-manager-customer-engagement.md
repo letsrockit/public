@@ -22,9 +22,9 @@ You will serve as a key voice of the customer, liaising between our real estate 
 +	Competitive compensation with stock options and a generous benefits package.
 
 ### Company Info
-You are currently viewing the public repo, which is limited in that company details have been ommitted in this job description.  
+You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
     
-We understand that this is less than ideal.  We are, for various reasons, unable to publicize the companies we work with, so we've
+We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
 created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
     
-Please [authorize our Github OAuth2 application ](http://localhost:3000/users/auth/github?job_id=umvkzmlu-senior-product-manager-customer-engagement) to be redirected to the private repo.
+Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=umvkzmlu-senior-product-manager-customer-engagement) to be redirected to the private repo.

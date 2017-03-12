@@ -28,9 +28,9 @@ We have great customers and reach, so the company has huge opportunities, but we
 +	Experience with SQL or NOSQL databases
 
 ### Company Info
-You are currently viewing the public repo, which is limited in that company details have been ommitted in this job description.  
+You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
     
-We understand that this is less than ideal.  We are, for various reasons, unable to publicize the companies we work with, so we've
+We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
 created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
     
-Please [authorize our Github OAuth2 application ](http://localhost:3000/users/auth/github?job_id=tm9taw51bq-fullstack-frontend-developer) to be redirected to the private repo.
+Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=tm9taw51bq-fullstack-frontend-developer) to be redirected to the private repo.

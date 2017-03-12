@@ -50,9 +50,9 @@ As a Sr. Software Engineer, you will be responsible for building the products th
 We are proud to be an equal opportunity employer. We are committed to equal opportunity regardless of race, color, ancestry, religion, gender, gender identity, genetic information, parental or pregnancy status, national origin, sexual orientation, age, citizenship, marital status, disability, or Veteran status.
 
 ### Company Info
-You are currently viewing the public repo, which is limited in that company details have been ommitted in this job description.  
+You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
     
-We understand that this is less than ideal.  We are, for various reasons, unable to publicize the companies we work with, so we've
+We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
 created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
     
-Please [authorize our Github OAuth2 application ](http://localhost:3000/users/auth/github?job_id=u2vuzgdyawq-senior-software-engineer-marketing-apps) to be redirected to the private repo.
+Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=u2vuzgdyawq-senior-software-engineer-marketing-apps) to be redirected to the private repo.
