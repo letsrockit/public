@@ -497,16 +497,10 @@
 
 
 #### San Francisco, CA  
-[Platform Engineer](uelyifn5c3rlbxm-platform-engineer.md)
-
-
 [Tools / Internal Engineer](uelyifn5c3rlbxm-tools-internal-engineer.md)
 
 
 [Designer](uelyifn5c3rlbxm-designer.md)
-
-
-[Director of Product Management](uelyifn5c3rlbxm-director-of-product-management.md)
 
 
 #### San Francisco, CA  
