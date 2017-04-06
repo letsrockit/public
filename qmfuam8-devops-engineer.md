@@ -19,10 +19,3 @@ We are looking for an engineer with strong technical skills to be a key member o
 + We use many systems to help us scale. Ideally, you have experience with technologies like elasticsearch, redis, and rabbitmq to name a few.
 + You are comfortable working in an agile environment.
 
-### Company Info
-You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
-    
-We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
-created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
-    
-Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=qmfuam8-devops-engineer) to be redirected to the private repo.

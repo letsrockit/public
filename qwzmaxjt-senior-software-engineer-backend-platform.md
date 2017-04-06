@@ -31,10 +31,3 @@ We are using technology to re-imagine and re-build core parts of financial infra
 We believe the financial industry is fundamentally broken. Not only is the core infrastructure built with technology from the 1970s, but there are a dwindling number of people who say "I trust my bank to look out for me". It doesn’t have to be this way, and it’s our mission to fix this problem.
 We are based in San Francisco; founded by Max Levchin (founding CTO of PayPal), Jeff Kaditz (CDO DeNA/ngmoco), and Nathan Gettings (founding CTO of Palantir); and building a team of exceptionally talented people to join us on our mission.
 
-### Company Info
-You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
-    
-We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
-created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
-    
-Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=qwzmaxjt-senior-software-engineer-backend-platform) to be redirected to the private repo.

@@ -18,10 +18,3 @@ You want to fix that. By building software that eliminates the underlying ineffi
 +	A demonstrated fire for building product. You view engineering as one tool among many for building products that add value and help people.
 +	The ability to design what you build. You're probably not the best designer in the room, and you enjoy working with others who are stronger at design. But, you understand that design is how it works (not how it looks). Since engineering is also how it works, you think of design as a critical part of engineering—not a thing you do before or after.
 
-### Company Info
-You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
-    
-We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
-created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
-    
-Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=rxzlbg-fullstack-engineer) to be redirected to the private repo.

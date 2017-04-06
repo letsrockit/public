@@ -36,10 +36,3 @@ Our product isn't a wearable or mobile app. It's a fresh approach to fitness at 
 
 Led by repeat entrepreneurs and former venture capitalists (the kind with soul and purpose), we have built a diverse team of folks, each at the top of their game. If you’re the best at what you do, and want to be around people just like you, come join us.
 
-### Company Info
-You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
-    
-We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
-created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
-    
-Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=umlwdexhynm-senior-android-developer) to be redirected to the private repo.

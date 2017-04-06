@@ -29,10 +29,3 @@ As a software engineer you will work on a small, cross functional, nimble and dy
 +	Strong knowledge of software design patterns, testing methodologies, open source projects and frameworks.
 +	Ability to articulate ideas to technical and non-technical audiences
 
-### Company Info
-You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
-    
-We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
-created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
-    
-Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=u2vuzgdyawq-senior-software-engineer-fullstack-labs) to be redirected to the private repo.

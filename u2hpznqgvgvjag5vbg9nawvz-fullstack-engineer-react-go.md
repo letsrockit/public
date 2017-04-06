@@ -17,10 +17,3 @@ Engineers here build things that matter; every engineer works on exciting, meani
 +	Familiarity with modern web languages and frameworks (we use React and modern HTML/CSS)
 +	BS, MS and/or PhD in Computer Science or related technical field
 
-### Company Info
-You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
-    
-We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
-created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
-    
-Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=u2hpznqgvgvjag5vbg9nawvz-fullstack-engineer-react-go) to be redirected to the private repo.

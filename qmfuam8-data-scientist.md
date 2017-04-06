@@ -29,10 +29,3 @@ This person should feel comfortable being in a fast-paced, agile environment wit
 +	Able to think ahead and anticipate problems
 +	This person should be able to work independently in multiple areas including: feature engineering, feature selection, data modeling, deep learning, image classification, and natural language processing all while dealing with truly massive data sets.
 
-### Company Info
-You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
-    
-We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
-created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
-    
-Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=qmfuam8-data-scientist) to be redirected to the private repo.

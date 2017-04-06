@@ -22,10 +22,3 @@ To tackle this challenge, we are seeking an experienced Lead Front-end Developer
 +	Excellent knowledge of modern javascript frameworks and tools (React, Redux, and Webpack a plus)
 +	Comfort working with CSS pre--processors (We use SASS) and strategies for writing maintaininable CSS
 
-### Company Info
-You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
-    
-We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
-created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
-    
-Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=s2lkzg9t-frontend-lead) to be redirected to the private repo.

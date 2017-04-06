@@ -23,10 +23,3 @@ Our mission is to make it super easy for companies to use their customer data to
 +	Evidence of exposure to architectural patterns of high-scale web application (e.g., well-designed APIs, high volume data pipelines, efficient algorithms)
 +	Experience with web best practices such as A/B testing and test coverage
 
-### Company Info
-You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
-    
-We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
-created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
-    
-Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=u2vnbwvuda-fullstack-engineer) to be redirected to the private repo.

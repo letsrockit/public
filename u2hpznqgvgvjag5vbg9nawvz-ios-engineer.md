@@ -19,10 +19,3 @@ Much of what we have on the roadmap for iOS haven't even been started yet, which
 +	You’re capable of owning projects and working closely with other engineers to build exceptional mobile applications.
 +	Demonstrated experience and passion for delivering the best user experience on mobile
 
-### Company Info
-You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
-    
-We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
-created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
-    
-Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=u2hpznqgvgvjag5vbg9nawvz-ios-engineer) to be redirected to the private repo.

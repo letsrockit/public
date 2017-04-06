@@ -37,10 +37,3 @@ As a QA engineer, you will also be responsible for running stress/load tests bot
 ### Why choose us
 We are an equal opportunity employer and value diversity. Our company is committed to Equal Employment Opportunity throughout our recruiting and hiring process and is dedicated to increasing diversity in our workplace.
 
-### Company Info
-You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
-    
-We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
-created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
-    
-Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=v2f2zwzyb250-senior-qa-engineer) to be redirected to the private repo.
