@@ -17,3 +17,4 @@ Engineers here build things that matter; every engineer works on exciting, meani
 +	Familiarity with modern web languages and frameworks (we use React and modern HTML/CSS)
 +	BS, MS and/or PhD in Computer Science or related technical field
 
+

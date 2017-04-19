@@ -8,3 +8,4 @@ Do you love building infrastructure to move and analyze large volumes of data? D
 +	Experience with technologies like S3, Redshift, Spark, and Hadoop
 +	Ability to evaluate the scale of data problems and determine the optimal solutions for those problems
 
+

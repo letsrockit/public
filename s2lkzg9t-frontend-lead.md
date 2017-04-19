@@ -22,3 +22,4 @@ To tackle this challenge, we are seeking an experienced Lead Front-end Developer
 +	Excellent knowledge of modern javascript frameworks and tools (React, Redux, and Webpack a plus)
 +	Comfort working with CSS pre--processors (We use SASS) and strategies for writing maintaininable CSS
 
+

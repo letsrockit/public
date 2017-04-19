@@ -29,3 +29,4 @@ As a software engineer you will work on a small, cross functional, nimble and dy
 +	Strong knowledge of software design patterns, testing methodologies, open source projects and frameworks.
 +	Ability to articulate ideas to technical and non-technical audiences
 
+

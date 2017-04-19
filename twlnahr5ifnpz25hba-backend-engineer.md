@@ -29,3 +29,4 @@ We are looking for an engineer to work on our Backend. We have developed very un
 + Experience with iOS and/or Android development
 + Experience or interest in Data Science
 
+

@@ -44,3 +44,4 @@ We are looking for engineers who understand that simplicity and reliability are 
 +	Opportunity to impact patient care and the daily lives of healthcare professionals
 +	Working in a team with high EQ that values diversity
 
+

@@ -21,3 +21,4 @@ Qualifications
 +	Experience profiling and optimizing applications.
 +	Bonus: experience interacting with connected devices robustly and power efficiently.
 
+

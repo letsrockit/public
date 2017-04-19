@@ -18,3 +18,4 @@ Our infrastructure engineering team builds the systems, libraries, and platforms
 +	Strong knowledge of at least one server-side programming language and related frameworks (Go, PostgreSQL, Salesforce, App Engine, and AWS are what we use, but definitely not required coming in)
 +	BS, MS and/or PhD in Computer Science or related technical field
 
+

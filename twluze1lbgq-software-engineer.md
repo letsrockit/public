@@ -25,3 +25,4 @@ You have a passion for and deep experience in building complex software systems.
 +	Machine Learning and Natural Language Understanding experience is a plus
 +	Strong communication skills
 
+

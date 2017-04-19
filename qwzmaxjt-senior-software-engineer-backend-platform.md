@@ -31,3 +31,4 @@ We are using technology to re-imagine and re-build core parts of financial infra
 We believe the financial industry is fundamentally broken. Not only is the core infrastructure built with technology from the 1970s, but there are a dwindling number of people who say "I trust my bank to look out for me". It doesn’t have to be this way, and it’s our mission to fix this problem.
 We are based in San Francisco; founded by Max Levchin (founding CTO of PayPal), Jeff Kaditz (CDO DeNA/ngmoco), and Nathan Gettings (founding CTO of Palantir); and building a team of exceptionally talented people to join us on our mission.
 
+

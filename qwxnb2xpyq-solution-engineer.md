@@ -26,3 +26,4 @@ Are you a resilient problem solver who isn't afraid to think outside the box and
 + A history of building interesting projects (open source, personal projects, blog posts, anything where you flexed your creative and technical muscles)
 + Full professional English proficiency
 
+

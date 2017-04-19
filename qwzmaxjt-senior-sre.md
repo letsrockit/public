@@ -19,3 +19,4 @@ This role combines software development, networking, and systems administration 
 +	Experience troubleshooting mission-critical services and software not written by you
 +	Understanding of network protocols (TCP/IP, UDP, ICMP, etc), MAC addresses, IP packets, DNS, OSI layers, and load balancing
 
+

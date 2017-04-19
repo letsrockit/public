@@ -19,3 +19,4 @@ Much of what we have on the roadmap for iOS haven't even been started yet, which
 +	You’re capable of owning projects and working closely with other engineers to build exceptional mobile applications.
 +	Demonstrated experience and passion for delivering the best user experience on mobile
 
+

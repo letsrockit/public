@@ -17,3 +17,4 @@ Our senior software engineer will lead the backend team in it’s valiant missio
 + Experience with mobile, geolocation and/or social media products.
 + Capable to architect and develop a full-stack system.
 
+

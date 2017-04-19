@@ -23,3 +23,4 @@
    + JVM, LISP, Clojure, React, Datomic experience
    + Knowledge of HTML / DOM / CSS / Browser APIs
 
+

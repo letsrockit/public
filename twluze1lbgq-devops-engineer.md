@@ -23,3 +23,4 @@ We are the industry’s most advanced Deep-Domain Conversational AI platform. We
 +	Good understanding of service-oriented architecture and associated components: services, databases, caches, queues, proxies, load balancers and more
 +	Aptitude for developing amazing internal tools for deployment, monitoring, configuration and the like
 
+

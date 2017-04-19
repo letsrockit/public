@@ -19,3 +19,4 @@ As our user base has been constantly growing over the last two years, we are now
 + Expert knowledge of MongoDB or similar NoSQL database is a must.
 + Previous experience working in a start-up environment is a big plus
 
+

@@ -23,3 +23,4 @@ Our mission is to make it super easy for companies to use their customer data to
 +	Evidence of exposure to architectural patterns of high-scale web application (e.g., well-designed APIs, high volume data pipelines, efficient algorithms)
 +	Experience with web best practices such as A/B testing and test coverage
 
+

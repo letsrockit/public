@@ -27,3 +27,4 @@ We believe the financial industry is fundamentally broken. Not only is the core 
 
 We are based in San Francisco; founded by Max Levchin (founding CTO PayPal), Jeff Kaditz (CDO DeNA/ngmoco), and Nathan Gettings (founding CTO of Palantir); and building a team of exceptionally talented people to join us on our mission.
 
+

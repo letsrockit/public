@@ -24,3 +24,4 @@ This is an excellent opportunity for a proactive, highly motivated, and skilled 
 +	Machine Learning, Multivariate Calculus, Data Munging, Data Visualization
 +	Technologies - NoSQL, Redshift, MySQL, S3, Tableau, HighCharts/PHP, AWS
 
+

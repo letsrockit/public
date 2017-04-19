@@ -30,3 +30,4 @@ You are a seasoned product manager with many successes (and possibly failures) u
 ### Bonus Points
 +	BS, quantitative or technical degree a plus (math, economics, engineering, or finance). MBA a plus.
 
+

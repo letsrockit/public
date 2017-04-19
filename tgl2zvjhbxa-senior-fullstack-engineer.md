@@ -25,3 +25,4 @@ On the engineering team we value ownership and individual contribution within a 
 +	Have a startup personality: smart, ethical, friendly, hard-working and productive.
 +	Are a data enthusiast who wants to be surrounded by brilliant teammates and huge challenges.
 
+

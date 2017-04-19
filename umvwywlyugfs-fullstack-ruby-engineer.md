@@ -12,3 +12,4 @@ We're a team of full stack engineers using mainly Ruby, Rails, Javascript, Mysql
 ### What we look for
 You should be excited about using AB tests, cucumber, capybara, and rspecs to build and release high quality software daily, capable of managing your own small to medium sized releases, and should enjoy collaborating with and supporting your peers.
 
+

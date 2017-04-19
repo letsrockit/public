@@ -30,3 +30,4 @@ As a Ruby on Rails Engineer here you'll be a major contributor to our  e-commerc
 +	Comfortable working in an environment where innovation and change are the norm
 +	A passion for building great products.
 
+

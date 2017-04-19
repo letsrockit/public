@@ -47,3 +47,4 @@ In addition to leading the pack in the field of Drone Software Platforms, we’r
 +	1st Onsite - hands on practical (2.5 hours): James + Jono
 +	2nd Onsite (1 hour): Jono + Mike
 
+

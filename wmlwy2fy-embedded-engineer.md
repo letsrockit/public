@@ -27,3 +27,4 @@ You are given a board with a PIC24EP512GU and a BlueNRG-MS chip from STMicro. Wr
 
 Document all assumptions that you take.
 
+

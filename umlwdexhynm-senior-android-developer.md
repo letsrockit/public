@@ -36,3 +36,4 @@ Our product isn't a wearable or mobile app. It's a fresh approach to fitness at 
 
 Led by repeat entrepreneurs and former venture capitalists (the kind with soul and purpose), we have built a diverse team of folks, each at the top of their game. If you’re the best at what you do, and want to be around people just like you, come join us.
 
+

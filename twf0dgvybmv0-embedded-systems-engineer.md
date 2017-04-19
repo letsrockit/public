@@ -18,3 +18,4 @@ As an Embedded Systems Engineer, you will work with members of a multidisciplina
 +	Experience optimizing C and Matlab algorithms for high data throughput
 +	Familiarity interfacing with large distributed database systems
 
+

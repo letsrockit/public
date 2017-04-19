@@ -25,3 +25,4 @@ We’re in the process of expanding as we become a total complete internet exper
 +	Experience in short release cycles, Agile/Lean XP, and TDD
 +	Experience with SQL or NOSQL databases
 
+

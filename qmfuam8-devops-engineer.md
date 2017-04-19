@@ -19,3 +19,4 @@ We are looking for an engineer with strong technical skills to be a key member o
 + We use many systems to help us scale. Ideally, you have experience with technologies like elasticsearch, redis, and rabbitmq to name a few.
 + You are comfortable working in an agile environment.
 
+

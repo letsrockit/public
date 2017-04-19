@@ -18,3 +18,4 @@ We are hiring full-stack software engineers. You'll be working directly alongsid
 +	Desire to work in a highly collaborative environment.
 +	Ability to think critically and independently.
 
+

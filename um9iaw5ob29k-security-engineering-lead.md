@@ -25,3 +25,4 @@ We are seeking to hire a Security Engineering Lead to join our hybrid tech opera
 +	Familiarity with at least some of the following: Python, Go, Obj-C, C, bash
 +	Familiarity with log formats and intrusion detection systems for Linux based systems
 
+

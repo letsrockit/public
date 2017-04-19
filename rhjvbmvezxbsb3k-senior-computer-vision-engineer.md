@@ -42,3 +42,4 @@ We’re a team of star wars loving, hot sauce eating, tech enthusiasts with insp
   + Multi-view stereo
 +	On-Site Panel (full day, embed with team)
 
+

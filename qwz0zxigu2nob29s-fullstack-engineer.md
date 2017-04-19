@@ -9,3 +9,4 @@ The perfect candidate is someone who knows how to find architectural, algorithmi
 
 We also expect you to know server and cloud systems administration. Not expert level but being comfortable administrating your own environment is important on our small team!
 
+

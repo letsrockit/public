@@ -9,3 +9,4 @@ Predictive modeling is central to us. Underwriting more accurately and using var
 +	Comfort with programming
 +	Predictive modeling experience strongly preferred
 
+

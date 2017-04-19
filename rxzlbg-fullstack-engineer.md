@@ -18,3 +18,4 @@ You want to fix that. By building software that eliminates the underlying ineffi
 +	A demonstrated fire for building product. You view engineering as one tool among many for building products that add value and help people.
 +	The ability to design what you build. You're probably not the best designer in the room, and you enjoy working with others who are stronger at design. But, you understand that design is how it works (not how it looks). Since engineering is also how it works, you think of design as a critical part of engineering—not a thing you do before or after.
 
+

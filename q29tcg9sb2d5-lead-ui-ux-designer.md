@@ -16,3 +16,4 @@ We’re looking for an experienced UI/UX designer who can help us build clean, i
 + Basic HTML/CSS prototyping skills
 + Experience designing for tablets
 
+

@@ -23,3 +23,4 @@ We are funded by all-star investors including First Round Capital, Gary Vaynerch
 +  Located in San Francisco Bay Area
 +  3-10+ years' engineering experience
 
+

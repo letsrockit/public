@@ -12,3 +12,4 @@ This is an exciting time as our site is young and there is a lot to build! You w
 +	Deep understanding of JavaScript (ember, angular, react)
 +	Demonstrate ability to adapt to new technology
 
+

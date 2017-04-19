@@ -29,3 +29,4 @@ We work mostly distributed around the Bay Area and are nearing the end of our al
 + Proficiency in Javascript and front-end web technologies
 + Experience working with AVFoundation, CoreBluetooth, OpenGL, JavascriptCore
 
+

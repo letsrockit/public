@@ -29,3 +29,4 @@ This person should feel comfortable being in a fast-paced, agile environment wit
 +	Able to think ahead and anticipate problems
 +	This person should be able to work independently in multiple areas including: feature engineering, feature selection, data modeling, deep learning, image classification, and natural language processing all while dealing with truly massive data sets.
 
+

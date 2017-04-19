@@ -27,3 +27,4 @@ We have great customers and reach, so the company has huge opportunities, but we
 +	Experience in short release cycles, Agile/Lean XP, and TDD
 +	Experience with SQL or NOSQL databases
 
+

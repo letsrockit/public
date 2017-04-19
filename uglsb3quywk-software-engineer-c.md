@@ -27,3 +27,4 @@
 + Can Pay very well 
 + non-diluted equity 
 
+

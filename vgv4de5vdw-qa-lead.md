@@ -27,3 +27,4 @@ We are looking for a QA Lead Developer to join our development team and help us 
 + Experience writing automation with mobile automation tools (such as Calabash, Espresso, XCTest) is preferred
 + A bachelor’s degree in Computer Science, Computer Engineering or Software Engineering or equivalent experience
 
+

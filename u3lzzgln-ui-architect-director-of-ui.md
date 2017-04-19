@@ -29,3 +29,4 @@ Your Role and Responsibilities
 +	Bachelors or Masters degree in computer science or equivalent
 +	Startup / entrepreneurial experience is a plus
 
+

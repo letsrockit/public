@@ -17,3 +17,4 @@ We’re the leading cloud software platform for commercial drones, making the po
 +	Awareness and opinions on new front-end technology like TypeScript and ES6/7+ a plus.
 +	Available to work your first few weeks onsite for onboarding.
 
+

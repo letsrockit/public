@@ -26,3 +26,4 @@ It’s a big, challenging piece of core infrastructure, but we’re feeling the 
 +	2+ years of industry experience building and owning large-scale distributed infrastructure
 +	Expert knowledge developing and debugging in C/C++, Java, or Go
 
+

@@ -26,3 +26,4 @@ To tackle this challenge, we seek a User Interface/Experience Designer: someone 
 +	Mobile UX Design
 +	Mobile UI Design
 
+

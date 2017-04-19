@@ -27,3 +27,4 @@ On the engineering team we value ownership and individual contribution within a 
 +	Have a startup personality: smart, ethical, friendly, hard-working and proactive.
 +	You lead by example, by setting the right context and by helping teammate do their best work.
 
+

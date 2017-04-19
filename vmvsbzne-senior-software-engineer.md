@@ -24,3 +24,4 @@ The team is looking for a self-starter that enjoys working in a highly dynamic s
 +	Experience in development of motion control systems
 +	Ability to troubleshoot hardware, devices, boards and chips on a low level
 
+

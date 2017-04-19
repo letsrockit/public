@@ -16,3 +16,4 @@ You have a passion for and deep experience in artificial intelligence, machine l
 +	Knowledge of IR concepts such as statistical search ranking, knowledge graphs, vectorial semantics, LSA, document clustering
 +	Strong communication skills
 
+

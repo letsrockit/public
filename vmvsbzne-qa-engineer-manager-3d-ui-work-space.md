@@ -26,3 +26,4 @@ The team is looking for a self-starter that enjoys working in a highly dynamic s
 +	Design and qualification of user experience and user interface
 +	Project management including Scrum, Kanban, XP or other Agile methodologies
 
+

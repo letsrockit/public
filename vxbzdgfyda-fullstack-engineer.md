@@ -8,3 +8,4 @@ Are you an engineer with strong technical problem solving skills, excellent comm
 +	Experience with web frameworks (Ruby on Rails preferred)
 +	Experience with JavaScript and JavaScript frameworks (we use Angular)
 
+
