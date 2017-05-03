@@ -1,4 +1,4 @@
-## Senior Search Engineer
+## Search Engineer (Senior)
 #### San Francisco, CA
 
 ### Overview

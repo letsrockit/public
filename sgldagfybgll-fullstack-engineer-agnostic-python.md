@@ -1,4 +1,4 @@
-## Fullstack Engineer (Agnostic; Python)
+## Fullstack Engineer (Agnostic, Python)
 #### San Francisco, CA
 
 ### Overview

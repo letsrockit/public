@@ -1,10 +1,10 @@
-## Python Production Engineer 
-#### Redwood City, Ca
+## Backend Engineer (Senior, Python)
+#### Redwood City, CA
 
 ### Quick Summary
-We’re a rapidly growing team of big thinkers and big doers. We don’t just talk about things, we make them happen – in record time. We’re looking for people with passion, a point of view, and a go-getter mentality to become a part of the amazing work we are doing here at Banjo. Our team is motivated by challenges and dreams big. If that sounds like you, Banjo might just be the perfect fit. And if you’re a crack shot with a Nerf gun, or know how to duck and cover, even better.
+We’re a rapidly growing team of big thinkers and big doers. We don’t just talk about things, we make them happen – in record time. We’re looking for people with passion, a point of view, and a go-getter mentality to become a part of the amazing work we are doing. Our team is motivated by challenges and dreams big. If that sounds like you, our company might just be the perfect fit. And if you’re a crack shot with a Nerf gun, or know how to duck and cover, even better.
 
-###Job Description
+### Job Description
 +  We are looking for a data engineer responsible for the development and maintenance of critical data processing and classification pipelines. 
 + Your primary focus will be developing new systems and services while leveraging cutting edge data science and machine learning technologies. 
 + You will be working alongside other engineers and developers working on different layers of the infrastructure. Therefore, a commitment to collaborative problem solving, sophisticated design, and the creation of quality products is essential.

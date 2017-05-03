@@ -1,8 +1,8 @@
-## Embedded Software Engineer 
+## Hardware Engineer (Senior, Firmware/Embedded)
 #### Belmont, CA
 
 ### Job Description
-The Embedded Software Engineer will own the vision and direction for performance, reliability, and deployment of all software and OS that runs on the vehicle. You will integrate everything from high-level algorithms with low-level drivers.
+The Hardware Engineer will own the vision and direction for performance, reliability, and deployment of all software and OS that runs on the vehicle. You will integrate everything from high-level algorithms with low-level drivers.
 
 ### What we look for
 + Prior knowledge and experience in real-time, low latency applications, high rate packet processing, and high performance computing

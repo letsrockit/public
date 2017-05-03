@@ -1,4 +1,4 @@
-## Team Lead, Fullstack
+##  Fullstack Engineer (Team Lead)
 #### San Francisco, CA
 
 ### Quick Summary

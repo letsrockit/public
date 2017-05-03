@@ -1,4 +1,4 @@
-## Data Infrastructure Engineer
+## Infrastructure Engineer
 #### Belmont, CA
 
 ### Job Description

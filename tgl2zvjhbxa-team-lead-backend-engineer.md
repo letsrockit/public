@@ -1,4 +1,4 @@
-## Team Lead, Backend
+## Backend Engineer (Team Lead)
 #### San Francisco, CA
 
 ### Quick Summary

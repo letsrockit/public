@@ -1,4 +1,4 @@
-## Fullstack Engineer
+## Fullstack Engineer (Agnostic, Clojure)
 #### Menlo Park, CA
 
 ### Job Description

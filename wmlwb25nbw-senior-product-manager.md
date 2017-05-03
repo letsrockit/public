@@ -1,4 +1,4 @@
-## Senior Product Manager
+## Product Manager (Director)
 #### San Francisco, CA
 
 ### Quick Summary

@@ -1,4 +1,4 @@
-## Data Scientist
+## Data Scientist (Senior)
 #### Redwood City, CA
 
 ### Job Description

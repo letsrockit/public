@@ -1,4 +1,4 @@
-## Fullstack Ruby Engineer
+## Fullstack Engineer (Ruby)
 #### San Francisco, CA
 
 ### Quick Summary

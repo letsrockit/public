@@ -1,11 +1,11 @@
-## Engineering Manager (Infrastructure)
+## Infrastructure Engineer (Manager)
 #### San Francisco, CA
 
 ### Overview
 The Infrastructure team builds the foundation we need to support our web and mobile applications, as well as our robust API. We build and operate the software that enables our company’s security, scalability, and speed. Each day, we combine industry best-practices and innovation to support this product-focused company.
 
 ### Job Description
-We are looking for an infrastructure engineering manager to join our team as a manager. As a manager on the infrastructure team, you will focus on developing the team around you. You are passionate about helping others contribute more and develop not just as engineers, but also as human beings. You are as enthusiastic about recruiting and building a team as you are about the challenging technical problems that your team will solve. You enjoy the challenge of balancing speed of execution with quality while building the foundations of our application stack.
+We are looking for an infrastructure engineer to join our team as a manager. As a manager on the infrastructure team, you will focus on developing the team around you. You are passionate about helping others contribute more and develop not just as engineers, but also as human beings. You are as enthusiastic about recruiting and building a team as you are about the challenging technical problems that your team will solve. You enjoy the challenge of balancing speed of execution with quality while building the foundations of our application stack.
 
 ### What you'll do
 + Manage a program of 3 - 4 engineers on the infrastructure team while participating as an engineer on this team—for example, on the stability, security, or internal tools team

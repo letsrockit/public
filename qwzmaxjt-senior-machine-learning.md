@@ -1,4 +1,4 @@
-## Senior Machine Learning
+## AI (Senior, Machine Learning)
 #### San Francisco, CA
 
 ### Overview

@@ -1,4 +1,4 @@
-## Fullstack engineer
+## Fullstack Engineer (Agnostic, React, Golang)
 #### San Francisco, CA
 
 ### Overview

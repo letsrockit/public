@@ -1,4 +1,4 @@
-## Senior Engineer, DevOps
+## DevOps Engineer (Senior)
 #### San Francisco, CA
 
 ### Quick Summary

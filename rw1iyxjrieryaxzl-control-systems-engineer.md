@@ -1,4 +1,4 @@
-## Control Systems Engineer
+## Hardware Engineer (Mechanical)
 #### Belmont, CA
 
 ### Job Description

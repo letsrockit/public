@@ -1,4 +1,4 @@
-## Polymath Fullstack Engineer
+## Fullstack Engineer (Lead, node.js)
 #### San Francisco, CA
 
 ### Quick Summary

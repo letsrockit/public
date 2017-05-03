@@ -1,4 +1,4 @@
-## Frontend Engineering Manager
+## Frontend Engineer (Lead, Angular)
 #### Berkeley, CA
 
 ### Quick Summary

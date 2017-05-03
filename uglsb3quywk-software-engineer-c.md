@@ -1,4 +1,4 @@
-## Software Engineer (C++)
+## Backend Engineer (C++)
 #### Redwood City, CA
 
 ### What we look for

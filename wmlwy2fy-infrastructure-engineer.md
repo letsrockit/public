@@ -1,4 +1,4 @@
-## Senior Infrastructure Engineer
+## Infrastructure Engineer (Senior)
 #### San Mateo, CA
 
 ### Overview

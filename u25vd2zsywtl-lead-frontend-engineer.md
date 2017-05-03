@@ -1,4 +1,4 @@
-## Lead Frontend Engineer
+## Frontend Engineer (Lead, React)
 #### San Mateo, CA
 
 ### Overview

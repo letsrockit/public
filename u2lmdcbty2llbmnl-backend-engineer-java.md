@@ -1,4 +1,4 @@
-## Backend Engineer (Java)
+## Backend Engineer (Java / Golang)
 #### San Francisco, CA
 
 ### Overview

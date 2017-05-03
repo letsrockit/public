@@ -1,4 +1,4 @@
-## Fullstack Engineer (React/Go)
+## Fullstack Engineer (React/Golang)
 #### San Francisco, CA
 
 ### Quick Summary

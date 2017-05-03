@@ -1,4 +1,4 @@
-## Embedded Systems Engineer
+## Hardware Engineer (Firmware/Embedded)
 #### Menlo Park, CA
 
 ### Job Description:

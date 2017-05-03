@@ -1,4 +1,4 @@
-## Product Manager
+## Product Manager (Manager)
 #### San Francisco, CA
 
 ### Overview

@@ -1,4 +1,4 @@
-## Backend Engineer
+## Backend Engineer (Agnostic, .net)
 #### San Francisco, CA
 
 ### Quick Summary
@@ -18,6 +18,6 @@ Join our talented team and help make money work better for everyone.
 + ideally you've had experience working in .Net in the past and have transitioned to another main language
 + Python is currently in our stack but we're opened to language changes in the future as the need presents itself
 + looking for a mix of smaller team experiences
-+ 3+ years of work expereince
++ 3 or more years of work expereince
 
 

@@ -1,4 +1,4 @@
-## Lead Software Engineer – Machine Learning
+## AI (Lead, Machine Learning)
 #### San Francisco, CA
 
 ### Overview

@@ -1,4 +1,4 @@
-## Frontend Engineer
+## Frontend Engineer (Senior, Ember)
 #### San Francisco, CA
 
 ### Quick Summary

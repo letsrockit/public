@@ -1,4 +1,4 @@
-## Fullstack Software Engineer
+## Fullstack Engineer (Manager, Ruby)
 #### San Francisco, CA
 
 ### Job Description

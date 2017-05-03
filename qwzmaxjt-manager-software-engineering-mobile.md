@@ -1,4 +1,4 @@
-## Manager, Software Engineering – Mobile
+## Mobile Engineer (Manager, Multi-platform)
 #### San Francisco, CA
 
 ### Overview
@@ -12,7 +12,7 @@ The Android and iOS teams work on separate native codebases, but are in close co
 + Lead the two app engineering teams by coordinating with tech leads and individual contributors
 + Own and drive complex technical projects from the planning stage through execution
 + Provide guidance on architecture, design, and defining processes for launching products and features
-+ Help set the direction for the future of Mobile development at Affirm, including exploration and implementation of better code sharing techniques across native apps and web (a la React Native).
++ Help set the direction for the future of Mobile development, including exploration and implementation of better code sharing techniques across native apps and web (a la React Native).
 + Provide mentoring to both junior and senior engineers in their progress on business and personal career goals
 
 ### What we look for

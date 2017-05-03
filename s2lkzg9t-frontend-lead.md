@@ -1,4 +1,4 @@
-## Frontend Lead
+## Frontend Engineer (Lead)
 #### San Francisco, CA
 
 ### Quick Summary
