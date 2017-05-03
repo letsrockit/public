@@ -497,6 +497,10 @@
 [Product Manager (Director)](wmlwb25nbw-senior-product-manager.md)
 
 
+#### Palo Alto, CA  
+[DevOps Engineer (Senior)](um9iaw5ob29k-devops-engineer-senior.md)
+
+
 #### San Francisco, CA  
 [Mobile Engineer (iOS) ](twfnzw50yq-mobile-engineer-ios.md)
 
@@ -508,9 +512,5 @@
 
 
 [Mobile Engineer (Senior, Android)](twfnzw50yq-mobile-engineer-senior-android.md)
-
-
-#### Palo Alto, CA  
-[DevOps Engineer (Senior)](um9iaw5ob29k-devops-engineer-senior.md)
 
 
