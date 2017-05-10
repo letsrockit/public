@@ -9,13 +9,6 @@
 
 
 #### San Francisco, CA  
-[QA Engineer(Manager)](u3lzzgln-qa-engineer-manager.md)
-
-
-[UI Architect / Director of UI](u3lzzgln-ui-architect-director-of-ui.md)
-
-
-#### San Francisco, CA  
 [Fullstack Engineer (Senior, Javascript)](uxvpza-fullstack-engineer-senior-javascript.md)
 
 
@@ -34,9 +27,6 @@
 
 
 [Test Engineer (Senior)](twfnzw50yq-test-engineer-senior.md)
-
-
-[Mobile Engineer (Senior, Android)](twfnzw50yq-mobile-engineer-senior-android.md)
 
 
 #### San Francisco, CA  
@@ -67,28 +57,14 @@
 [Frontend Engineer (Lead, React)](u25vd2zsywtl-frontend-engineer-lead-react.md)
 
 
-[Senior Backend Engineer](u25vd2zsywtl-senior-backend-engineer.md)
-
-
 [Fullstack Engineer (Java)](u25vd2zsywtl-fullstack-engineer-java.md)
-
-
-#### Oakland, CA  
-[Fullstack Engineer (Agnostic, React, Golang)](rxzlbg-fullstack-engineer-agnostic-react-golang.md)
-
-
-#### Redwood City, CA  
-[Senior Software Engineer - Platform](umfiyml0-senior-software-engineer-platform.md)
-
-
-[Senior Software Engineer Realtime Audio/Video Streaming](umfiyml0-senior-software-engineer-realtime-audio-video-streaming.md)
-
-
-[Product Manager](umfiyml0-product-manager.md)
 
 
 #### Palo Alto, CA  
 [Mobile Engineer (Senior, iOS)](qwlydgltzq-mobile-engineer-senior-ios.md)
+
+
+[Backend Engineer (Senior, node.js)](qwlydgltzq-backend-engineer-senior-node-js.md)
 
 
 #### Redwood City, CA  
@@ -110,9 +86,6 @@
 
 
 [Test Engineer](vgv4de5vdw-test-engineer.md)
-
-
-[Data Science Analyst](vgv4de5vdw-data-science-analyst.md)
 
 
 #### Redwood City, CA  
@@ -138,10 +111,6 @@
 [AI (Senior, Machine Learning)](qmfuam8-ai-senior-machine-learning.md)
 
 
-#### San Francisco, CA  
-[Fullstack Engineer (Senior, Ruby)](qwjszsbizwfsdgg-fullstack-engineer-senior-ruby.md)
-
-
 #### Menlo Park, CA  
 [Hardware Engineer (Firmware/Embedded)](twf0dgvybmv0-hardware-engineer-firmware-embedded.md)
 
@@ -155,21 +124,6 @@
 
 
 [Fullstack Engineer (Senior, Java)](rhvldhrvifjlc2vhcmno-fullstack-engineer-senior-java.md)
-
-
-#### San Francisco, CA  
-[Head of Support](q29yzu9t-head-of-support.md)
-
-
-#### Palo Alto, CA  
-[DevOps Engineer (Senior)](um9iaw5ob29k-devops-engineer-senior.md)
-
-
-#### Redwood City, CA  
-[Fullstack Frontend Developer](tm9taw51bq-fullstack-frontend-developer.md)
-
-
-[Principal Platform Engineer](tm9taw51bq-principal-platform-engineer.md)
 
 
 #### San Francisco, CA  
@@ -192,14 +146,6 @@
 
 #### San Francisco, CA  
 [Backend Engineer (Senior)](vm94zxi-backend-engineer-senior.md)
-
-
-#### San Francisco, CA  
-[Backend Engineer (Ruby)](u25hcgrvy3m-backend-engineer-ruby.md)
-
-
-#### San Francisco, CA  
-[Fullstack Engineer (Ruby)](umvwywlyugfs-fullstack-engineer-ruby.md)
 
 
 #### San Carlos, CA  
@@ -226,13 +172,6 @@
 [Backend Engineer (Ruby)](twlnahr5ifnpz25hba-backend-engineer-ruby.md)
 
 
-#### San Francisco, CA  
-[Developer Experience Engineer (Dev Advocate)](v2vhdmv3b3jrcw-developer-experience-engineer-dev-advocate.md)
-
-
-[Backend Engineer (Go)](v2vhdmv3b3jrcw-backend-engineer-go.md)
-
-
 #### San Mateo, CA  
 [Fullstack Engineer (Senior)](wmlwy2fy-fullstack-engineer-senior.md)
 
@@ -243,17 +182,7 @@
 [Test Engineer (Senior)](wmlwy2fy-test-engineer-senior.md)
 
 
-[Backend Engineer (Senior, Java)](wmlwy2fy-backend-engineer-senior-java.md)
-
-
 [Frontend Engineer (Senior, Angular)](wmlwy2fy-frontend-engineer-senior-angular.md)
-
-
-#### Redwood City, CA  
-[Associate Systems Engineer](r2xpbnq-associate-systems-engineer.md)
-
-
-[Backend Engineer (Senior, Java)](r2xpbnq-backend-engineer-senior-java.md)
 
 
 #### San Francisco, CA  
@@ -332,33 +261,6 @@
 [Fullstack Engineer (Lead, Python)](qwzmaxjt-fullstack-engineer-lead-python.md)
 
 
-#### San Francisco, CA  
-[Senior Infrastructure Engineer](sw5rbgluzw-senior-infrastructure-engineer.md)
-
-
-#### Redwood City, CA  
-[Software Engineering Manager (Marketing Campaigns)](u2vuzgdyawq-software-engineering-manager-marketing-campaigns.md)
-
-
-[Senior Software Engineer - Marketing Apps](u2vuzgdyawq-senior-software-engineer-marketing-apps.md)
-
-
-[Principal Software Engineer - Marketing Apps](u2vuzgdyawq-principal-software-engineer-marketing-apps.md)
-
-
-[Senior Software Engineer (Fullstack) - Labs](u2vuzgdyawq-senior-software-engineer-fullstack-labs.md)
-
-
-#### Redwood City, CA  
-[Frontend Engineer (Senior, React)](ugxleenoyxq-frontend-engineer-senior-react.md)
-
-
-[Backend Engineer (Senior, C++)](ugxleenoyxq-backend-engineer-senior-c.md)
-
-
-[Infrastructure Engineer (Senior)](ugxleenoyxq-infrastructure-engineer-senior.md)
-
-
 #### Menlo Park, CA  
 [Fullstack Engineer (Agnostic, Clojure)](tgfkzgvyiexpzmu-fullstack-engineer-agnostic-clojure.md)
 
@@ -370,17 +272,7 @@
 [DevOps Engineer](u2vnbwvuda-devops-engineer.md)
 
 
-[Security Engineer](u2vnbwvuda-security-engineer.md)
-
-
 [Infrastructure Engineer](u2vnbwvuda-infrastructure-engineer.md)
-
-
-#### San Francisco, CA  
-[Test Engineer](tgfudgvybg-test-engineer.md)
-
-
-[Mobile Engineer (Senior, iOS)](tgfudgvybg-mobile-engineer-senior-ios.md)
 
 
 #### San Francisco, CA  
@@ -390,7 +282,7 @@
 [Mobile Engineer (Senior, iOS)](u2lmdcbty2llbmnl-mobile-engineer-senior-ios.md)
 
 
-[DevOps Engineer](u2lmdcbty2llbmnl-devops-engineer.md)
+[ Site Reliability Engineer (Senior, Java)](u2lmdcbty2llbmnl-devops-engineer.md)
 
 
 [Backend Engineer (Java / Golang)](u2lmdcbty2llbmnl-backend-engineer-java-golang.md)
@@ -407,10 +299,6 @@
 
 
 [Frontend Engineer (Senior, Angular)](u2f2b25pea-frontend-engineer-senior-angular.md)
-
-
-#### San Francisco, CA  
-[Product Manager](umvkzmlu-product-manager.md)
 
 
 #### San Francisco, CA  
@@ -440,10 +328,17 @@
 [Infrastructure Engineer](rw1iyxjrieryaxzl-infrastructure-engineer.md)
 
 
-[Fullstack Engineer (Python)](rw1iyxjrieryaxzl-fullstack-engineer-python.md)
-
-
 [DevOps Engineer](rw1iyxjrieryaxzl-devops-engineer.md)
+
+
+#### San Francisco, CA  
+[Platform Engineer (Senior, C/C++)](q3j1axnl-platform-engineer-senior-c-c.md)
+
+
+[Mobile Engineer (Android)](q3j1axnl-mobile-engineer-android.md)
+
+
+[Backend Engineer (Senior, C++)](q3j1axnl-backend-engineer-senior-c.md)
 
 
 #### San Francisco, CA  
@@ -469,9 +364,6 @@
 [Fullstack Engineer (Team Lead)](tgl2zvjhbxa-fullstack-engineer-team-lead.md)
 
 
-[UX Engineer](tgl2zvjhbxa-ux-engineer.md)
-
-
 [Data Engineer (Senior)](tgl2zvjhbxa-data-engineer-senior.md)
 
 
@@ -479,10 +371,17 @@
 
 
 #### San Francisco, CA  
-[Mobile Engineer (Multi-platform)](s2fty29yza-mobile-engineer-multi-platform.md)
+[Mobile Engineer (Android)](s2fty29yza-mobile-engineer-multi-platform.md)
 
 
 [Mobile Engineer (iOS)](s2fty29yza-mobile-engineer-ios.md)
+
+
+#### San Francisco, CA  
+[Backend Engineer (Agnostic/Ruby/Golang)](yjh0yq-backend-engineer-agnostic-ruby-golang.md)
+
+
+[Frontend Engineer (React)](yjh0yq-frontend-engineer-react.md)
 
 
 #### San Francisco, CA  
@@ -501,16 +400,20 @@
 
 
 #### San Francisco, CA  
-[iOS Engineer](r29vzcbfz2dz-ios-engineer.md)
-
-
-[Delivery Engineer (DevOps)](r29vzcbfz2dz-delivery-engineer-devops.md)
-
-
-[Fullstack Engineer (javascript, node)](r29vzcbfz2dz-fullstack-engineer-javascript-node.md)
+[Fullstack Engineer (node.js)](tg9uzybhyw1l-fullstack-engineer-node-js.md)
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (node.js)](tg9uzybhyw1l-fullstack-engineer-node-js.md)
+[Fullstack Engineer (Senior, Ruby) ](umvkynviymxl-fullstack-engineer-senior-ruby.md)
+
+
+#### Redwood City, CA  
+[Frontend Engineer (Senior, React)](ugxleenoyxq-frontend-engineer-senior-react.md)
+
+
+[Backend Engineer (Senior, C++)](ugxleenoyxq-backend-engineer-senior-c.md)
+
+
+[Infrastructure Engineer (Senior)](ugxleenoyxq-infrastructure-engineer-senior.md)
 
 

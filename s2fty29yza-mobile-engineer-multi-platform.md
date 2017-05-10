@@ -1,4 +1,4 @@
-## Mobile Engineer (Multi-platform)
+## Mobile Engineer (Android)
 #### San Francisco, CA
 
 ### Overview:
