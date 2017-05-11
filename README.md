@@ -79,9 +79,6 @@
 
 
 #### San Francisco, CA  
-[Mobile Engineer (Senior, iOS)](vgv4de5vdw-mobile-engineer-senior-ios.md)
-
-
 [ Frontend Engineer (BackBone/Angular/React)](vgv4de5vdw-frontend-engineer-backbone-angular-react.md)
 
 

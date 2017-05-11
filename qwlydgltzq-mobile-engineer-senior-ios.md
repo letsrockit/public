@@ -21,3 +21,10 @@ Do you love working in a small team that is building a game changing product? Do
 The iOS Team has one of the most fun and challenging projects in tech today. For one we are a humble team of iOS and real-time audio/video snobs and obsess about all things iOS and media. We take immense pride in delivering an unparalleled high quality video and highly responsive and “live the moment” experience and push the limit of what you can do on a mobile device.
 
 
+### Company Info
+You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
+    
+We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
+created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
+    
+Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=qwlydgltzq-mobile-engineer-senior-ios) to be redirected to the private repo.

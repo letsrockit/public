@@ -40,3 +40,10 @@ Are you passionate about software development, sharing knowledge, growing your s
 We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
 
 
+### Company Info
+You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
+    
+We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
+created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
+    
+Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=u2hpchq-search-engineer-senior) to be redirected to the private repo.

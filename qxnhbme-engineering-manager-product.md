@@ -26,3 +26,10 @@ As a manager on the product engineering team, you’ll focus on developing the e
 Does the above sound like it might be you? Then we’d love to hear from you. Our goal is to provide a hiring and working experience in which all people know they are equally respected and valued. So, whatever it is that makes you unique -- your gender identity or expression, sexual orientation, religion, ethnicity, age, citizenship, educational background, socioeconomic status -- we value it, and we’d love to see what you might add to our team.
 
 
+### Company Info
+You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
+    
+We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
+created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
+    
+Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=qxnhbme-engineering-manager-product) to be redirected to the private repo.

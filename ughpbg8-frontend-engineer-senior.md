@@ -22,3 +22,10 @@ The Product Team is responsible for designing, building, testing, and quite lite
 + Working in a codebase with multiple contributors
 
 
+### Company Info
+You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
+    
+We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
+created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
+    
+Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=ughpbg8-frontend-engineer-senior) to be redirected to the private repo.

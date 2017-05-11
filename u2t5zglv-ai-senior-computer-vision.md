@@ -23,3 +23,10 @@ The core of our system is the computer vision algorithms that allow drones to un
 We’re looking for people who want to help create the future of flying machines. If you thrive in a fast paced, collaborative environment and are looking for a long lever for your skills we want to hear from you. Expect to be issued a personal drone on your first day for you to explore and experience the power of the technology as you see fit.
 
 
+### Company Info
+You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
+    
+We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
+created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
+    
+Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=u2t5zglv-ai-senior-computer-vision) to be redirected to the private repo.

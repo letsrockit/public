@@ -31,3 +31,10 @@ We are seeking a Senior Security Engineer who possesses expertise in cloud envir
 + We offer a flexible schedule with competitive pay, equity participation and health benefits, along with catered lunch, company off-sites, and game nights, as well as the opportunity to work with a world class team.
 
 
+### Company Info
+You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
+    
+We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
+created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
+    
+Please [authorize our Github OAuth2 application](https://letsrockit.co/users/auth/github?job_id=rgf0yvzpc29y-security-engineer-senior) to be redirected to the private repo.
