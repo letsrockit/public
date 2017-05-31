@@ -28,10 +28,4 @@ Agile/Lean, Pairing, TDD, A/B testing. These aren’t just buzzwords you’ve he
 + To Find Your Thing...and your next Coworker! Generous discounts to our site and substantial employee referral incentives keep you invested in the success of our product and our team.
 
 
-### Company Info
-You are currently viewing the public repo, which is limited in that company details have been ommitted from the job descriptions.  
-    
-We understand that this is a suboptimal user experience.  We are, for various reasons, unable to publicize the companies we work with, so we've
-created a **private un-anonymized repository** which is much more informative on who these companies are and what they're hiring for.  
-    
 ![Apply](https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763)
