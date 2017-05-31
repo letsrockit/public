@@ -23,4 +23,4 @@ To tackle this challenge, we are seeking an experienced Lead Front-end Developer
 +	Comfort working with CSS pre--processors (We use SASS) and strategies for writing maintaininable CSS
 
 
-![Apply](https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763)
+[<img src="https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763">](https://letsrockit.co/users/auth/github?job_id=s2lkzg9t-frontend-engineer-lead/)
