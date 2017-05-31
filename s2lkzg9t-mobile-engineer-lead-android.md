@@ -24,5 +24,4 @@ To tackle this challenge, we are seeking an experienced Android Engineer: someon
 + A passion for education technology
 
 
-test
-[<img src='https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763'>](https://letsrockit.ngrok.io/users/auth/github?job_id=s2lkzg9t-mobile-engineer-lead-android/)
+[<img src='https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763'>](https://letsrockit.ngrok.io/users/auth/github?job_id=s2lkzg9t-mobile-engineer-lead-android)

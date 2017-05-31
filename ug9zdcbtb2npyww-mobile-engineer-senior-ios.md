@@ -30,5 +30,4 @@ We work mostly distributed around the Bay Area and are nearing the end of our al
 + Experience working with AVFoundation, CoreBluetooth, OpenGL, JavascriptCore
 
 
-test
-[<img src='https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763'>](https://letsrockit.ngrok.io/users/auth/github?job_id=ug9zdcbtb2npyww-mobile-engineer-senior-ios/)
+[<img src='https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763'>](https://letsrockit.ngrok.io/users/auth/github?job_id=ug9zdcbtb2npyww-mobile-engineer-senior-ios)
