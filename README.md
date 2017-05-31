@@ -8,6 +8,9 @@
 [Mobile Engineer (Senior, Android)](qxvndxn0-mobile-engineer-senior-android.md)
 
 
+[DevOps Engineer](qxvndxn0-devops-engineer.md)
+
+
 #### San Francisco, CA  
 [Fullstack Engineer (Senior, Javascript)](uxvpza-fullstack-engineer-senior-javascript.md)
 
@@ -145,16 +148,6 @@
 [Backend Engineer (Senior)](vm94zxi-backend-engineer-senior.md)
 
 
-#### San Carlos, CA  
-[Data Scientist](vxbzdgfyda-data-scientist.md)
-
-
-[Fullstack Engineer (Ruby)](vxbzdgfyda-fullstack-engineer-ruby.md)
-
-
-[Backend Engineer (Python)](vxbzdgfyda-backend-engineer-python.md)
-
-
 #### Mountain View, CA  
 [ DevOps Engineer](rgf0yvzpc29y-devops-engineer.md)
 
@@ -227,6 +220,9 @@
 [Backend Engineer (Senior)](vmvsbzne-backend-engineer-senior.md)
 
 
+[Backend Engineer (Manager, C++)](vmvsbzne-backend-engineer-manager-c.md)
+
+
 #### San Francisco, CA  
 [Fullstack Engineer (Manager, Ruby)](vhjpbq-fullstack-engineer-manager-ruby.md)
 
@@ -249,13 +245,13 @@
 [AI (Lead, Machine Learning)](qwzmaxjt-ai-lead-machine-learning.md)
 
 
-[Backend Engineer (Senior, Python)](qwzmaxjt-backend-engineer-senior-python.md)
-
-
 [Mobile Engineer (Manager, Multi-platform)](qwzmaxjt-mobile-engineer-manager-multi-platform.md)
 
 
 [Fullstack Engineer (Lead, Python)](qwzmaxjt-fullstack-engineer-lead-python.md)
+
+
+[Backend Engineer (Senior, Python)](qwzmaxjt-backend-engineer-senior-python.md)
 
 
 #### Menlo Park, CA  
@@ -270,6 +266,10 @@
 
 
 [Infrastructure Engineer](u2vnbwvuda-infrastructure-engineer.md)
+
+
+#### San Francisco, CA  
+[Backend Engineer (Agnostic/Ruby)](qmxvyw-backend-engineer-agnostic-ruby.md)
 
 
 #### San Francisco, CA  
@@ -375,13 +375,6 @@
 
 
 #### San Francisco, CA  
-[Backend Engineer (Agnostic/Ruby/Golang)](yjh0yq-backend-engineer-agnostic-ruby-golang.md)
-
-
-[Frontend Engineer (React)](yjh0yq-frontend-engineer-react.md)
-
-
-#### San Francisco, CA  
 [Mobile Engineer (Lead, Android)](s2lkzg9t-mobile-engineer-lead-android.md)
 
 
@@ -397,10 +390,6 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (node.js)](tg9uzybhyw1l-fullstack-engineer-node-js.md)
-
-
-#### San Francisco, CA  
 [Fullstack Engineer (Senior, Ruby) ](umvkynviymxl-fullstack-engineer-senior-ruby.md)
 
 
@@ -412,5 +401,35 @@
 
 
 [Infrastructure Engineer (Senior)](ugxleenoyxq-infrastructure-engineer-senior.md)
+
+
+#### San Francisco, CA  
+[Hacker/Architect (Senior, C++, Python)](q29tbweuywk-hacker-architect-senior-c-python.md)
+
+
+#### San Francisco, CA  
+[Infrastructure Engineer (Senior)](rml2zvn0yxjz-infrastructure-engineer-senior.md)
+
+
+[Fullstack Engineer (Senior, Python)](rml2zvn0yxjz-fullstack-engineer-senior-python.md)
+
+
+#### San Francisco, CA  
+[Backend Engineer (Senior, PHP)](qwxsluluym94-backend-engineer-senior-php.md)
+
+
+#### Santa Clara, CA  
+[Systems Engineer (C/Golang)](u2hpznrmzwz0-systems-engineer-c-golang.md)
+
+
+[Security Engineer](u2hpznrmzwz0-security-engineer.md)
+
+
+#### San Francisco, CA  
+[Fullstack Engineer (Senior, node.js)](uhjvzglneq-fullstack-engineer-senior-node-js.md)
+
+
+#### San Francisco, CA  
+[Fullstack Engineer (node.js)](tg9uzybhyw1l-fullstack-engineer-node-js.md)
 
 
