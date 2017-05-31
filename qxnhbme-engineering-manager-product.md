@@ -26,4 +26,4 @@ As a manager on the product engineering team, you’ll focus on developing the e
 Does the above sound like it might be you? Then we’d love to hear from you. Our goal is to provide a hiring and working experience in which all people know they are equally respected and valued. So, whatever it is that makes you unique -- your gender identity or expression, sexual orientation, religion, ethnicity, age, citizenship, educational background, socioeconomic status -- we value it, and we’d love to see what you might add to our team.
 
 
-[<img src="https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763">](https://letsrockit.co/users/auth/github?job_id=qxnhbme-engineering-manager-product/)
+[<img src="https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763">](https://localhost:3000/users/auth/github?job_id=qxnhbme-engineering-manager-product/)

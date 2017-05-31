@@ -19,4 +19,4 @@ We are hiring full-stack software engineers. You'll be working directly alongsid
 +	Ability to think critically and independently.
 
 
-[<img src="https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763">](https://letsrockit.co/users/auth/github?job_id=vhjpbq-fullstack-engineer-manager-ruby/)
+[<img src="https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763">](https://localhost:3000/users/auth/github?job_id=vhjpbq-fullstack-engineer-manager-ruby/)

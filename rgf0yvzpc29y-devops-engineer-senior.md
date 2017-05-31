@@ -29,4 +29,4 @@ As a DevOps Engineer you will be part of the team that manages releases and depl
 + We offer a flexible schedule with competitive pay, equity participation and health benefits, along with catered lunch, company off-sites, and game nights, as well as the opportunity to work with a world class team.
 
 
-[<img src="https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763">](https://letsrockit.co/users/auth/github?job_id=rgf0yvzpc29y-devops-engineer-senior/)
+[<img src="https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763">](https://localhost:3000/users/auth/github?job_id=rgf0yvzpc29y-devops-engineer-senior/)
