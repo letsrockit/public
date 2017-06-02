@@ -18,4 +18,4 @@ Our senior software engineer will lead the backend team in it’s valiant missio
 + Capable to architect and develop a full-stack system.
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763'>](https://letsrockit.ngrok.io/users/auth/github?job_id=qmfuam8-backend-engineer-senior-ruby)
+[<img src='https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763'>](https://letsrockit.co/users/auth/github?job_id=qmfuam8-backend-engineer-senior-ruby)
