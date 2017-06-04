@@ -179,6 +179,10 @@
 [Frontend Engineer (Senior, Angular)](wmlwy2fy-frontend-engineer-senior-angular.md)
 
 
+#### New York, NY  
+[Backend Engineer (node.js)](tg95ewfs-backend-engineer-node-js.md)
+
+
 #### San Francisco, CA  
 [Fullstack Engineer (Senior, Ruby) ](umvkynviymxl-fullstack-engineer-senior-ruby.md)
 
@@ -434,5 +438,9 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (node.js)](tg9uzybhyw1l-fullstack-engineer-node-js.md)
+
+
+#### San Francisco, CA  
+[Fullstack Engineer (Senior, Python)](rglhbfbhza-fullstack-engineer-senior-python.md)
 
 
