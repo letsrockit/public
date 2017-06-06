@@ -148,10 +148,6 @@
 [Backend Engineer (Senior)](vm94zxi-backend-engineer-senior.md)
 
 
-#### San Francisco, CA  
-[Search Engineer (Senior)](u2hpchq-search-engineer-senior.md)
-
-
 #### Mountain View, CA  
 [ DevOps Engineer](rgf0yvzpc29y-devops-engineer.md)
 
@@ -442,5 +438,9 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (Senior, Python)](rglhbfbhza-fullstack-engineer-senior-python.md)
+
+
+#### San Francisco, CA  
+[Search Engineer (Senior)](u2hpchq-search-engineer-senior.md)
 
 
