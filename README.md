@@ -367,9 +367,6 @@
 [Mobile Engineer (iOS)](uelyifn5c3rlbxm-mobile-engineer-ios.md)
 
 
-[Test Engineer (Senior)](uelyifn5c3rlbxm-test-engineer-senior.md)
-
-
 [Designer (UX)](uelyifn5c3rlbxm-designer-ux.md)
 
 
