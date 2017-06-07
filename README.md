@@ -145,6 +145,10 @@
 
 
 #### San Francisco, CA  
+[Fullstack Engineer (Ruby)](umvwywlyugfs-fullstack-engineer-ruby.md)
+
+
+#### San Francisco, CA  
 [Search Engineer (Senior)](u2hpchq-search-engineer-senior.md)
 
 
