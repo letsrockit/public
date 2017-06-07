@@ -273,6 +273,13 @@
 [Fullstack Engineer (Lead, Python)](qwzmaxjt-fullstack-engineer-lead-python.md)
 
 
+#### Palo Alto, CA  
+[Frontend Engineer (JQuery)](t25lienvbmnlcm4-frontend-engineer-jquery.md)
+
+
+[Product Manager](t25lienvbmnlcm4-product-manager.md)
+
+
 #### Redwood City, CA  
 [Frontend Engineer (Senior, React)](ugxleenoyxq-frontend-engineer-senior-react.md)
 
