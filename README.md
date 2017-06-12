@@ -302,6 +302,9 @@
 [Frontend Engineer (JQuery)](t25lienvbmnlcm4-frontend-engineer-jquery.md)
 
 
+[Data Engineer](t25lienvbmnlcm4-data-engineer.md)
+
+
 #### Redwood City, CA  
 [Frontend Engineer (Senior, React)](ugxleenoyxq-frontend-engineer-senior-react.md)
 
@@ -434,25 +437,6 @@
 
 
 [Backend Engineer (Senior, C++)](q3j1axnl-backend-engineer-senior-c.md)
-
-
-#### San Francisco, CA  
-[DevOps Engineer (Senior)](tgl2zvjhbxa-devops-engineer-senior.md)
-
-
-[Fullstack Engineer (Senior)](tgl2zvjhbxa-fullstack-engineer-senior.md)
-
-
-[Data Scientist](tgl2zvjhbxa-data-scientist.md)
-
-
-[Backend Engineer (Team Lead)](tgl2zvjhbxa-backend-engineer-team-lead.md)
-
-
-[Fullstack Engineer (Team Lead)](tgl2zvjhbxa-fullstack-engineer-team-lead.md)
-
-
-[Data Engineer (Senior)](tgl2zvjhbxa-data-engineer-senior.md)
 
 
 #### San Francisco, CA  
