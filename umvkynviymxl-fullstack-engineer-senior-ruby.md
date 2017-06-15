@@ -1,4 +1,4 @@
-## Fullstack Engineer (Senior, Ruby) 
+## Fullstack Engineer (Senior, Agnostic) 
 #### San Francisco, CA
 
 ### Overview

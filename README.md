@@ -201,7 +201,7 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (Senior, Ruby) ](umvkynviymxl-fullstack-engineer-senior-ruby.md)
+[Fullstack Engineer (Senior, Agnostic) ](umvkynviymxl-fullstack-engineer-senior-ruby.md)
 
 
 #### San Francisco, CA  
