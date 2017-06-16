@@ -459,6 +459,12 @@
 [Backend Engineer (Agnostic)](sg91c2vwyxj0eq-backend-engineer-agnostic.md)
 
 
+[ Test Engineer](sg91c2vwyxj0eq-test-engineer.md)
+
+
+[Mobile Engineer (Senior, Android)](sg91c2vwyxj0eq-mobile-engineer-senior-android.md)
+
+
 #### San Francisco, CA  
 [Mobile Engineer (Lead, Android)](s2lkzg9t-mobile-engineer-lead-android.md)
 
