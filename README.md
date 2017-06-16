@@ -447,6 +447,9 @@
 
 
 #### San Francisco, CA  
+[Designer (UI/UX)](sg91c2vwyxj0eq-designer-ui-ux.md)
+
+
 [Data Engineer](sg91c2vwyxj0eq-data-engineer.md)
 
 
