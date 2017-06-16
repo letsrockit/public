@@ -450,6 +450,12 @@
 [Data Engineer](sg91c2vwyxj0eq-data-engineer.md)
 
 
+[DevOps Engineer](sg91c2vwyxj0eq-devops-engineer.md)
+
+
+[Backend Engineer (Agnostic)](sg91c2vwyxj0eq-backend-engineer-agnostic.md)
+
+
 #### San Francisco, CA  
 [Mobile Engineer (Lead, Android)](s2lkzg9t-mobile-engineer-lead-android.md)
 
