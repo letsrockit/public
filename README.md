@@ -302,6 +302,9 @@
 [Frontend Engineer (JQuery)](t25lienvbmnlcm4-frontend-engineer-jquery.md)
 
 
+[Designer (UI/UX)](t25lienvbmnlcm4-designer-ui-ux.md)
+
+
 [Data Engineer](t25lienvbmnlcm4-data-engineer.md)
 
 
