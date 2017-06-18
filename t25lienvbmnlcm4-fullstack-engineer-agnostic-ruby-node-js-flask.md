@@ -1,5 +1,5 @@
-## Fullstack Engineer (Agnostic/ Ruby/ Node.js/ Flask) 
-#### Palo Alto, CA
+
+
 
 ### Overview
 We are a startup based in Palo Alto. We specialize in Artificial Intelligence for Disasters. Our platform empowers the most critical decisions during the first moments of a crisis.

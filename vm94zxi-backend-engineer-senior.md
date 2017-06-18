@@ -1,5 +1,5 @@
-## Backend Engineer (Senior)
-#### San Francisco, CA
+
+
 
 ### Overview
 We are one of the largest voice applications in the world and we need your help to keep growing. We are solving hard problems at massive scale with Node.js, Riak, and Redis. We are generating a lot of data in the process - more than 25 billion events every

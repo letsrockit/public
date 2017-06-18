@@ -1,5 +1,5 @@
-## DevOps Engineer (Senior)
-#### Mountain View, CA
+
+
 
 ### Overview
 Our company is a next generation security company that utilizes industry leading unsupervised machine learning to detect fraudulent activity for financial transactions, mobile user acquisition, social networks, commerce and money laundering. Our solution is used by some of the largest internet properties in the world, including Yelp, Pinterest, Momo, King and IGG, to protect them from the ever-increasing risk of fraud. Our award-winning software is powered by a team of world-class experts in big data, security, and scalable infrastructure. Our culture is open, positive, collaborative, and results driven. Come join us!

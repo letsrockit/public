@@ -1,5 +1,5 @@
-## Infrastructure Engineer (Senior, Python) 
-#### San Francisco, CA
+
+
 
 ### Overview
 We build software that augments human intelligence. We're defining a new market and pioneering technology that helps strategic thinkers make decisions in a fraction of the time. Our algorithms reveal patterns in large, unstructured datasets and then generate beautiful, actionable visualizations.

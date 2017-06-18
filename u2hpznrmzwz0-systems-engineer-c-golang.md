@@ -1,5 +1,5 @@
-## Systems Engineer (C/Golang)
-#### Santa Clara, CA
+
+
 
 ### Overview
 Software is eating the world! We are moving from a world of software artisans to an age where everyone is developing software and connecting it directly to the Internet (e.g., SaaS, IoT, self-driving cars, and mobile applications). The defense-in-depth architecture developed over the last 2 decades doesn't work for cloud based workloads. This needs a re-think - and it is a $15B+ opportunity today with analysts expecting this to be the fastest growing segment of security in the next decade. 

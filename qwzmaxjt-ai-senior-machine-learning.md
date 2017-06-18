@@ -1,5 +1,5 @@
-## AI (Senior, Machine Learning)
-#### San Francisco, CA
+
+
 
 ### Overview
 We are a data-driven financial technology company. In our quest to build a better financial world, one of our key goals is to revolutionize the credit system by creating a more holistic, accurate, and democratic alternative to existing credit scoring methods. This is what our Machine Learning Engineers work on. They build—from prototype through to production—the credit and fraud models that decide who we lend to. The Machine Learning Engineer is a new position within the Data Science team that will focus on developing production services to support the models and allow them to make decisions in real time.

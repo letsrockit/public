@@ -1,5 +1,5 @@
-## Frontend Engineer (Senior, React)
-#### Redwood City, CA
+
+
 
 ### Overview
 We are seeking a senior engineer to help develop and ship a state of the art cross platform chat experience. Reporting to the CTO and working directly with the founders and other members of the technical staff and product designers, you will be architecting and authoring (possibly at times exotic) features for a continuously deployable client.

@@ -1,5 +1,5 @@
-## Hardware Engineer (Senior, Firmware/Embedded)
-#### Belmont, CA
+
+
 
 ### Job Description
 The Hardware Engineer will own the vision and direction for performance, reliability, and deployment of all software and OS that runs on the vehicle. You will integrate everything from high-level algorithms with low-level drivers.

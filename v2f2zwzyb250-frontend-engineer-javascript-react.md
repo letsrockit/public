@@ -1,5 +1,5 @@
-## Frontend Engineer (Javascript/React)
-#### Palo Alto, CA
+
+
 
 ### Quick Summary
 

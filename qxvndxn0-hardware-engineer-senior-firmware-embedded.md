@@ -1,5 +1,5 @@
-## Hardware Engineer (Senior, Firmware/Embedded)
-#### San Francisco, CA
+
+
 
 ### Overview
 We are seeking an Embedded Software Engineer who will contribute in architecting, writing and deploying the next generation of our product firmware.  The ideal candidate will have experience developing complex firmware architectures with and without operating systems, paying particular attention to low power consumption.  

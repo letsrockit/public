@@ -1,5 +1,5 @@
-## Test Engineer (Senior)
-#### San Francisco, CA
+
+
 
 ### Overview
 We are seeking an experienced Software Quality & Test Engineer to help bring a new type of consumer video camera to market, which enables anyone to shoot video like a pro. The System QA Engineer will be responsible for planning and executing integrated system testing with an emphasis on hardware-centric software risks. This includes cross-functional work with engineering and other quality assurance teams to identify risk areas and testing responses.

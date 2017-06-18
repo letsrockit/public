@@ -1,5 +1,5 @@
-## Fullstack Engineer (Agnostic/Python/Javascript) 
-#### San Francisco, CA
+
+
 
 ### Overview
 We are building the software layer that powers all biological research. Our customers are solving humanity’s most pressing challenges, such as disease, renewable energy, clean water, and hunger. We enable them to collaborate and move more efficiently.

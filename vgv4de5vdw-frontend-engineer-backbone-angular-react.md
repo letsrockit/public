@@ -1,5 +1,5 @@
-## Frontend Engineer (BackBone/Angular/React)
-#### San Francisco, CA
+
+
 
 ### Job Description
 We are looking for an inspired, motivated Frontend Engineer to join our Growth team and help us in our mission of building a product that disrupts the wireless industry. You’re a natural problem solver with serious technical chops. It’s second nature to understand the business realities and translate them into technical specs. At our company, the front-end team ensures our client side is a scalable and an exceptional experience. You will lead the technical vision and roadmap by engaging with other developers to improve the architecture.

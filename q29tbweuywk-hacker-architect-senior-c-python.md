@@ -1,5 +1,5 @@
-## Hacker/Architect (Senior, C++, Python)
-#### San Francisco, CA
+
+
 
 ### Overview
 Here, we don't care about the source of your education or your traditional puffed up resume, we care about your abilities. 

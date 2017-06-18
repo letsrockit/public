@@ -1,5 +1,5 @@
-## Backend Engineer (node.js) 
-#### San Francisco, CA
+
+
 
 ### Overview
 We’re the Internet of Loyalty, on a mission to connect the largest programs around the world. We provide a common ground for interoperability, accelerate the speed at which customers can earn and redeem value, give tools to programs to fine tune incentivisation, and smartly react to the varied interests and behaviors of customers.

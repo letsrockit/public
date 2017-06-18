@@ -1,5 +1,5 @@
-## Frontend Engineer (Lead)
-#### San Francisco, CA
+
+
 
 ### Quick Summary
 We seek to fundamentally change how K-12 classrooms around the world use technology. Education technology is increasingly fragmented across various applications, software, and services. This undermines the utility of technology for educators, leading to cognitive overload, frustration, and ultimately rejection. As a result, technological innovation remains locked out of the classroom.

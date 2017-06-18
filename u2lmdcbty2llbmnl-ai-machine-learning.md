@@ -1,5 +1,5 @@
-## AI (Machine Learning)
-#### San Francisco, CA
+
+
 
 ### Overview
 We leverage massive scale machine learning and our global network of data predicts fraudulent behavior with unparalleled accuracy. Having seen strong traction from customers like Airbnb, Yelp, OpenTable, Twitter, and hundreds more, we are rapidly expanding in all departments! Launched & run by ex-Googlers and top executive staff with diverse backgrounds, we are looking to add very strong talent to the team. Our investors include First Round, Union Square Ventures, Spark Capital and Insight Venture Partners.

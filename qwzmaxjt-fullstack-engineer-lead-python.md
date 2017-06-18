@@ -1,4 +1,4 @@
-## Fullstack Engineer (Lead, Python)
+
 ##### San Francisco, CA
 
 ### Overview

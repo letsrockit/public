@@ -1,5 +1,5 @@
-## Frontend Engineer (Javascript)
-#### San Francisco, CA
+
+
 
 ### Summary 
 The Premier Provider of online management software to the entertainment industry. This company provides a secure, content-streaming SaaS solution that supports images, audio, standard and high definition video.  The product dramatically increases the efficiency of today’s distributed creative professionals by reducing collaboration, review, and approval cycle time in all phases of the creative process: pre-production, production, and post-production. The company is a privately held, rapidly growing company located in downtown San Francisco.  

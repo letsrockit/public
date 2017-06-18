@@ -1,5 +1,5 @@
-## Frontend Engineer (Lead, Angular)
-#### Berkeley, CA
+
+
 
 ### Quick Summary
 We have developed the first secure machine intelligence platform. We have partnered with one of the largest health insurance companies in the country, raised $12.6M in capital, and built a team of researchers, engineers, and advisors who are world experts in the intersection of cryptography and machine learning.

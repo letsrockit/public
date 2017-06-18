@@ -1,19 +1,19 @@
-## Backend Engineer (Senior, Ruby)
-#### San Francisco, CA
+
+
 
 ### Overview
 We are a young San Francisco-based startup building the future of television — letting you watch your favorite shows on all the devices you care about with intelligent search, insightful discovery, and effortless sharing. Company's leadership consists of founding team members from Facebook and Meraki, and brings deep industry experience to the team. Our company is backed by NEA and HBO, among others.
 
-#### Necessity is the mother of invention
+
 Our company was born in a Harvard dorm room, where cable TV wasn’t offered and the over-the-air broadcast couldn’t penetrate the walls of the 300-year-old brick residence halls. The founders wanted to watch TV around campus, so they wrapped their room in aluminum foil to boost the signal, and connected it to a server to stream it over the campus network.
 
-#### We’ve moved from aluminum foil to silicon
+
 Our technology may have changed, but our mission is the same. We are building the TV experience we wanted for ourselves. Today, hundreds of thousands of students can use our product to watch all the live and recorded television they love on all of their favorite devices, and that’s just the beginning.
 
-#### Company and Culture
+
 We’re a small team that puts our product experience first. We foster a flexible work environment that is supportive but allows for autonomy so that everyone on the team can help us build towards our vision. Our engineers own what they build from start to finish. We ship to production multiple times per day and keep unnecessary process to a minimum so we can maintain our pace of rapid development. We value pragmatism, having pride in our work, and deep transparency at all levels.
 
-#### Hack the Full Stack
+
 Our engineers hack up and down the technology stack. It’s not uncommon for our engineer to go from backend coding to user experience design, from the video encoding pipeline to system scalability, from site maintenance to iOS/Android development.
 
 We are actively hiring engineers who are looking to build a completely new kind of product and who have a passion for back-end, firmware, or front-end development. All engineering positions are open to both recent college grads and experienced engineers / Ph.D.’s.

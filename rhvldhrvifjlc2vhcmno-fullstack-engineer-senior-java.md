@@ -1,5 +1,5 @@
-## Fullstack Engineer (Senior, Java)
-#### San Francisco, CA
+
+
 
 ### Overview
 We are seeking a superstar to join our industry leading technology team.

@@ -1,5 +1,5 @@
-## Mobile Engineer (Senior, iOS)
-#### Palo Alto, CA
+
+
 
 ### Overview
 Social media has been great at keeping us in touch with everyone, but are we truly together? We believe that there’s a new movement in connectedness coming. A new social system in the digital world that can actually help us feel closer to those who matter most in our lives. Where real friends can share real moments in real time. This is an opportunity at a global scale, and one that is the next logical step in the way we communicate, share, talk, and spend time together online.

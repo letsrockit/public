@@ -1,5 +1,5 @@
-## Backend Engineer (Senior, Python)
-#### San Francisco, CA
+
+
 
 ### Overview
 We’re looking for an engineer to lead the backend development on a new strategic project that aims to deliver actionable insights to our users based on their financial data.

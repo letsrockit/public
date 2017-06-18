@@ -1,5 +1,5 @@
-## Fullstack Engineer (Senior, Ruby)
-#### Redwood City, CA
+
+
 
 ### Overview
 We are a young e-commerce company, in the emerging field of g-commerce. We deeply focused on the extraordinary experience of delivering awesome gifts. We're working creatively to make sending and receiving gifts a fun, unforgettable experience digitally and physically. We're a rapidly growing, highly-collaborative start-up with room for every individual to have a massive impact.

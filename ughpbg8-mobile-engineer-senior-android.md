@@ -1,5 +1,5 @@
-## Mobile Engineer (Senior, Android)
-#### San Francisco, CA
+
+
 
 ### What you will do
 + Architecting, building, and owning the Android mobile experience

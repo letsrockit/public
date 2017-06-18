@@ -1,5 +1,5 @@
-## Backend Engineer (Agnostic, .net)
-#### San Francisco, CA
+
+
 
 ### Quick Summary
 The pay cycle hasn't evolved since the industrial revolution. It’s time to shake things up. Waiting for payday is costing people over $50 billion in fees. That’s shameful. So, we're building the smarter, faster, and better way to get your pay.

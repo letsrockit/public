@@ -1,5 +1,5 @@
-## Mobile Engineer (iOS) 
-#### San Francisco, CA
+
+
 
 ### Overview
 People spend 4 hours a day consuming content on their mobile phones and at our company, we’d like to fundamentally change how people share interesting moments from their digital world. We let you record a 15-second video reaction with overlays for your face and voice over anything you see on your phone from that awkward text message to your fav playlist to crazy news. Instagram and Snapchat have built massive networks around the front and back cameras of your phone. We pioneered mobile screen capture and are building a social network for the third camera on your phone: the screen. We’re a 25 person team and have landed $35M in funding.

@@ -1,5 +1,5 @@
-## Mobile Engineer (Lead, Android)
-#### San Francisco, CA
+
+
 
 ### Overview
 Our company seeks to fundamentally change how K-12 classrooms around the world use technology. Education technology is increasingly fragmented across various applications, software, and services. This undermines the utility of technology for educators, leading to cognitive overload, frustration, and ultimately rejection. We are building a classroom system helping teachers integrate all content, curriculum, communication and analytics.

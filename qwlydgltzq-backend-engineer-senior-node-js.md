@@ -1,5 +1,5 @@
-## Backend Engineer (Senior, node.js)
-#### San Francisco, CA
+
+
 
 ### Job Description
 As a senior backend engineer at our company you will be responsible for the REST API that clients use for transactional operations, and a persistent websocket service for low latency messaging. You will help build and maintain microservices that dispatch push notifications to mobile clients, handle messaging, analytics, and other core business features.

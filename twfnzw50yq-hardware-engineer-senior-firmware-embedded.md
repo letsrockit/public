@@ -1,5 +1,5 @@
-## Hardware Engineer (Senior, Firmware/Embedded)
-#### San Francisco, CA
+
+
 
 ### Overview
 We are seeking an experienced Firm Engineer to help build a new type of consumer video camera that enables anyone to shoot video like a pro. The person in this role will need to be a problem-solver, exceptionally organized, a self-starter and detail oriented. Additionally, the ideal candidate will have exceptional communication skills. This position is a full-time role located in San Francisco, CA.

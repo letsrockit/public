@@ -1,5 +1,5 @@
-## AI (Lead, Machine Learning)
-#### San Francisco, CA
+
+
 
 ### Overview
 Our company is a data-driven financial technology company. Machine learning is core to our decision making processes, from validating identities and detecting fraud, to credit underwriting and servicing. We seek to revolutionize the credit system by building higher quality alternatives to incumbent systems and methods.

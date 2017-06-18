@@ -1,5 +1,5 @@
-## Backend Engineer (C++)
-#### Redwood City, CA
+
+
 
 ### What we look for
 + Have product experience at an established Startup, or one of the big companies (Google, Facebook, Twitter, Apple, Uber, etc).

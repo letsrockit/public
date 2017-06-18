@@ -1,5 +1,5 @@
-## Product Manager (Director)
-#### San Francisco, CA
+
+
 
 ### Quick Summary
 We are a digital nutrition platform that takes the guesswork out of healthy eating with personalized meal recommendations based on biometrics and food preferences. We work with employers, health plans and wellness companies to reduce chronic disease and improve the health of their employees and members. Our solution delivers real-time support for all the places a person makes food decisions – at home, at work, at the grocery story, and at restaurants. Pointing users to the healthiest recipe and menu choices reduces the likelihood of making poor food choices based on convenience, cost and other factors.

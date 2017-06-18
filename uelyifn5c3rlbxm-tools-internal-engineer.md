@@ -1,5 +1,5 @@
-## Tools / Internal Engineer
-#### San Francisco, CA
+
+
 
 ### Quick Summary
 We are a growing San Francisco company providing industry-leading secure collaboration products

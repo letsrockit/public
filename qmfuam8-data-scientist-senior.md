@@ -1,5 +1,5 @@
-## Data Scientist (Senior)
-#### Redwood City, CA
+
+
 
 ### Job Description
 This position will cover a wide variety of fields within data science, ranging from data analytics, to event detection and sentiment analysis. The Senior Data Scientist will be working closely with the Chief Data Scientist and Data Engineers to help take projects from stages of conception to fully tested and implemented.

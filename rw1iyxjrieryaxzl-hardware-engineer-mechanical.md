@@ -1,5 +1,5 @@
-## Hardware Engineer (Mechanical)
-#### Belmont, CA
+
+
 
 ### Job Description
 You will design state-of-the-art control algorithms intended to move heavy weight vehicles through complex and dynamic environments. We will put your algorithms to the test in simulation and in the real world.
