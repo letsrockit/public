@@ -64,9 +64,6 @@
 
 
 #### Palo Alto, CA  
-[Mobile Engineer (Senior, iOS)](qwlydgltzq-mobile-engineer-senior-ios.md)
-
-
 [Backend Engineer (Senior, node.js)](qwlydgltzq-backend-engineer-senior-node-js.md)
 
 
@@ -267,19 +264,10 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (React, JS, Java)](u2lmdcbty2llbmnl-fullstack-engineer-react-js-java.md)
-
-
 [ Site Reliability Engineer (Senior, Java)](u2lmdcbty2llbmnl-site-reliability-engineer-senior-java.md)
 
 
-[Backend Engineer (Java / Golang)](u2lmdcbty2llbmnl-backend-engineer-java-golang.md)
-
-
 [AI (Machine Learning)](u2lmdcbty2llbmnl-ai-machine-learning.md)
-
-
-[Mobile Engineer (Senior, iOS)](u2lmdcbty2llbmnl-mobile-engineer-senior-ios.md)
 
 
 #### San Francisco, CA  
