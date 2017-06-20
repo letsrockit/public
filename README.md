@@ -102,13 +102,6 @@
 
 
 #### San Francisco, CA  
-[Data Engineer (Lead)](rhvldhrvifjlc2vhcmno-data-engineer-lead.md)
-
-
-[Fullstack Engineer (Senior, Java)](rhvldhrvifjlc2vhcmno-fullstack-engineer-senior-java.md)
-
-
-#### San Francisco, CA  
 [Backend Engineer (Senior, Ruby)](vghlifjlywxszwfs-backend-engineer-senior-ruby.md)
 
 
@@ -124,16 +117,6 @@
 
 #### San Francisco, CA  
 [Search Engineer (Senior)](u2hpchq-search-engineer-senior.md)
-
-
-#### Mountain View, CA  
-[ DevOps Engineer](rgf0yvzpc29y-devops-engineer.md)
-
-
-[Security Engineer (Senior)](rgf0yvzpc29y-security-engineer-senior.md)
-
-
-[ DevOps Engineer (Senior)](rgf0yvzpc29y-devops-engineer-senior.md)
 
 
 #### San Francisco, CA  
@@ -285,9 +268,6 @@
 
 
 [Hardware Engineer (Mechanical)](rw1iyxjrieryaxzl-hardware-engineer-mechanical.md)
-
-
-[Infrastructure Engineer](rw1iyxjrieryaxzl-infrastructure-engineer.md)
 
 
 [DevOps Engineer](rw1iyxjrieryaxzl-devops-engineer.md)
