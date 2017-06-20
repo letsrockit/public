@@ -93,10 +93,6 @@
 [Backend Engineer (C++)](uglsb3quywk-backend-engineer-c.md)
 
 
-#### Menlo Park, CA  
-[Hardware Engineer (Firmware/Embedded)](twf0dgvybmv0-hardware-engineer-firmware-embedded.md)
-
-
 #### Palo Alto, CA  
 [Backend Engineer (Agnostic, .net)](qwn0axzlag91cnm-backend-engineer-agnostic-net.md)
 
@@ -119,6 +115,10 @@
 [Search Engineer (Senior)](u2hpchq-search-engineer-senior.md)
 
 
+#### Redwood City, CA  
+[Backend Engineer (Senior, Java)](r2xpbnq-backend-engineer-senior-java.md)
+
+
 #### San Francisco, CA  
 [Fullstack Engineer (Senior, Python)](rglhbfbhza-fullstack-engineer-senior-python.md)
 
@@ -129,10 +129,6 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (Senior, Agnostic) ](umvkynviymxl-fullstack-engineer-senior-agnostic.md)
-
-
-#### San Francisco, CA  
-[Fullstack Engineer (Ruby)](twf2zw5saw5r-fullstack-engineer-ruby.md)
 
 
 #### San Francisco, CA  
@@ -158,6 +154,13 @@
 
 
 [Fullstack Engineer (React/Golang)](u2hpznqgvgvjag5vbg9nawvz-fullstack-engineer-react-golang.md)
+
+
+#### Redwood City, CA  
+[Frontend Engineer (Senior)](twfuienyyxrlcw-frontend-engineer-senior.md)
+
+
+[Fullstack Engineer (Senior, Ruby)](twfuienyyxrlcw-fullstack-engineer-senior-ruby.md)
 
 
 #### Campbell, CA  
@@ -242,10 +245,6 @@
 [Backend Engineer (Senior, PHP)](qwxsluluym94-backend-engineer-senior-php.md)
 
 
-#### Berkeley, CA  
-[Frontend Engineer (Lead, Angular)](tgvhcfllyxi-frontend-engineer-lead-angular.md)
-
-
 #### San Francisco, CA  
 [ Site Reliability Engineer (Senior, Java)](u2lmdcbty2llbmnl-site-reliability-engineer-senior-java.md)
 
@@ -321,13 +320,6 @@
 
 
 #### San Francisco, CA  
-[Mobile Engineer (Android)](s2fty29yza-mobile-engineer-android.md)
-
-
-[Mobile Engineer (iOS)](s2fty29yza-mobile-engineer-ios.md)
-
-
-#### San Francisco, CA  
 [Infrastructure Engineer](vgfrda-infrastructure-engineer.md)
 
 
@@ -354,13 +346,6 @@
 
 
 [Mobile Engineer (Senior, Android)](sg91c2vwyxj0eq-mobile-engineer-senior-android.md)
-
-
-#### San Francisco, CA  
-[Mobile Engineer (Lead, Android)](s2lkzg9t-mobile-engineer-lead-android.md)
-
-
-[Frontend Engineer (Lead)](s2lkzg9t-frontend-engineer-lead.md)
 
 
 #### San Francisco, CA  
