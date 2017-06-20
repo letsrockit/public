@@ -129,10 +129,6 @@
 [Search Engineer (Senior)](u2hpchq-search-engineer-senior.md)
 
 
-#### San Francisco, CA  
-[Fullstack Engineer (Lead, node.js)](u3vwzxjodw1hbg-fullstack-engineer-lead-node-js.md)
-
-
 #### Mountain View, CA  
 [ DevOps Engineer](rgf0yvzpc29y-devops-engineer.md)
 
@@ -161,6 +157,10 @@
 
 #### San Francisco, CA  
 [Talent Detective](um9ja0luifjly3j1axrpbmc-talent-detective.md)
+
+
+#### San Francisco, CA  
+[Fullstack Engineer (Lead, node.js)](u3vwzxjodw1hbg-fullstack-engineer-lead-node-js.md)
 
 
 #### San Francisco, CA  
@@ -230,10 +230,6 @@
 [Product Manager](t25lienvbmnlcm4-product-manager.md)
 
 
-#### San Francisco, CA  
-[Backend Engineer (Agnostic/Ruby)](qmxvyw-backend-engineer-agnostic-ruby.md)
-
-
 #### Redwood City, CA  
 [Frontend Engineer (Senior, React)](ugxleenoyxq-frontend-engineer-senior-react.md)
 
@@ -256,6 +252,10 @@
 
 
 [Infrastructure Engineer](u2vnbwvuda-infrastructure-engineer.md)
+
+
+#### San Francisco, CA  
+[Backend Engineer (Agnostic/Ruby)](qmxvyw-backend-engineer-agnostic-ruby.md)
 
 
 #### San Francisco, CA  
@@ -292,6 +292,19 @@
 [Frontend Engineer (Senior, Angular)](u2f2b25pea-frontend-engineer-senior-angular.md)
 
 
+#### Belmont, CA  
+[Hardware Engineer (Senior, Firmware/Embedded)](rw1iyxjrieryaxzl-hardware-engineer-senior-firmware-embedded.md)
+
+
+[Hardware Engineer (Mechanical)](rw1iyxjrieryaxzl-hardware-engineer-mechanical.md)
+
+
+[Infrastructure Engineer](rw1iyxjrieryaxzl-infrastructure-engineer.md)
+
+
+[DevOps Engineer](rw1iyxjrieryaxzl-devops-engineer.md)
+
+
 #### Santa Clara, CA  
 [Systems Engineer (C/Golang)](u2hpznrmzwz0-systems-engineer-c-golang.md)
 
@@ -310,23 +323,10 @@
 [Frontend Engineer (Javascript/React)](v2f2zwzyb250-frontend-engineer-javascript-react.md)
 
 
-[Backend Engineer (Principal, Java)](v2f2zwzyb250-backend-engineer-principal-java-57f24898-613e-41d7-8dac-50821635ec9f.md)
+[Backend Engineer (Principal, Java)](v2f2zwzyb250-backend-engineer-principal-java-89757179-6c67-4609-bed2-2e7ee1d84c93.md)
 
 
 [Backend Engineer (Senior, Java)](v2f2zwzyb250-backend-engineer-senior-java.md)
-
-
-#### Belmont, CA  
-[Hardware Engineer (Senior, Firmware/Embedded)](rw1iyxjrieryaxzl-hardware-engineer-senior-firmware-embedded.md)
-
-
-[Hardware Engineer (Mechanical)](rw1iyxjrieryaxzl-hardware-engineer-mechanical.md)
-
-
-[Infrastructure Engineer](rw1iyxjrieryaxzl-infrastructure-engineer.md)
-
-
-[DevOps Engineer](rw1iyxjrieryaxzl-devops-engineer.md)
 
 
 #### San Francisco, CA  
