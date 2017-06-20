@@ -26,10 +26,6 @@
 
 
 #### San Francisco, CA  
-[Product Manager (Director)](wmlwb25nbw-product-manager-director.md)
-
-
-#### San Francisco, CA  
 [Mobile Engineer (iOS) ](twfnzw50yq-mobile-engineer-ios.md)
 
 
@@ -105,9 +101,6 @@
 
 
 [DevOps Engineer (Manager)](vghlifjlywxszwfs-devops-engineer-manager.md)
-
-
-[Director, Platform](vghlifjlywxszwfs-director-platform.md)
 
 
 #### San Francisco, CA  
@@ -284,10 +277,6 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (Agnostic, Python)](sgldagfybgll-fullstack-engineer-agnostic-python.md)
-
-
-#### Palo Alto, CA  
-[Backend Engineer (Senior, Java)](v2f2zwzyb250-backend-engineer-senior-java.md)
 
 
 #### San Francisco, CA  
