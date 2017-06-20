@@ -1,5 +1,5 @@
-## QA Lead
-#### San Francisco, CA
+
+
 
 ### Overview
 The data science team drives data-driven strategy and decision making across the company through predictive analytics, testing and optimization.
@@ -28,3 +28,4 @@ We are looking for a QA Lead Developer to join our development team and help us 
 + A bachelor’s degree in Computer Science, Computer Engineering or Software Engineering or equivalent experience
 
 
+[<img src='https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763'>](https://letsrockit.co/users/auth/github?job_id=vgv4de5vdw-qa-lead)

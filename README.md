@@ -89,6 +89,9 @@
 [ Frontend Engineer (BackBone/Angular/React)](vgv4de5vdw-frontend-engineer-backbone-angular-react.md)
 
 
+[Test Engineer (Lead)](vgv4de5vdw-qa-lead.md)
+
+
 #### Redwood City, CA  
 [Backend Engineer (C++)](uglsb3quywk-backend-engineer-c.md)
 
@@ -98,7 +101,7 @@
 
 
 #### San Francisco, CA  
-[Backend Engineer (Senior, Ruby)](vghlifjlywxszwfs-backend-engineer-senior-ruby.md)
+[Fullstack Engineer (Senior, Ruby)](vghlifjlywxszwfs-backend-engineer-senior-ruby.md)
 
 
 [DevOps Engineer (Manager)](vghlifjlywxszwfs-devops-engineer-manager.md)
@@ -284,15 +287,6 @@
 
 
 #### Palo Alto, CA  
-[Backend Engineer (Principal, Java)](v2f2zwzyb250-backend-engineer-principal-java.md)
-
-
-[Frontend Engineer (Javascript/React)](v2f2zwzyb250-frontend-engineer-javascript-react.md)
-
-
-[Backend Engineer (Principal, Java)](v2f2zwzyb250-backend-engineer-principal-java-89757179-6c67-4609-bed2-2e7ee1d84c93.md)
-
-
 [Backend Engineer (Senior, Java)](v2f2zwzyb250-backend-engineer-senior-java.md)
 
 
@@ -300,13 +294,13 @@
 [Mobile Engineer (iOS)](uelyifn5c3rlbxm-mobile-engineer-ios.md)
 
 
-[Tools / Internal Engineer](uelyifn5c3rlbxm-tools-internal-engineer.md)
-
-
 [ Frontend Engineer (Javascript)](uelyifn5c3rlbxm-frontend-engineer-javascript.md)
 
 
 [Designer (UX)](uelyifn5c3rlbxm-designer-ux.md)
+
+
+[Director of Product Management](uelyifn5c3rlbxm-director-of-product-management.md)
 
 
 #### San Francisco, CA  
