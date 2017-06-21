@@ -7,7 +7,7 @@ We’re looking for a Quality Engineer to further automation testing across our 
 At our company, Quality Engineers work closely with Feature Engineers throughout the SDLC. This includes grooming requirements, pair programming, TDD, debugging, code reviews, and other development practices. Quality Engineers encourage best practices in quality software development by exemplifying those practices and proving them out in delivery of production ready software.
 
 ### Responsibilities:
-+	Continue build-out of the continuous delivery pipeline with a focus on automation testing
++ Continue build-out of the continuous delivery pipeline with a focus on automation testing
 + Encourage development of automation tests at various levels (e.g. unit, contract, integration, UAT, etc.) through the implementation of frameworks within the CICD pipeline as well as training and consultation with feature teams
 + Use Agile practices to refine and adapt test strategy and motivate adoption by collecting, analyzing, and presenting metrics related to quality (especially during Agile retrospectives)
 + Implement functional automation tests at all levels at various levels
@@ -26,17 +26,17 @@ At our company, Quality Engineers work closely with Feature Engineers throughout
 + Adaptable and willing to work in a dynamic, fast paced environment
 
 ### The Ideal Candidate Has:
-+	Experience with training or consulting with distributed teams
++ Experience with training or consulting with distributed teams
 + Experience with automated performance, security, or fault-tolerance testing
 + Experience with automated firmware testing
 + An obsession with delivering outstanding customer experience
 + You enjoy working in a cool renovated building with brick walls and exposed wood beams in Boston’s Innovation District
 
 ### As a member of our Team you will receive:
-+	Competitive Compensation
-+	Competitive Benefits Package
-+	Free Membership
-+	Discounts on services, products and much more
++ Competitive Compensation
++ Competitive Benefits Package
++ Free Membership
++ Discounts on services, products and much more
 
 
 [<img src='https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763'>](https://letsrockit.co/users/auth/github?job_id=wmlwy2fy-test-engineer-senior)
