@@ -107,6 +107,12 @@
 
 
 #### San Francisco, CA  
+[Hardware Engineer (Lead, Robotics, Motion Planning)](twfyymxl-hardware-engineer-lead-robotics-motion-planning.md)
+
+
+[Hardware Engineer (Lead, Robotics, Vision, Perception)](twfyymxl-hardware-engineer-lead-robotics-vision-perception.md)
+
+
 [Hardware Engineer (Lead, Robotics)](twfyymxl-hardware-engineer-lead-robotics.md)
 
 
@@ -164,10 +170,6 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (Ruby)](umvwywlyugfs-fullstack-engineer-ruby.md)
-
-
-#### San Francisco, CA  
-[Talent Detective](um9ja0luifjly3j1axrpbmc-talent-detective.md)
 
 
 #### San Francisco, CA  
