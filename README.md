@@ -398,10 +398,6 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (Senior, node.js)](uhjvzglneq-fullstack-engineer-senior-node-js.md)
-
-
-#### San Francisco, CA  
 [Fullstack Engineer (Senior, Python)](rglhbfbhza-fullstack-engineer-senior-python.md)
 
 
