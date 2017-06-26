@@ -100,9 +100,6 @@
 
 
 #### Redwood City, CA  
-[Frontend Engineer (Senior)](twfuienyyxrlcw-frontend-engineer-senior.md)
-
-
 [Fullstack Engineer (Senior, Ruby)](twfuienyyxrlcw-fullstack-engineer-senior-ruby.md)
 
 
