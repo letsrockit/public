@@ -157,10 +157,6 @@
 [Backend Engineer (Senior, C++)](ugxleenoyxq-backend-engineer-senior-c.md)
 
 
-#### Remote, CA  
-[Mobile Engineer (Senior, iOS)](ug9zdcbtb2npyww-mobile-engineer-senior-ios.md)
-
-
 #### San Francisco, CA  
 [Fullstack Engineer (Senior, Javascript)](uxvpza-fullstack-engineer-senior-javascript.md)
 
@@ -399,5 +395,9 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (Senior, Python)](rglhbfbhza-fullstack-engineer-senior-python.md)
+
+
+#### Remote, CA  
+[Mobile Engineer (Senior, iOS)](ug9zdcbtb2npyww-mobile-engineer-senior-ios.md)
 
 
