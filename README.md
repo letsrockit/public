@@ -246,6 +246,9 @@
 
 
 #### Belmont, CA  
+[Software Engineer (Computer Vision, Robotics, Localization)](rw1iyxjrieryaxzl-software-engineer-computer-vision-robotics-localization.md)
+
+
 [Hardware Engineer (Mechanical)](rw1iyxjrieryaxzl-hardware-engineer-mechanical.md)
 
 
