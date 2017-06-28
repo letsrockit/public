@@ -329,10 +329,6 @@
 [Backend Engineer (Senior, node.js)](qxvndxn0-backend-engineer-senior-node-js.md)
 
 
-#### San Mateo, CA  
-[Mobile Engineer (Principal, Android)](vglszq-mobile-engineer-principal-android.md)
-
-
 #### San Francisco, CA  
 [Frontend Engineer (Senior, Angular)](u2f2b25pea-frontend-engineer-senior-angular.md)
 
@@ -341,16 +337,6 @@
 
 
 [Technical Project Manager](u2f2b25pea-technical-project-manager.md)
-
-
-#### San Francisco, CA  
-[Test Engineer (Senior)](twfnzw50yq-test-engineer-senior.md)
-
-
-[Hardware Engineer (Senior, Firmware/Embedded)](twfnzw50yq-hardware-engineer-senior-firmware-embedded.md)
-
-
-[Mobile Engineer (Senior, Android)](twfnzw50yq-mobile-engineer-senior-android.md)
 
 
 #### Santa Clara, CA  
