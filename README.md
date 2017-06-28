@@ -330,9 +330,6 @@
 
 
 #### San Mateo, CA  
-[Mobile Engineer (Principal, iOS)](vglszq-mobile-engineer-principal-ios.md)
-
-
 [Mobile Engineer (Principal, Android)](vglszq-mobile-engineer-principal-android.md)
 
 
@@ -351,9 +348,6 @@
 
 
 [Hardware Engineer (Senior, Firmware/Embedded)](twfnzw50yq-hardware-engineer-senior-firmware-embedded.md)
-
-
-[Mobile Engineer (iOS) ](twfnzw50yq-mobile-engineer-ios.md)
 
 
 [Mobile Engineer (Senior, Android)](twfnzw50yq-mobile-engineer-senior-android.md)
