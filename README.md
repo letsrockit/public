@@ -298,10 +298,6 @@
 
 
 #### San Francisco, CA  
-[Backend Engineer (node.js)](tg95ewfs-backend-engineer-node-js.md)
-
-
-#### San Francisco, CA  
 [Hacker/Architect (Senior, C++, Python)](q29tbweuywk-hacker-architect-senior-c-python.md)
 
 
