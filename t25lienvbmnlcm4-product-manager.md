@@ -1,5 +1,5 @@
-
-
+## Product Manager 
+#### Palo Alto, CA
 
 ### Overview
 Our company is a startup based in Palo Alto, which specializes in Artificial Intelligence for Disasters. With our team of global disaster scientists and engineers, we have developed a platform that helps emergency responders prepare for and make the most critical decisions during the first moments of a crisis.

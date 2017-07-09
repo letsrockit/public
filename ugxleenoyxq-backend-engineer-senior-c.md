@@ -1,5 +1,5 @@
-
-
+## Backend Engineer (Senior, C++)
+#### Redwood City, CA
 
 ### Overview
 We are seeking a senior engineer well versed in thinking about distributed and real­time systems. Reporting to the CTO and working directly with the founders and other members of the technical staff, you will be designing and implementing highly specialized architectural systems to power a very different type of chat, where performance, flexibility, and reliability are paramount.

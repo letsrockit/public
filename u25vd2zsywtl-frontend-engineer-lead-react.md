@@ -1,5 +1,5 @@
-
-
+## Frontend Engineer (Lead, React)
+#### San Mateo, CA
 
 ### Overview
 Our company started with a clear vision: make modern data warehousing effective, affordable, and accessible to all data users. Because traditional on-premises and cloud solutions struggle with this, we developed an innovative product with a new built-for-the-cloud architecture that combines the power of data warehousing, the flexibility of big data platforms, and the elasticity of the cloud at a fraction of the cost of traditional solutions. 

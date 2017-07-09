@@ -1,5 +1,5 @@
-
-
+## AI (Senior, Computer Vision)
+#### Atherton, CA
 
 ### Company Overview
 Combined with the inexpensive image sensors and processors in mobile phones, our computer vision and motion planning algorithms give drones the ability to navigate intelligently with respect to their surroundings. This will deliver more usability, reliability, and capability for the emerging drone market. We believe this represents a platform scale opportunity, and our goal is to be the navigation solution that manufacturers, service providers, and their end users rely on.

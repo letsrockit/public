@@ -1,5 +1,5 @@
-
-
+## Fullstack Engineer (Agnostic, Python)
+#### San Francisco, CA
 
 ### Overview
 Located in a beautiful office in the Mission District in San Francisco, we are an early stage funded B2C Fin-Tech startup that is combining Artificial Intelligence, Machine Learning and NLP to build a personal finance manager that helps you spend more on what makes you happy.

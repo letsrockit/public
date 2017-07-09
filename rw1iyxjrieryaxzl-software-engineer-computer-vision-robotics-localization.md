@@ -1,18 +1,18 @@
 # Software Engineer (Computer Vision, Robotics, Localization)
 ### San Francisco, CA
 
-
+## Quick Summary
 We come to work every day to reinvent the 100-year old technology that keeps the world moving. Transportation is 10% of the US economy. Self-driving will rock the industry to its foundations.
 
 In an industry filled with billion dollar titans we are young, fast and lean. We've already constructed a self-driving vehicle for public roads faster and cheaper than anyone in history. Now we're looking for a handful of the most talented, independent, fast-moving engineers who can help us kick it up a notch.
 
 Don't apply if you're looking for an easy buck. Don't apply if you need someone to tell you what to do. Don't apply if you want a typical 9-to-5 job
 
-
+## Job Description
 +	Design and implement software to improve vehicle control, awareness and performance
 +	Implement low level drivers to communicate with various sensors and hardware components
 
-
+## Qualifications
 +	Proven experience with real world implementation of robotic systems
 +	C++ programming expertise
 +	Passionate about self driving technology
