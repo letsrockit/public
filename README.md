@@ -223,19 +223,6 @@
 [Product Manager](t25lienvbmnlcm4-product-manager.md)
 
 
-#### San Francisco, CA  
-[Frontend Engineer (Senior, Angular)](q2hhcmlvda-frontend-engineer-senior-angular.md)
-
-
-[Mobile Engineer (Senior, iOS)](q2hhcmlvda-mobile-engineer-senior-ios.md)
-
-
-[Backend Engineer (Senior, Python)](q2hhcmlvda-backend-engineer-senior-python.md)
-
-
-[Mobile Engineer (Senior, Android)](q2hhcmlvda-mobile-engineer-senior-android.md)
-
-
 #### Redwood City, CA  
 [Frontend Engineer (Senior, React)](ugxleenoyxq-frontend-engineer-senior-react.md)
 
@@ -383,5 +370,18 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (node.js)](tg9uzybhyw1l-fullstack-engineer-node-js.md)
+
+
+#### San Francisco, CA  
+[Frontend Engineer (Senior, Angular)](q2hhcmlvda-frontend-engineer-senior-angular.md)
+
+
+[Mobile Engineer (Senior, iOS)](q2hhcmlvda-mobile-engineer-senior-ios.md)
+
+
+[Backend Engineer (Senior, Python)](q2hhcmlvda-backend-engineer-senior-python.md)
+
+
+[Mobile Engineer (Senior, Android)](q2hhcmlvda-mobile-engineer-senior-android.md)
 
 
