@@ -22,10 +22,6 @@
 [Infrastructure Engineer (Senior, Python) ](uxvpza-infrastructure-engineer-senior-python.md)
 
 
-#### Remote, CA  
-[Mobile Engineer (Senior, iOS)](ug9zdcbtb2npyww-mobile-engineer-senior-ios.md)
-
-
 #### San Francisco, CA  
 [Engineering Manager, Product](qxnhbme-engineering-manager-product.md)
 
@@ -88,6 +84,10 @@
 
 
 [DevOps Engineer (Senior)](qmfuam8-devops-engineer-senior.md)
+
+
+#### Remote, CA  
+[Mobile Engineer (Senior, iOS)](ug9zdcbtb2npyww-mobile-engineer-senior-ios.md)
 
 
 #### San Francisco, CA  
