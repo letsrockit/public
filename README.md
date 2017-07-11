@@ -27,12 +27,6 @@
 
 
 #### San Francisco, CA  
-[Engineering Manager, Product](qxnhbme-engineering-manager-product.md)
-
-
-[Product Manager (Manager)](qxnhbme-product-manager-manager.md)
-
-
 [Infrastructure Engineer (Manager)](qxnhbme-infrastructure-engineer-manager.md)
 
 
@@ -88,10 +82,6 @@
 
 #### Palo Alto, CA  
 [Backend Engineer (Agnostic, .net)](qwn0axzlag91cnm-backend-engineer-agnostic-net.md)
-
-
-#### San Francisco, CA  
-[Fullstack Engineer (Agnostic/Python/Javascript) ](qmvuy2hsaw5n-fullstack-engineer-agnostic-python-javascript.md)
 
 
 #### San Francisco, CA  
@@ -251,9 +241,6 @@
 
 
 #### San Francisco, CA  
-[Backend Engineer (Agnostic/Ruby)](qmxvyw-backend-engineer-agnostic-ruby.md)
-
-
 [Fullstack Engineer (Agnostic/Ruby) ](qmxvyw-fullstack-engineer-agnostic-ruby.md)
 
 
@@ -343,9 +330,6 @@
 
 
 [Mobile Engineer (iOS)](sg91c2vwyxj0eq-mobile-engineer-ios.md)
-
-
-[ Test Engineer](sg91c2vwyxj0eq-test-engineer.md)
 
 
 [Data Engineer](sg91c2vwyxj0eq-data-engineer.md)
