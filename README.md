@@ -53,13 +53,6 @@
 
 
 #### San Francisco, CA  
-[Hardware Engineer (Lead, Robotics)](twfyymxl-hardware-engineer-lead-robotics.md)
-
-
-[Hardware Engineer (Lead, Robotics, Vision, Perception)](twfyymxl-hardware-engineer-lead-robotics-vision-perception.md)
-
-
-#### San Francisco, CA  
 [Test Engineer](vgv4de5vdw-test-engineer.md)
 
 
@@ -207,9 +200,6 @@
 [Frontend Engineer (JQuery)](t25lienvbmnlcm4-frontend-engineer-jquery.md)
 
 
-[Designer (UI/UX)](t25lienvbmnlcm4-designer-ui-ux.md)
-
-
 [Product Manager](t25lienvbmnlcm4-product-manager.md)
 
 
@@ -255,13 +245,6 @@
 [AI (Machine Learning)](u2lmdcbty2llbmnl-ai-machine-learning.md)
 
 
-#### San Francisco, CA  
-[Technical Project Manager](u2f2b25pea-technical-project-manager.md)
-
-
-[Frontend Engineer (Senior, Angular)](u2f2b25pea-frontend-engineer-senior-angular.md)
-
-
 #### Santa Clara, CA  
 [Systems Engineer (C/Golang)](u2hpznrmzwz0-systems-engineer-c-golang.md)
 
@@ -291,9 +274,6 @@
 
 
 [ Frontend Engineer (Javascript)](uelyifn5c3rlbxm-frontend-engineer-javascript.md)
-
-
-[Designer (UX)](uelyifn5c3rlbxm-designer-ux.md)
 
 
 [Director of Product Management](uelyifn5c3rlbxm-director-of-product-management.md)
@@ -333,9 +313,6 @@
 
 
 [Data Engineer](sg91c2vwyxj0eq-data-engineer.md)
-
-
-[Backend Engineer (Agnostic)](sg91c2vwyxj0eq-backend-engineer-agnostic.md)
 
 
 [Designer (UI/UX)](sg91c2vwyxj0eq-designer-ui-ux.md)
