@@ -2,7 +2,7 @@
 #### San Francisco, CA
 
 ### Job Description
-Build, scale and operate the systems that measure user acquisition and gameplay performance with a team of experienced veterans for games on iOS and Android.
+Build, scale and operate game servers that runs delightful multiplayer free to play games for iOS and Android with a team of experienced veterans.
 
 ### What you'll do
 + Work with the server engineering team to help design and build successful, scalable services that back free to play games on iOS and Android

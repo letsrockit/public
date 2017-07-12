@@ -278,10 +278,16 @@
 [Analytics Pipeline Engineer (Python/Java)](tjnuv09ssw-analytics-pipeline-engineer-python-java.md)
 
 
+[Backend Engineer (Senior, Agnostic/Java/Python)](tjnuv09ssw-backend-engineer-senior-agnostic-java-python.md)
+
+
+[Backend Engineer (C++)](tjnuv09ssw-backend-engineer-c.md)
+
+
 [Ad Tools Engineer (Angular/React/Python/Node.js)](tjnuv09ssw-ad-tools-engineer-angular-react-python-node-js.md)
 
 
-[Backend Engineer (Senior, Agnostic/Java/Python)](tjnuv09ssw-backend-engineer-senior-agnostic-java-python.md)
+[Game Client Engineer (C/C++/C#/Java)](tjnuv09ssw-game-client-engineer-c-c-c-java.md)
 
 
 #### San Francisco, CA  

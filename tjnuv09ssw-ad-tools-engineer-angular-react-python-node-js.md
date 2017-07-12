@@ -2,7 +2,7 @@
 #### San Francisco, CA
 
 ### Job Description
-Build, scale and operate the systems that measure user acquisition and gameplay performance with a team of experienced veterans for games on iOS and Android.
+Build tools to help the user acquisition team manage advertising campaigns and optimize spending for free to play games for iOS and Android with a team of experienced veterans.
 
 ### What you'll do
 + Work with the user acquisition team to understand and improve their process
