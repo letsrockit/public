@@ -125,10 +125,6 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (Lead, node.js)](u3vwzxjodw1hbg-fullstack-engineer-lead-node-js.md)
-
-
-#### San Francisco, CA  
 [Mobile Engineer (Senior, Android)](ughpbg8-mobile-engineer-senior-android.md)
 
 
