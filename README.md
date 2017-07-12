@@ -278,6 +278,9 @@
 [Analytics Pipeline Engineer (Python/Java)](tjnuv09ssw-analytics-pipeline-engineer-python-java.md)
 
 
+[Ad Tools Engineer (Angular/React/Python/Node.js)](tjnuv09ssw-ad-tools-engineer-angular-react-python-node-js.md)
+
+
 #### San Francisco, CA  
 [Backend Engineer (Python / node.js)](q3j1axnl-backend-engineer-python-node-js.md)
 
