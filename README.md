@@ -23,6 +23,9 @@
 
 
 #### San Mateo, CA  
+[Mobile Engineer (Senior, Android)](vglszq-mobile-engineer-senior-android.md)
+
+
 [Mobile Engineer (Principal, Android)](vglszq-mobile-engineer-principal-android.md)
 
 
@@ -269,6 +272,10 @@
 
 
 [Director of Product Management](uelyifn5c3rlbxm-director-of-product-management.md)
+
+
+#### San Francisco, CA  
+[Analytics Pipeline Engineer (Python/Java)](tjnuv09ssw-analytics-pipeline-engineer-python-java.md)
 
 
 #### San Francisco, CA  
