@@ -127,6 +127,9 @@
 [Fullstack Engineer (Senior, Agnostic) ](umvkynviymxl-fullstack-engineer-senior-agnostic.md)
 
 
+[Backend Engineer (Lead, Ruby)](umvkynviymxl-backend-engineer-lead-ruby.md)
+
+
 #### San Francisco, CA  
 [Mobile Engineer (Senior, Android)](ughpbg8-mobile-engineer-senior-android.md)
 
