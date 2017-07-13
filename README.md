@@ -223,16 +223,6 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (Lead, node.js)](u2vnbwvuda-fullstack-engineer-lead-node-js.md)
-
-
-[DevOps Engineer](u2vnbwvuda-devops-engineer.md)
-
-
-[Infrastructure Engineer](u2vnbwvuda-infrastructure-engineer.md)
-
-
-#### San Francisco, CA  
 [Fullstack Engineer (Agnostic/Ruby) ](qmxvyw-fullstack-engineer-agnostic-ruby.md)
 
 
@@ -365,5 +355,15 @@
 
 
 [DevOps Engineer (Lead)](q2hhcmlvda-devops-engineer-lead.md)
+
+
+#### San Francisco, CA  
+[Fullstack Engineer (Lead, node.js)](u2vnbwvuda-fullstack-engineer-lead-node-js.md)
+
+
+[DevOps Engineer](u2vnbwvuda-devops-engineer.md)
+
+
+[Infrastructure Engineer](u2vnbwvuda-infrastructure-engineer.md)
 
 
