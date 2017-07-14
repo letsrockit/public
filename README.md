@@ -120,10 +120,6 @@
 
 
 #### San Francisco, CA  
-[Backend Engineer (node.js)](tg95ewfs-backend-engineer-node-js.md)
-
-
-#### San Francisco, CA  
 [Fullstack Engineer (Senior, Agnostic) ](umvkynviymxl-fullstack-engineer-senior-agnostic.md)
 
 
@@ -331,6 +327,10 @@
 
 #### San Francisco, CA  
 [Backend Engineer (Lead, Ruby)](txvuy2hlcnk-backend-engineer-lead-ruby.md)
+
+
+#### San Francisco, CA  
+[Backend Engineer (node.js)](tg95ewfs-backend-engineer-node-js.md)
 
 
 #### San Francisco, CA  
