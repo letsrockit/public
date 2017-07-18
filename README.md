@@ -296,6 +296,9 @@
 [Backend Engineer (C++)](q3j1axnl-backend-engineer-c.md)
 
 
+[DevOps Engineer](q3j1axnl-devops-engineer.md)
+
+
 [Backend Engineer (Senior, C++)](q3j1axnl-backend-engineer-senior-c.md)
 
 
