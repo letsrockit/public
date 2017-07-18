@@ -211,9 +211,6 @@
 [Fullstack Engineer (PHP)](ugxleenoyxq-fullstack-engineer-php.md)
 
 
-[Infrastructure Engineer (Senior)](ugxleenoyxq-infrastructure-engineer-senior.md)
-
-
 #### Menlo Park, CA  
 [Fullstack Engineer (Agnostic, Clojure)](tgfkzgvyiexpzmu-fullstack-engineer-agnostic-clojure.md)
 
@@ -333,9 +330,6 @@
 
 
 [Data Engineer](sg91c2vwyxj0eq-data-engineer.md)
-
-
-[Designer (UI/UX)](sg91c2vwyxj0eq-designer-ui-ux.md)
 
 
 [Mobile Engineer (Senior, Android)](sg91c2vwyxj0eq-mobile-engineer-senior-android.md)
