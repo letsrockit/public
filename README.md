@@ -299,10 +299,19 @@
 [DevOps Engineer](q3j1axnl-devops-engineer.md)
 
 
+[Hardware Engineer (Senior, Firmware/Embedded)](q3j1axnl-hardware-engineer-senior-firmware-embedded.md)
+
+
 [Backend Engineer (Senior, C++)](q3j1axnl-backend-engineer-senior-c.md)
 
 
 [Platform Engineer (Senior, C/C++)](q3j1axnl-platform-engineer-senior-c-c.md)
+
+
+[Perception Engineer](q3j1axnl-perception-engineer.md)
+
+
+[Computer Vision R&D Engineer](q3j1axnl-computer-vision-r-d-engineer.md)
 
 
 #### San Francisco, CA  
