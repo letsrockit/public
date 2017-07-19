@@ -143,16 +143,6 @@
 [Fullstack Engineer (Senior, Python)](rml2zvn0yxjz-fullstack-engineer-senior-python.md)
 
 
-#### San Francisco, CA  
-[Mobile Engineer (iOS)](u2hpznqgvgvjag5vbg9nawvz-mobile-engineer-ios.md)
-
-
-[Infrastructure Engineer](u2hpznqgvgvjag5vbg9nawvz-infrastructure-engineer.md)
-
-
-[Fullstack Engineer (React/Golang)](u2hpznqgvgvjag5vbg9nawvz-fullstack-engineer-react-golang.md)
-
-
 #### Redwood City, CA  
 [Fullstack Engineer (Senior, Ruby)](twfuienyyxrlcw-fullstack-engineer-senior-ruby.md)
 
@@ -378,5 +368,15 @@
 
 
 [Infrastructure Engineer](u2vnbwvuda-infrastructure-engineer.md)
+
+
+#### San Francisco, CA  
+[Mobile Engineer (iOS)](u2hpznqgvgvjag5vbg9nawvz-mobile-engineer-ios.md)
+
+
+[Fullstack Engineer (React/Golang)](u2hpznqgvgvjag5vbg9nawvz-fullstack-engineer-react-golang.md)
+
+
+[Infrastructure Engineer](u2hpznqgvgvjag5vbg9nawvz-infrastructure-engineer.md)
 
 
