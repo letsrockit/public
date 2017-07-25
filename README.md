@@ -5,9 +5,6 @@
 [Hardware Engineer (Senior, Firmware/Embedded)](qxvndxn0-hardware-engineer-senior-firmware-embedded.md)
 
 
-[Mobile Engineer (Senior, Android)](qxvndxn0-mobile-engineer-senior-android.md)
-
-
 #### San Francisco, CA  
 [Fullstack Engineer (Senior, Javascript)](uxvpza-fullstack-engineer-senior-javascript.md)
 
@@ -69,16 +66,6 @@
 
 #### Remote, CA  
 [Mobile Engineer (Senior, iOS)](ug9zdcbtb2npyww-mobile-engineer-senior-ios.md)
-
-
-#### San Francisco, CA  
-[Test Engineer](vgv4de5vdw-test-engineer.md)
-
-
-[ Frontend Engineer (BackBone/Angular/React)](vgv4de5vdw-frontend-engineer-backbone-angular-react.md)
-
-
-[Test Engineer (Lead)](vgv4de5vdw-test-engineer-lead.md)
 
 
 #### Redwood City, CA  
@@ -183,9 +170,6 @@
 [Mobile Engineer (Senior, Android)](ughpbg8-mobile-engineer-senior-android.md)
 
 
-[Frontend Engineer (Senior)](ughpbg8-frontend-engineer-senior.md)
-
-
 #### Redwood City, CA  
 [Fullstack Engineer (Senior, Ruby)](twfuienyyxrlcw-fullstack-engineer-senior-ruby.md)
 
@@ -222,7 +206,7 @@
 
 
 #### Palo Alto, CA  
-[Backend Engineer (Senior, Agnostic, Ruby, Node.js, Flask)](t25lienvbmnlcm4-backend-engineer-senior-agnostic-ruby-node-js-flask.md)
+[Backend Engineer (Senior, Agnostic/Ruby/Node.js/ Flask)](t25lienvbmnlcm4-backend-engineer-senior-agnostic-ruby-node-js-flask.md)
 
 
 [Fullstack Engineer (Agnostic/ Ruby/ Node.js/ Flask)](t25lienvbmnlcm4-fullstack-engineer-agnostic-ruby-node-js-flask.md)
@@ -238,13 +222,7 @@
 
 
 #### Redwood City, CA  
-[Frontend Engineer (Senior, React)](ugxleenoyxq-frontend-engineer-senior-react.md)
-
-
 [Backend Engineer (Senior, C++)](ugxleenoyxq-backend-engineer-senior-c.md)
-
-
-[Fullstack Engineer (PHP)](ugxleenoyxq-fullstack-engineer-php.md)
 
 
 #### Menlo Park, CA  

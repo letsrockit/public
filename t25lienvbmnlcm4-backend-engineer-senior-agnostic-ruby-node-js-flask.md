@@ -1,4 +1,4 @@
-## Backend Engineer (Senior, Agnostic, Ruby, Node.js, Flask) 
+## Backend Engineer (Senior, Agnostic/ Ruby/ Node.js/ Flask) 
 #### Palo Alto, CA
 
 ### Overview
