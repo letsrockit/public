@@ -5,9 +5,6 @@
 [Hardware Engineer (Senior, Firmware/Embedded)](qxvndxn0-hardware-engineer-senior-firmware-embedded.md)
 
 
-[DevOps Engineer](qxvndxn0-devops-engineer.md)
-
-
 [Mobile Engineer (Senior, Android)](qxvndxn0-mobile-engineer-senior-android.md)
 
 
