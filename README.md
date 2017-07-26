@@ -76,6 +76,9 @@
 [Data Engineer (Senior)](qmfuam8-data-engineer-senior.md)
 
 
+[Backend Engineer (Senior, Agnostic/Ruby/Python/Java)](qmfuam8-backend-engineer-senior-agnostic-ruby-python-java.md)
+
+
 [DevOps Engineer (Senior)](qmfuam8-devops-engineer-senior.md)
 
 
