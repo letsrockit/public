@@ -1,4 +1,4 @@
-## Backend Engineer (Senior, Agnostic/Java/Python)
+## Backend Engineer (Senior, Agnostic/Python/Java) 
 #### San Francisco, CA
 
 ### Job Description
