@@ -71,6 +71,10 @@
 
 
 #### San Francisco, CA  
+[ Fullstack Engineer (Senior, Ruby/Python)](rwrlbg-fullstack-engineer-senior-ruby-python.md)
+
+
+#### San Francisco, CA  
 [Search Engineer (Senior)](u2hpchq-search-engineer-senior.md)
 
 
@@ -117,6 +121,10 @@
 
 
 [Backend Engineer (Lead, Ruby)](umvkynviymxl-backend-engineer-lead-ruby.md)
+
+
+#### San Francisco, CA  
+[Technical Recruiter (Senior)](um9ja0luifjly3j1axrpbmc-technical-recruiter-senior.md)
 
 
 #### San Francisco, CA  
@@ -239,9 +247,6 @@
 
 #### San Francisco, CA  
 [Game Client Engineer (C/C++/C#/Java)](tjnuv09ssw-game-client-engineer-c-c-c-java.md)
-
-
-[Fullstack Engineer (Agnostic/Ruby/Python/Node.js)](tjnuv09ssw-ad-tools-engineer-angular-react-python-node-js.md)
 
 
 [Backend Engineer (Senior, Agnostic/Python/Java) ](tjnuv09ssw-backend-engineer-senior-agnostic-java-python.md)
