@@ -2,9 +2,6 @@
 [Fullstack Engineer (Senior, Javascript)](uxvpza-fullstack-engineer-senior-javascript.md)
 
 
-[Infrastructure Engineer (Senior, Python) ](uxvpza-infrastructure-engineer-senior-python.md)
-
-
 #### San Francisco, CA  
 [Backend Engineer (Senior, Agnostic/Python/Java) ](tjnuv09ssw-backend-engineer-senior-agnostic-python-java.md)
 
@@ -52,10 +49,6 @@
 
 
 [Fullstack Engineer (Python)](u2t5zglv-fullstack-engineer-python.md)
-
-
-#### Redwood City, CA  
-[Backend Engineer (C++)](uglsb3quywk-backend-engineer-c.md)
 
 
 #### Redwood City, CA  
@@ -190,10 +183,6 @@
 [Fullstack Engineer (Senior, Ruby)](twfuienyyxrlcw-fullstack-engineer-senior-ruby.md)
 
 
-#### Campbell, CA  
-[Backend Engineer (Manager, C++)](vmvsbzne-backend-engineer-manager-c.md)
-
-
 #### San Francisco, CA  
 [Fullstack Engineer (Manager, Ruby)](vhjpbq-fullstack-engineer-manager-ruby.md)
 
@@ -236,9 +225,6 @@
 
 
 [Frontend Engineer (JQuery)](t25lienvbmnlcm4-frontend-engineer-jquery.md)
-
-
-[Product Manager](t25lienvbmnlcm4-product-manager.md)
 
 
 #### Redwood City, CA  
@@ -307,16 +293,6 @@
 
 
 [DevOps Engineer](rw1iyxjrieryaxzl-devops-engineer.md)
-
-
-#### San Francisco, CA  
-[Mobile Engineer (iOS)](uelyifn5c3rlbxm-mobile-engineer-ios.md)
-
-
-[ Frontend Engineer (Javascript)](uelyifn5c3rlbxm-frontend-engineer-javascript.md)
-
-
-[Director of Product Management](uelyifn5c3rlbxm-director-of-product-management.md)
 
 
 #### San Francisco, CA  
