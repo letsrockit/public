@@ -118,6 +118,9 @@
 [Backend Engineer (Senior, Java)](r2xpbnq-backend-engineer-senior-java.md)
 
 
+[AI (Machine Learning)](r2xpbnq-ai-machine-learning.md)
+
+
 #### San Francisco, CA  
 [Mobile Engineer (Senior, iOS)](twfuz28gsgvhbhro-mobile-engineer-senior-ios.md)
 
@@ -240,10 +243,6 @@
 
 #### Redwood City, CA  
 [Backend Engineer (Senior, C++)](ugxleenoyxq-backend-engineer-senior-c.md)
-
-
-#### Menlo Park, CA  
-[Fullstack Engineer (Agnostic, Clojure)](tgfkzgvyiexpzmu-fullstack-engineer-agnostic-clojure.md)
 
 
 #### San Francisco, CA  
