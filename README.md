@@ -282,13 +282,6 @@
 [Fullstack Engineer (Agnostic, Python)](sgldagfybgll-fullstack-engineer-agnostic-python.md)
 
 
-#### Oakland, CA  
-[Fullstack Engineer (PHP)](u2hvcfbhza-fullstack-engineer-php.md)
-
-
-[Frontend Engineer (jQuery)](u2hvcfbhza-frontend-engineer-jquery.md)
-
-
 #### Belmont, CA  
 [Hardware Engineer (Mechanical)](rw1iyxjrieryaxzl-hardware-engineer-mechanical.md)
 
@@ -356,5 +349,12 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (node.js)](tg9uzybhyw1l-fullstack-engineer-node-js.md)
+
+
+#### Oakland, CA  
+[Fullstack Engineer (PHP)](u2hvcfbhza-fullstack-engineer-php.md)
+
+
+[Frontend Engineer (jQuery)](u2hvcfbhza-frontend-engineer-jquery.md)
 
 
