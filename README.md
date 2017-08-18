@@ -286,6 +286,9 @@
 [Fullstack Engineer (PHP)](u2hvcfbhza-fullstack-engineer-php.md)
 
 
+[Frontend Engineer (jQuery)](u2hvcfbhza-frontend-engineer-jquery.md)
+
+
 #### Belmont, CA  
 [Hardware Engineer (Mechanical)](rw1iyxjrieryaxzl-hardware-engineer-mechanical.md)
 
