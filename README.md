@@ -52,9 +52,6 @@
 
 
 #### Redwood City, CA  
-[Data Engineer (Senior)](qmfuam8-data-engineer-senior.md)
-
-
 [Backend Engineer (Senior, Agnostic/Ruby/Python/Java)](qmfuam8-backend-engineer-senior-agnostic-ruby-python-java.md)
 
 
@@ -195,22 +192,6 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (Lead, Python)](qwzmaxjt-fullstack-engineer-lead-python.md)
-
-
-[AI (Senior, Machine Learning)](qwzmaxjt-ai-senior-machine-learning.md)
-
-
-[AI (Lead, Machine Learning)](qwzmaxjt-ai-lead-machine-learning.md)
-
-
-[Backend Engineer (Senior, Python)](qwzmaxjt-backend-engineer-senior-python.md)
-
-
-[Mobile Engineer (Manager, Multi-platform)](qwzmaxjt-mobile-engineer-manager-multi-platform.md)
-
-
-#### San Francisco, CA  
 [Data Engineer (Senior)](umlza0lr-data-engineer-senior.md)
 
 
@@ -247,10 +228,6 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (Agnostic/Ruby) ](qmxvyw-fullstack-engineer-agnostic-ruby.md)
-
-
-#### San Francisco, CA  
-[Backend Engineer (Senior, PHP)](qwxsluluym94-backend-engineer-senior-php.md)
 
 
 #### San Francisco, CA  
