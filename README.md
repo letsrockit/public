@@ -45,13 +45,6 @@
 
 
 #### Redwood City, CA  
-[AI (Senior, Computer Vision)](u2t5zglv-ai-senior-computer-vision.md)
-
-
-[Fullstack Engineer (Python)](u2t5zglv-fullstack-engineer-python.md)
-
-
-#### Redwood City, CA  
 [Backend Engineer (Senior, Agnostic/Ruby/Python/Java)](qmfuam8-backend-engineer-senior-agnostic-ruby-python-java.md)
 
 
@@ -336,5 +329,12 @@
 
 
 [Frontend Engineer (jQuery)](u2hvcfbhza-frontend-engineer-jquery.md)
+
+
+#### Redwood City, CA  
+[AI (Senior, Computer Vision)](u2t5zglv-ai-senior-computer-vision.md)
+
+
+[Fullstack Engineer (Python)](u2t5zglv-fullstack-engineer-python.md)
 
 
