@@ -208,6 +208,13 @@
 [Backend Engineer (Senior, C++)](ugxleenoyxq-backend-engineer-senior-c.md)
 
 
+#### Pleasanton, CA  
+[Data Engineer (Senior, Query Processing)](v29ya2rheq-data-engineer-senior-query-processing.md)
+
+
+[Data Engineer (Senior Manager / Director)](v29ya2rheq-data-engineer-senior-manager-director.md)
+
+
 #### San Francisco, CA  
 [Backend Engineer (Agnostic/Python)](wmvybybgaw5hbmnpyww-backend-engineer-agnostic-python.md)
 
