@@ -255,7 +255,13 @@
 
 
 #### San Francisco, CA  
+[Infrastructure Engineer (Senior)](u2nyawjk-infrastructure-engineer-senior.md)
+
+
 [Mobile Engineer (Senior, Android)](u2nyawjk-mobile-engineer-android.md)
+
+
+[Backend Engineer (Senior, Ruby)](u2nyawjk-backend-engineer-senior-ruby.md)
 
 
 #### Belmont, CA  
