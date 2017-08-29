@@ -1,8 +1,4 @@
 #### San Francisco, CA  
-[Fullstack Engineer (Senior, Javascript)](uxvpza-fullstack-engineer-senior-javascript.md)
-
-
-#### San Francisco, CA  
 [Fullstack Engineer (node.js)](wmlwb25nbw-fullstack-engineer-node-js.md)
 
 
@@ -27,10 +23,6 @@
 
 
 [Mobile Engineer (Principal, Android)](vglszq-mobile-engineer-principal-android.md)
-
-
-#### San Francisco, CA  
-[Infrastructure Engineer (Manager)](qxnhbme-infrastructure-engineer-manager.md)
 
 
 #### Palo Alto, CA  
