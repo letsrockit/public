@@ -78,9 +78,6 @@
 
 
 #### San Mateo, CA  
-[Frontend Engineer (Web UI)](wmlwy2fy-frontend-engineer-web-ui.md)
-
-
 [Fullstack Engineer (Senior)](wmlwy2fy-fullstack-engineer-senior.md)
 
 
@@ -184,10 +181,6 @@
 
 
 [Frontend Engineer (Senior, Ember)](tnvyea-frontend-engineer-senior-ember.md)
-
-
-#### San Francisco, CA  
-[Data Engineer (Senior)](umlza0lr-data-engineer-senior.md)
 
 
 #### Palo Alto, CA  
