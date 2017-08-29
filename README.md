@@ -270,6 +270,12 @@
 [Mobile Engineer (iOS)](u2nyawjk-mobile-engineer-ios.md)
 
 
+[Search Engineer (Senior)](u2nyawjk-search-engineer-senior.md)
+
+
+[ AI (Senior, Machine Learning)](u2nyawjk-ai-senior-machine-learning.md)
+
+
 #### Belmont, CA  
 [Hardware Engineer (Mechanical)](rw1iyxjrieryaxzl-hardware-engineer-mechanical.md)
 
