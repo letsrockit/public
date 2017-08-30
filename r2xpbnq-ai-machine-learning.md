@@ -1,4 +1,4 @@
-## AI (Machine Learning)
+## AI (Senior, Machine Learning)
 Redwood City, CA
 
 #### Overview
