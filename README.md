@@ -88,22 +88,6 @@
 [Backend Engineer (Agnostic/Ruby/Golang/Python) ](v2vhdmv3b3jrcw-backend-engineer-agnostic-ruby-golang-python.md)
 
 
-#### San Mateo, CA  
-[Infrastructure Engineer (Senior)](wmlwy2fy-infrastructure-engineer-senior.md)
-
-
-[Fullstack Engineer (Senior)](wmlwy2fy-fullstack-engineer-senior.md)
-
-
-[Data Engineer](wmlwy2fy-data-engineer.md)
-
-
-[Test Engineer (Senior)](wmlwy2fy-test-engineer-senior.md)
-
-
-[Frontend Engineer (Senior, Angular)](wmlwy2fy-frontend-engineer-senior-angular.md)
-
-
 #### Redwood City, CA  
 [Backend Engineer (Senior, Java)](r2xpbnq-backend-engineer-senior-java.md)
 
@@ -368,5 +352,21 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (node.js)](tg9uzybhyw1l-fullstack-engineer-node-js.md)
+
+
+#### San Mateo, CA  
+[Infrastructure Engineer (Senior)](wmlwy2fy-infrastructure-engineer-senior.md)
+
+
+[Fullstack Engineer (Senior)](wmlwy2fy-fullstack-engineer-senior.md)
+
+
+[Data Engineer](wmlwy2fy-data-engineer.md)
+
+
+[Test Engineer (Senior)](wmlwy2fy-test-engineer-senior.md)
+
+
+[Frontend Engineer (Senior, Angular)](wmlwy2fy-frontend-engineer-senior-angular.md)
 
 
