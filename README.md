@@ -156,6 +156,9 @@
 [Mobile Engineer (Senior, Android)](vhviasbuvg-mobile-engineer-senior-android.md)
 
 
+[  AI (Lead, Machine Learning)](vhviasbuvg-ai-lead-machine-learning.md)
+
+
 #### San Francisco, CA  
 [Backend Engineer (Senior, Ruby)](ughpbg8-backend-engineer-senior-ruby.md)
 
