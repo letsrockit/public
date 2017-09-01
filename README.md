@@ -134,13 +134,13 @@
 
 
 #### San Francisco, CA  
+[  AI (Lead, Machine Learning)](vhviasbuvg-ai-lead-machine-learning.md)
+
+
 [Mobile Engineer (Lead, Android)](vhviasbuvg-mobile-engineer-lead-android.md)
 
 
 [Mobile Engineer (Senior, Android)](vhviasbuvg-mobile-engineer-senior-android.md)
-
-
-[  AI (Lead, Machine Learning)](vhviasbuvg-ai-lead-machine-learning.md)
 
 
 #### San Francisco, CA  

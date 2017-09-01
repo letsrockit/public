@@ -19,10 +19,5 @@ Our native Android app has over 10 plus million downloads, a 4.1 plus rating on 
 +	We offer very competitive pay, equity, full medical, dental & vision benefits, catered lunch, gym subsidies and your choice of hardware
 +	Yearly bonuses depending on individual and company performance
 
-Contact
-Name: Rachel Foster
-Phone Number: 702-807-2977
-Email: rachel@rockitrecruiting.com
-
 
 [<img src='https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763'>](https://letsrockit.co/users/auth/github?job_id=vhviasbuvg-mobile-engineer-lead-android)
