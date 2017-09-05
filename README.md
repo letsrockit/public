@@ -107,13 +107,6 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (Senior, Agnostic) ](umvkynviymxl-fullstack-engineer-senior-agnostic.md)
-
-
-[Backend Engineer (Lead, Ruby)](umvkynviymxl-backend-engineer-lead-ruby.md)
-
-
-#### San Francisco, CA  
 [VP of Engineering](tglmdelnbml0zxi-vp-of-engineering.md)
 
 
