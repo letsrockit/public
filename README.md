@@ -307,9 +307,6 @@
 [Hardware Engineer (Senior, Firmware/Embedded)](q3j1axnl-hardware-engineer-senior-firmware-embedded.md)
 
 
-[Perception Engineer](q3j1axnl-perception-engineer.md)
-
-
 [DevOps Engineer](q3j1axnl-devops-engineer.md)
 
 
