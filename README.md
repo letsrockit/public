@@ -240,13 +240,16 @@
 [Mobile Engineer (Senior, Android)](u2nyawjk-mobile-engineer-senior-android.md)
 
 
+[Product Manager (Senior)](u2nyawjk-product-manager-senior.md)
+
+
 [Infrastructure Engineer (Senior)](u2nyawjk-infrastructure-engineer-senior.md)
 
 
 [Backend Engineer (Senior, Ruby)](u2nyawjk-backend-engineer-senior-ruby.md)
 
 
-[Search Engineer (Senior)](u2nyawjk-search-engineer-senior.md)
+[Fullstack Engineer (Senior, Ruby / Javascript)](u2nyawjk-search-engineer-senior.md)
 
 
 [Mobile Engineer (iOS)](u2nyawjk-mobile-engineer-ios.md)
