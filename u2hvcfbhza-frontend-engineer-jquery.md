@@ -9,10 +9,5 @@ We work with exciting companies like Tesla Automotive, General Electric, Sundanc
 ### What we look for
 An experienced, front-end developer with a strong aesthetic. You’ll be working in HTML, CSS, JavaScript and Photoshop/Sketch/etc. With customers like Tesla Automotive, Nine West, Acer, GE, and Starwood Hotels, your impact will be seen by millions every day. Those with entrepreneurial or eCommerce experience are strongly encouraged to apply.
 
-Contact
-Name: Mary Sunshine Luna
-Phone Number: 415-967-3765
-Email: mary@rockitrecruiting.com
-
 
 [<img src='https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763'>](https://letsrockit.co/users/auth/github?job_id=u2hvcfbhza-frontend-engineer-jquery)

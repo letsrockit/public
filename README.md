@@ -203,10 +203,10 @@
 
 
 #### Pleasanton, CA  
-[Data Engineer (Senior Manager / Director)](v29ya2rheq-data-engineer-senior-manager-director.md)
-
-
 [Data Engineer (Senior, Query Processing)](v29ya2rheq-data-engineer-senior-query-processing.md)
+
+
+[Data Engineer (Senior Manager / Director)](v29ya2rheq-data-engineer-senior-manager-director.md)
 
 
 #### San Francisco, CA  

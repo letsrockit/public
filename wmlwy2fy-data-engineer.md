@@ -45,10 +45,5 @@ Want to work for a company that is shaping the future of urban mobility? Ready t
 +	Company sponsored parties, outings, and events
 +	Discounts on a variety of products and services through our partners
 
-Contact
-Name: Eamon Alvarez
-Phone Number: 415-939-7507
-Email: eamon@rockitrecruiting.com
-
 
 [<img src='https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763'>](https://letsrockit.co/users/auth/github?job_id=wmlwy2fy-data-engineer)

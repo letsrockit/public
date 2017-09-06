@@ -28,10 +28,5 @@ You’re a strong engineer who enjoys collaborating with different teams. You ca
 +	Apple laptops and Thunderbolt displays
 +	Company events that include monthly happy hours and off-sites (past events include Safari West, Stinson Beach, ski trips, etc.)
 
-Contact
-Name: Christina Tamm
-Phone Number: 530-902-3222
-Email: christina@rockitrecruiting.com
-
 
 [<img src='https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763'>](https://letsrockit.co/users/auth/github?job_id=u2nyawjk-mobile-engineer-ios)

@@ -16,10 +16,5 @@ In this role, you will be leading the team that is responsible for the developme
 +	Experience with Agile software development methodologies and short release cycles.
 +	Superior communication & interpersonal skills
 
-Contact
-Name: Mary Sunshine Luna
-Phone Number: 415-967-3765
-Email: mary@rockitrecruiting.com
-
 
 [<img src='https://dabuttonfactory.com/button.png?t=Apply&f=Calibri-Bold&ts=24&tc=fff&tshs=1&tshc=000&hp=20&vp=8&c=5&bgt=gradient&bgc=3d85c6&ebgc=073763'>](https://letsrockit.co/users/auth/github?job_id=v29ya2rheq-data-engineer-senior-manager-director)
