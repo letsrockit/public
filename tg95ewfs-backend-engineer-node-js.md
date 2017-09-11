@@ -1,4 +1,4 @@
-## Backend Engineer (node.js) 
+## Backend Engineer (Go) 
 #### San Francisco, CA
 
 ### Overview
