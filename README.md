@@ -41,9 +41,6 @@
 
 
 #### San Francisco, CA  
-[Mobile Engineer (Senior, Android)](u2nyawjk-mobile-engineer-senior-android.md)
-
-
 [Infrastructure Engineer (Senior, Product)](u2nyawjk-infrastructure-engineer-senior-product.md)
 
 
@@ -60,9 +57,6 @@
 
 
 [Fullstack Engineer (Senior, Ruby / Javascript)](u2nyawjk-fullstack-engineer-senior-ruby-javascript.md)
-
-
-[Mobile Engineer (iOS)](u2nyawjk-mobile-engineer-ios.md)
 
 
 #### Palo Alto, CA  
@@ -174,9 +168,6 @@
 [  AI (Lead, Machine Learning)](vhviasbuvg-ai-lead-machine-learning.md)
 
 
-[Mobile Engineer (Senior, Android)](vhviasbuvg-mobile-engineer-senior-android.md)
-
-
 #### San Francisco, CA  
 [Fullstack Engineer (Senior, Python)](rglhbfbhza-fullstack-engineer-senior-python.md)
 
@@ -274,9 +265,6 @@
 [Fullstack Engineer (PHP)](u2hvcfbhza-fullstack-engineer-php.md)
 
 
-[Frontend Engineer (jQuery)](u2hvcfbhza-frontend-engineer-jquery.md)
-
-
 #### San Francisco, CA  
 [Fullstack Engineer (Lead, node.js)](u2vnbwvuda-fullstack-engineer-lead-node-js.md)
 
@@ -303,10 +291,6 @@
 
 
 [Security Engineer](u2hpznrmzwz0-security-engineer.md)
-
-
-#### San Francisco, CA  
-[Fullstack Engineer (Agnostic, Python)](sgldagfybgll-fullstack-engineer-agnostic-python.md)
 
 
 #### Belmont, CA  
