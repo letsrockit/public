@@ -71,6 +71,9 @@
 
 
 #### Redwood City, CA  
+[Backend Engineer (Senior, Ruby)](qmfuam8-backend-engineer-senior-ruby.md)
+
+
 [Backend Engineer (Senior, Agnostic/Ruby/Python/Java)](qmfuam8-backend-engineer-senior-agnostic-ruby-python-java.md)
 
 
