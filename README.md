@@ -47,7 +47,7 @@
 [ AI (Senior, Machine Learning)](u2nyawjk-ai-senior-machine-learning.md)
 
 
-[Infrastructure Engineer (Senior)](u2nyawjk-infrastructure-engineer-senior.md)
+[Infrastructure Engineer (Senior, DevOps)](u2nyawjk-infrastructure-engineer-senior.md)
 
 
 [Backend Engineer (Senior, Ruby)](u2nyawjk-backend-engineer-senior-ruby.md)
