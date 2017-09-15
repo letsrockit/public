@@ -257,10 +257,6 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (Manager, Ruby)](vhjpbq-fullstack-engineer-manager-ruby.md)
-
-
-#### San Francisco, CA  
 [Infrastructure Engineer (Lead)](tnvyea-infrastructure-engineer-lead.md)
 
 
