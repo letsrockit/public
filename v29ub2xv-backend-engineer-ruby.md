@@ -1,10 +1,10 @@
-## Backend Engineer (Ruby)
+## Fullstack Engineer (Ruby)
 #### San Francisco, CA
 
 ### Overview
 We are the leaders in On-Demand Staffing.
 Every day, we are providing flexible opportunities for people to make extra income,
-learn new skills, and change their lives. To date, over 150,000 jobs have been
+learn new skills, and change their lives. To date, over 200,000 jobs have been
 completed through our platform.
 Our customers range from startups to large customers including Johnson & Johnson,
 Marriott, Unum, McDonalds, The North Face, McDonalds, Home Depot, and Target.
