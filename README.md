@@ -223,6 +223,10 @@
 
 
 #### San Francisco, CA  
+[Fullstack Engineer (Manager, Ruby)](vhjpbq-fullstack-engineer-manager-ruby.md)
+
+
+#### San Francisco, CA  
 [Infrastructure Engineer (Lead)](tnvyea-infrastructure-engineer-lead.md)
 
 
@@ -260,6 +264,10 @@
 
 
 [Infrastructure Engineer](u2vnbwvuda-infrastructure-engineer.md)
+
+
+#### San Francisco, CA  
+[DevOps Engineer](rwf0c2e-devops-engineer.md)
 
 
 #### San Francisco, CA  
@@ -347,9 +355,5 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (Senior, Ruby)](u2ltcgx5sw5zdxjlza-fullstack-engineer-senior-ruby.md)
-
-
-#### San Francisco, CA  
-[Fullstack Engineer (node.js)](tg9uzybhyw1l-fullstack-engineer-node-js.md)
 
 
