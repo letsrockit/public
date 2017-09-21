@@ -226,6 +226,9 @@
 [DevOps Engineer](rwf0c2e-devops-engineer.md)
 
 
+[Fullstack Engineer (Ruby)](rwf0c2e-fullstack-engineer-ruby.md)
+
+
 #### San Francisco, CA  
 [Site Reliability Engineer (Senior, Java)](u2lmdcbty2llbmnl-site-reliability-engineer-senior-java.md)
 
