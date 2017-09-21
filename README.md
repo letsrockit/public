@@ -51,25 +51,6 @@
 
 
 #### San Francisco, CA  
-[Infrastructure Engineer (Senior, Product)](u2nyawjk-infrastructure-engineer-senior-product.md)
-
-
-[AI (Senior, Machine Learning)](u2nyawjk-ai-senior-machine-learning.md)
-
-
-[Infrastructure Engineer (Senior, DevOps)](u2nyawjk-infrastructure-engineer-senior-devops.md)
-
-
-[Backend Engineer (Senior, Ruby)](u2nyawjk-backend-engineer-senior-ruby.md)
-
-
-[Product Manager (Senior)](u2nyawjk-product-manager-senior.md)
-
-
-[Fullstack Engineer (Senior, Ruby / Javascript)](u2nyawjk-fullstack-engineer-senior-ruby-javascript.md)
-
-
-#### San Francisco, CA  
 [Fullstack Engineer (Ruby)](v29ub2xv-backend-engineer-ruby.md)
 
 
@@ -355,5 +336,24 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (Senior, Ruby)](u2ltcgx5sw5zdxjlza-fullstack-engineer-senior-ruby.md)
+
+
+#### San Francisco, CA  
+[Infrastructure Engineer (Senior, Product)](u2nyawjk-infrastructure-engineer-senior-product.md)
+
+
+[AI (Senior, Machine Learning)](u2nyawjk-ai-senior-machine-learning.md)
+
+
+[Infrastructure Engineer (Senior, DevOps)](u2nyawjk-infrastructure-engineer-senior-devops.md)
+
+
+[Backend Engineer (Senior, Ruby)](u2nyawjk-backend-engineer-senior-ruby.md)
+
+
+[Product Manager (Senior)](u2nyawjk-product-manager-senior.md)
+
+
+[Fullstack Engineer (Senior, Ruby / Javascript)](u2nyawjk-fullstack-engineer-senior-ruby-javascript.md)
 
 
