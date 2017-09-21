@@ -32,10 +32,6 @@
 [Fullstack Engineer (Java)](u25vd2zsywtl-fullstack-engineer-java.md)
 
 
-#### Palo Alto, CA  
-[Backend Engineer (Senior, node.js)](qwlydgltzq-backend-engineer-senior-node-js.md)
-
-
 #### San Francisco, CA  
 [Hacker/Architect (Senior, C++, Python)](q29tbweuywk-hacker-architect-senior-c-python.md)
 
@@ -153,19 +149,6 @@
 
 #### Redwood City, CA  
 [Fullstack Engineer (Senior, Ruby)](twfuienyyxrlcw-fullstack-engineer-senior-ruby.md)
-
-
-#### Palo Alto, CA  
-[Backend Engineer (Senior, Agnostic/Ruby/Node.js/ Flask)](t25lienvbmnlcm4-backend-engineer-senior-agnostic-ruby-node-js-flask.md)
-
-
-[Fullstack Engineer (Agnostic/ Ruby/ Node.js/ Flask)](t25lienvbmnlcm4-fullstack-engineer-agnostic-ruby-node-js-flask.md)
-
-
-[Data Engineer](t25lienvbmnlcm4-data-engineer.md)
-
-
-[Frontend Engineer (JQuery)](t25lienvbmnlcm4-frontend-engineer-jquery.md)
 
 
 #### San Francisco, CA  
@@ -355,5 +338,22 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (Ruby)](v29ub2xv-backend-engineer-ruby.md)
+
+
+#### Palo Alto, CA  
+[Backend Engineer (Senior, node.js)](qwlydgltzq-backend-engineer-senior-node-js.md)
+
+
+#### Palo Alto, CA  
+[Backend Engineer (Senior, Agnostic/Ruby/Node.js/ Flask)](t25lienvbmnlcm4-backend-engineer-senior-agnostic-ruby-node-js-flask.md)
+
+
+[Fullstack Engineer (Agnostic/ Ruby/ Node.js/ Flask)](t25lienvbmnlcm4-fullstack-engineer-agnostic-ruby-node-js-flask.md)
+
+
+[Data Engineer](t25lienvbmnlcm4-data-engineer.md)
+
+
+[Frontend Engineer (JQuery)](t25lienvbmnlcm4-frontend-engineer-jquery.md)
 
 
