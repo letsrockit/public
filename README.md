@@ -212,6 +212,9 @@
 [DevOps Engineer (Senior)](v29ya2rheq-devops-engineer-senior.md)
 
 
+[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java-af97b2b4-d1d5-4e83-9b5f-4f709779ec17.md)
+
+
 [Data Engineer (Senior Manager / Director)](v29ya2rheq-data-engineer-senior-manager-director.md)
 
 
