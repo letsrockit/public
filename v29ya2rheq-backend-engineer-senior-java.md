@@ -2,19 +2,11 @@
 #### San Francisco, CA
 
 ### Overview
-Are you passionate about solving hard problems and producing elegant solutions using whatever languages, tools, and technologies the problems demand? Do you enjoy creating and managing security solutions in a rapidly-growing global infrastructure? Our Security Event Analytics (SEA) team is building a world class event analytics platform that can sift through billions of events in real-time to detect patterns of interest. If you are passionate about large scale distributed systems, event analytics, security, and stream processing technologies, then look no further ... the SEA team provides an opportunity of a lifetime to build a massive multi-tenant low-latency event analytics system.
+We are leading providers of enterprise cloud applications for finance and human resources. Founded in 2005, we deliver financial management, human capital management, and analytics applications designed for the world's largest companies, educational institutions, and government agencies. Organizations ranging from medium-sized businesses to Fortune 50 enterprises have selected us.
 
-We are proud of our nimble, startup-like culture. We practice quick ideation, agile development, pair programming, extensive automated testing and continuous deployment. Every team is a proud service owner, responsible for the development, quality, and production support.
-
-### What you’ll do
-+	Lead/Contribute towards the design, planning, development, deploy and support of complete solutions
-+	Make architectural and implementation tradeoffs to meet project specifications while adhering to the project milestones and timeline objectives
-+	Advocate for solid software development practices in the team covering testing, modularity, scalability, and observability
-
-### What we look for
-+	4 plus years of experience in developing and debugging in Java and/or Scala
-+	Experience with big data and streaming technologies including building and scaling distributed systems, Spark, HDFS, Redis, Kafka, Storm, Akka actors, etc
-+	Skills in effective communication and influencing team’s direction
+### Job description
+Welcome to Core Platform & Data Services! Our organization develops code at the very heart of company’s cloud based software platform. As a member of this team you'll work with exceptionally innovative and experienced engineers that have built highly robust, performant and scalable services. This position requires passion, courage, tenacity, imagination and a willingness to see beyond what is ordinarily possible. In this position you’ll find your knowledge, experience and talents fully taxed and then some. Joining this team will allow you to develop deep technical strengths in building the foundations of a cloud platform and hone your engineering skills to take on the most difficult of software engineering problems. 
+Technology we teach and use everyday: Hadoop, Spark, Yarn, Oozie, Docker, Chef, Java, Scala, Kubernetes, Jenkins, Kafka, Zookeeper, RabbitMQ, Akka, XO, Ruby, JMeter, JProfiler, LoadRunner, Hive, Linux, Teamcity, Gradle, Hive
 
 
 [<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/v29ya2rheq-backend-engineer-senior-java)
