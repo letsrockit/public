@@ -89,6 +89,9 @@
 [DevOps Engineer](rwf0c2e-devops-engineer.md)
 
 
+[Engineering Manager](rwf0c2e-engineering-manager.md)
+
+
 #### San Francisco, CA  
 [Fullstack Engineer (Senior, Ruby)](vghlifjlywxszwfs-fullstack-engineer-senior-ruby.md)
 
