@@ -155,6 +155,13 @@
 [Mobile Engineer (Senior, iOS)](twfuz28gsgvhbhro-mobile-engineer-senior-ios.md)
 
 
+#### San Francisco, CA  
+[Frontend Engineer (Senior, React)](qml0tuvy-frontend-engineer-senior-react.md)
+
+
+[Designer (Lead, UX)](qml0tuvy-designer-lead-ux.md)
+
+
 #### San Mateo, CA  
 [Fullstack Engineer (Senior)](wmlwy2fy-fullstack-engineer-senior.md)
 
