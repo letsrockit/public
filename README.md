@@ -156,6 +156,9 @@
 
 
 #### San Francisco, CA  
+[Data Engineer (Senior, D3.js)](qml0tuvy-data-engineer-senior-d3-js.md)
+
+
 [Frontend Engineer (Senior, React)](qml0tuvy-frontend-engineer-senior-react.md)
 
 
