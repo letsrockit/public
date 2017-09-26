@@ -78,6 +78,9 @@
 [Fullstack Engineer (Ruby)](v29ub2xv-fullstack-engineer-ruby.md)
 
 
+[Designer (Senior, UX)](v29ub2xv-designer-senior-ux.md)
+
+
 #### San Francisco, CA  
 [Fullstack Engineer (Agnostic/Ruby)](qmxvyw-fullstack-engineer-agnostic-ruby.md)
 
