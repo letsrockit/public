@@ -232,10 +232,6 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (Senior, Python)](rglhbfbhza-fullstack-engineer-senior-python.md)
-
-
-#### San Francisco, CA  
 [Backend Engineer (Go)](tg95ewfs-backend-engineer-go.md)
 
 
