@@ -128,9 +128,6 @@
 
 
 #### San Francisco, CA  
-[Product Manager (Senior, Mobile)](vhviasbuvg-product-manager-senior-mobile.md)
-
-
 [AI (Lead, Machine Learning)](vhviasbuvg-ai-lead-machine-learning.md)
 
 
@@ -383,9 +380,5 @@
 
 #### San Francisco, CA  
 [Backend Engineer (Lead, Ruby)](txvuy2hlcnk-backend-engineer-lead-ruby.md)
-
-
-#### San Francisco, CA  
-[Fullstack Engineer (Senior, Ruby)](u2ltcgx5sw5zdxjlza-fullstack-engineer-senior-ruby.md)
 
 
