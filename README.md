@@ -95,6 +95,12 @@
 [Engineering Manager](rwf0c2e-engineering-manager.md)
 
 
+[Mobile Engineer (Senior, iOS)](rwf0c2e-mobile-engineer-senior-ios.md)
+
+
+[Mobile Engineer (Android)](rwf0c2e-mobile-engineer-android.md)
+
+
 #### San Francisco, CA  
 [Fullstack Engineer (Senior, Ruby)](vghlifjlywxszwfs-fullstack-engineer-senior-ruby.md)
 
@@ -315,13 +321,6 @@
 
 
 [AI (Machine Learning)](u2lmdcbty2llbmnl-ai-machine-learning.md)
-
-
-#### Santa Clara, CA  
-[Systems Engineer (C/Golang)](u2hpznrmzwz0-systems-engineer-c-golang.md)
-
-
-[Security Engineer](u2hpznrmzwz0-security-engineer.md)
 
 
 #### Belmont, CA  
