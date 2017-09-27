@@ -353,13 +353,6 @@
 
 
 #### San Francisco, CA  
-[Infrastructure Engineer](vgfrda-infrastructure-engineer.md)
-
-
-[Data Engineer](vgfrda-data-engineer.md)
-
-
-#### San Francisco, CA  
 [DevOps Engineer](sg91c2vwyxj0eq-devops-engineer.md)
 
 
