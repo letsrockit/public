@@ -16,7 +16,7 @@ A few requirements include experience with:
 +Linux and other operating systems
 
 NOTE: Security and/or file storage experience a plus but not required
-You will be one of our first 10 hires, so your code will be laying the foundation for us.  
+You will be one of our first 10 hires, so your code will be laying the foundation for us.
 
 ### Qualifications
 + 4-8 years or work experience
