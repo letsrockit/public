@@ -87,10 +87,6 @@
 
 
 #### San Francisco, CA  
-[Search Engineer (Senior)](u2hpchq-search-engineer-senior.md)
-
-
-#### San Francisco, CA  
 [Frontend Engineer (Angular/React)](v2vhdmv3b3jrcw-frontend-engineer-angular-react.md)
 
 
