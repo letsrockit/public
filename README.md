@@ -91,10 +91,6 @@
 
 
 #### San Francisco, CA  
-[Mobile Engineer (Senior, iOS)](twfuz28gsgvhbhro-mobile-engineer-senior-ios.md)
-
-
-#### San Francisco, CA  
 [Frontend Engineer (Angular/React)](v2vhdmv3b3jrcw-frontend-engineer-angular-react.md)
 
 
@@ -118,13 +114,13 @@
 
 
 #### Redwood City, CA  
+[AI (Senior, Machine Learning)](r2xpbnq-ai-senior-machine-learning.md)
+
+
 [Backend Engineer (Senior, Java)](r2xpbnq-backend-engineer-senior-java.md)
 
 
 [Web Application Engineer (Senior)](r2xpbnq-web-application-engineer-senior.md)
-
-
-[AI (Senior, Machine Learning)](r2xpbnq-ai-senior-machine-learning.md)
 
 
 #### San Francisco, CA  
