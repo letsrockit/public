@@ -7,13 +7,13 @@ We’re a revolutionary security platform that enables sensitive data to protect
 ### Job Description
 We are looking for the best and the brightest back-end developers to work on our platform and API. 
 
-You will be coding in C, Cpp, Hello (the distributed programming language that our CTO invented), and other languages as necessary to port us to various platforms, and its API to various languages.
+You will be coding in C, C++, Hello (the distributed programming language that our CTO invented based on C++), and other languages to port our solution to various platforms, and APIs  for various languages.
 A few requirements include experience with:
-+Highly distributed systems
-+TCP/IP
-+Server-side programming
-+Data access/control/manipulation
-+Linux and other operating systems
++ Highly distributed systems
++ TCP/IP
++ Server-side programming
++ Data access/control/manipulation
++ Linux and other operating systems
 
 NOTE: Security and/or file storage experience a plus but not required
 You will be one of our first 10 hires, so your code will be laying the foundation for us.
@@ -21,7 +21,7 @@ You will be one of our first 10 hires, so your code will be laying the foundatio
 ### Qualifications
 + 4-8 years or work experience
 + BA/BS degree in Computer Science or equivalent practical experience.
-+ C, Cpp, Linux, API, TCP/IP, Distributed Systems, Enterprise Software, Microsoft Windows
++ C, C++Screen, Linux, API, TCP/IP, Distributed Systems, Enterprise Software, Microsoft Windows
 
 
 [<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/q3j5chrvtw92zq-backend-engineer)

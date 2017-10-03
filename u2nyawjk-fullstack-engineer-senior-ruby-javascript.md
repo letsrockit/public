@@ -2,31 +2,20 @@
 #### San Francisco, CA
 
 ### Overview
-We believe in continuously improving our skills and codebase, work/life balance, and doing things right over doing them fast. We’re looking for engineers who share this view and are excited about writing quality code, trying new technologies, and playing well with others.
-We are looking for a passionate and talented engineer to develop algorithms that will ensure that every search leads to what our readers are looking for and provide the best possible personalized recommendations that are the soul and center of our product’s experience.
+We’ve built a library of millions of books, audiobooks, magazine articles, sheet music collections, and user uploaded documents. 90% of millions of active users discover our service and continue to engage with content and build their libraries using our website. This team works across the stack with a strong focus on front end work.
 
-### What you’ll do
-+	Conduct applied research by investigating, conceptualizing, designing, implementing, and validating potential algorithmic improvements in a number of areas, including search and recommendation
-+	Use data and metrics investigations to identify and quantify potential opportunities.
-+	Define and build offline evaluation frameworks.
-+	Research and implement new features, algorithms and models at scale.
-+	Evaluate them through offline experiments, and building online A/B tests running in production systems
+We’re looking for diverse, well-rounded, communicative engineers to help empower our readers to indulge their curiosities and expand their knowledge by building quality products and user experiences. Our projects tend to be 1-2 front end engineers at a time, so trust, accountability, and excellent communication skills are extremely important.
 
 ### What we look for
-+	5 plus years of experience as a Software Engineer writing production quality code (Go, Scala, Java, Python, Ruby on Rails, or similar)
-+	Strong machine learning and algorithmic background with a broad understanding of: supervised and unsupervised learning methods, bandits and reinforcement learning, deep learning.
-+	Strong data analysis skills.
-
-### Bonus points
-+	3 plus years of experience in applied machine learning using tools such as scikit-learn, TensorFlow, Keras, SparkML, etc.
-+	Experience in Personalization or Search.
-+	Experience with Spark
-+	Experience in optimization algorithms and numerical computation
-+	Experience with cloud computing platforms and large distributed systems
+You're curious, humble, and interested in learning. You like and value people! You have good taste - you don't have to be a designer, but you should take pride in your work and want to make our app a beautiful, delightful reading experience
++	2 plus years experience coding in a modern web stack -- eg. JavaScript, HTML, CSS, Ruby on Rails -- on large scale, consumer-facing web applications
++	Experience with continuous integration environments, writing testable software, as well as unit and integration tests with frameworks like Capybara, rspec and Phantomjs.
++	Experience coding features using an A/B testing framework
++	Experience de-bugging issues in a complex modern web architecture which includes: distributed servers, cdns, image servers, databases, asynchronous web services, CSRF, cross site scripting, etc
 
 ### Perks
 +	We are located in downtown San Francisco, just a few minutes’ walk from BART
-+	100 percent employer covered Medical/Dental/Vision for regular, full time employees
++	100% employer covered Medical/Dental/Vision for regular, full time employees
 +	We have a small budget for our employees to attend conferences, classes, and other events
 +	We have a lot of trust with very little bureaucracy
 +	Three meals a day, catered from local restaurants
