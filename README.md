@@ -63,10 +63,6 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (Ruby)](umvwywlyugfs-fullstack-engineer-ruby.md)
-
-
-#### San Francisco, CA  
 [Designer (Senior, UI/UX)](rwrlbg-designer-senior-ui-ux.md)
 
 
@@ -216,29 +212,6 @@
 [Backend Engineer (Senior, C++)](ugxleenoyxq-backend-engineer-senior-c.md)
 
 
-#### Pleasanton, CA  
-[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java.md)
-
-
-[Data Engineer (Senior Manager / Director)](v29ya2rheq-data-engineer-senior-manager-director.md)
-
-
-[DevOps Engineer (Senior)](v29ya2rheq-devops-engineer-senior.md)
-
-
-[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java-57c1b631-c06b-442b-a690-35b81f56f017.md)
-
-
-[Data Engineer (Senior, Query Processing)](v29ya2rheq-data-engineer-senior-query-processing.md)
-
-
-[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java-99dc5bc9-17e1-4995-b59b-6abd21601504.md)
-
-
-#### Oakland, CA  
-[Fullstack Engineer (PHP)](u2hvcfbhza-fullstack-engineer-php.md)
-
-
 #### San Francisco, CA  
 [Fullstack Engineer (Lead, node.js)](u2vnbwvuda-fullstack-engineer-lead-node-js.md)
 
@@ -371,5 +344,32 @@
 
 
 [Infrastructure Engineer (Lead)](tnvyea-infrastructure-engineer-lead.md)
+
+
+#### San Francisco, CA  
+[Fullstack Engineer (Ruby)](umvwywlyugfs-fullstack-engineer-ruby.md)
+
+
+#### Pleasanton, CA  
+[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java.md)
+
+
+[Data Engineer (Senior Manager / Director)](v29ya2rheq-data-engineer-senior-manager-director.md)
+
+
+[DevOps Engineer (Senior)](v29ya2rheq-devops-engineer-senior.md)
+
+
+[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java-57c1b631-c06b-442b-a690-35b81f56f017.md)
+
+
+[Data Engineer (Senior, Query Processing)](v29ya2rheq-data-engineer-senior-query-processing.md)
+
+
+[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java-99dc5bc9-17e1-4995-b59b-6abd21601504.md)
+
+
+#### Oakland, CA  
+[Fullstack Engineer (PHP)](u2hvcfbhza-fullstack-engineer-php.md)
 
 
