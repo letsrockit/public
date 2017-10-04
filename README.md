@@ -6,16 +6,6 @@
 [Hacker/Architect (Senior, C++, Python)](q29tbweuywk-hacker-architect-senior-c-python.md)
 
 
-#### San Francisco, CA  
-[Game Client Engineer (C/C++/C#/Java)](tjnuv09ssw-game-client-engineer-c-c-c-java.md)
-
-
-[Backend Engineer (C++)](tjnuv09ssw-backend-engineer-c.md)
-
-
-[Analytics Pipeline Engineer (Python/Java)](tjnuv09ssw-analytics-pipeline-engineer-python-java.md)
-
-
 #### San Mateo, CA  
 [Mobile Engineer (Principal, iOS)](vglszq-mobile-engineer-principal-ios.md)
 
@@ -45,16 +35,6 @@
 
 
 [Game Engine Developer (Senior)](u2t5zglv-game-engine-developer-senior.md)
-
-
-#### Redwood City, CA  
-[DevOps Engineer (Senior)](qmfuam8-devops-engineer-senior.md)
-
-
-[Backend Engineer (Senior, Agnostic/Ruby/Python/Java)](qmfuam8-backend-engineer-senior-agnostic-ruby-python-java.md)
-
-
-[Backend Engineer (Senior, Ruby)](qmfuam8-backend-engineer-senior-ruby.md)
 
 
 #### San Francisco, CA  
@@ -198,13 +178,6 @@
 
 #### Redwood City, CA  
 [Fullstack Engineer (Senior, Ruby)](twfuienyyxrlcw-fullstack-engineer-senior-ruby.md)
-
-
-#### San Francisco, CA  
-[Frontend Engineer (Senior, Ember)](tnvyea-frontend-engineer-senior-ember.md)
-
-
-[Infrastructure Engineer (Lead)](tnvyea-infrastructure-engineer-lead.md)
 
 
 #### Palo Alto, CA  
@@ -371,5 +344,32 @@
 
 #### San Mateo, CA  
 [Backend Engineer](q3j5chrvtw92zq-backend-engineer.md)
+
+
+#### San Francisco, CA  
+[Game Client Engineer (C/C++/C#/Java)](tjnuv09ssw-game-client-engineer-c-c-c-java.md)
+
+
+[Backend Engineer (C++)](tjnuv09ssw-backend-engineer-c.md)
+
+
+[Analytics Pipeline Engineer (Python/Java)](tjnuv09ssw-analytics-pipeline-engineer-python-java.md)
+
+
+#### Redwood City, CA  
+[DevOps Engineer (Senior)](qmfuam8-devops-engineer-senior.md)
+
+
+[Backend Engineer (Senior, Agnostic/Ruby/Python/Java)](qmfuam8-backend-engineer-senior-agnostic-ruby-python-java.md)
+
+
+[Backend Engineer (Senior, Ruby)](qmfuam8-backend-engineer-senior-ruby.md)
+
+
+#### San Francisco, CA  
+[Frontend Engineer (Senior, Ember)](tnvyea-frontend-engineer-senior-ember.md)
+
+
+[Infrastructure Engineer (Lead)](tnvyea-infrastructure-engineer-lead.md)
 
 
