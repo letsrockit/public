@@ -94,10 +94,10 @@
 
 
 #### San Francisco, CA  
-[Backend Engineer (Agnostic/Ruby/Golang/Python)](v2vhdmv3b3jrcw-backend-engineer-agnostic-ruby-golang-python.md)
-
-
 [Frontend Engineer (Angular/React)](v2vhdmv3b3jrcw-frontend-engineer-angular-react.md)
+
+
+[Backend Engineer (Agnostic/Ruby/Golang/Python)](v2vhdmv3b3jrcw-backend-engineer-agnostic-ruby-golang-python.md)
 
 
 #### San Mateo, CA  
@@ -131,16 +131,16 @@
 
 
 #### San Francisco, CA  
-[Designer (Lead, UX)](qml0tuvy-designer-lead-ux.md)
-
-
 [Head of Product (Lead)](qml0tuvy-head-of-product-lead.md)
 
 
-[Frontend Engineer (Senior, React)](qml0tuvy-frontend-engineer-senior-react.md)
+[Designer (Lead, UX)](qml0tuvy-designer-lead-ux.md)
 
 
 [Data Engineer (Senior, D3.js)](qml0tuvy-data-engineer-senior-d3-js.md)
+
+
+[Frontend Engineer (Senior, React)](qml0tuvy-frontend-engineer-senior-react.md)
 
 
 #### Redwood City, CA  
@@ -201,10 +201,10 @@
 
 
 #### San Francisco, CA  
-[Infrastructure Engineer (Lead)](tnvyea-infrastructure-engineer-lead.md)
-
-
 [Frontend Engineer (Senior, Ember)](tnvyea-frontend-engineer-senior-ember.md)
+
+
+[Infrastructure Engineer (Lead)](tnvyea-infrastructure-engineer-lead.md)
 
 
 #### Palo Alto, CA  
@@ -231,7 +231,7 @@
 [Data Engineer (Senior Manager / Director)](v29ya2rheq-data-engineer-senior-manager-director.md)
 
 
-[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java-61635f5b-513a-4d8b-b85a-ee0a6187dea9.md)
+[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java-ec0666ec-40ee-49a9-b132-a45ba331ff0e.md)
 
 
 [DevOps Engineer (Senior)](v29ya2rheq-devops-engineer-senior.md)
@@ -243,7 +243,7 @@
 [Distributed Systems & Cloud Technologies Engineer (Senior)](v29ya2rheq-distributed-systems-cloud-technologies-engineer-senior.md)
 
 
-[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java-6e2501c4-5bd5-43a6-ba59-f73a24a1758e.md)
+[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java-c55ce07c-2cd2-4b5a-9e1b-a069887a2537.md)
 
 
 #### Oakland, CA  
@@ -265,10 +265,10 @@
 
 
 #### San Francisco, CA  
-[Engineering Manager](rwf0c2e-engineering-manager.md)
-
-
 [Fullstack Engineer (Ruby)](rwf0c2e-fullstack-engineer-ruby.md)
+
+
+[Engineering Manager](rwf0c2e-engineering-manager.md)
 
 
 [Mobile Engineer (Senior, iOS)](rwf0c2e-mobile-engineer-senior-ios.md)
@@ -287,16 +287,20 @@
 [AI (Senior, Machine Learning)](u2nyawjk-ai-senior-machine-learning.md)
 
 
-[Fullstack Engineer (Senior, Ruby / Javascript)](u2nyawjk-fullstack-engineer-senior-ruby-javascript.md)
-
-
 [Infrastructure Engineer (Senior, DevOps)](u2nyawjk-infrastructure-engineer-senior-devops.md)
+
+
+[Fullstack Engineer (Senior, Ruby / Javascript)](u2nyawjk-fullstack-engineer-senior-ruby-javascript.md)
 
 
 [Backend Engineer (Senior, Ruby)](u2nyawjk-backend-engineer-senior-ruby.md)
 
 
 [Product Manager (Senior)](u2nyawjk-product-manager-senior.md)
+
+
+#### San Francisco, CA  
+[Infrastructure Engineer](vgfrda-infrastructure-engineer.md)
 
 
 #### San Mateo, CA  
@@ -308,6 +312,13 @@
 
 
 [AI (Machine Learning)](u2lmdcbty2llbmnl-ai-machine-learning.md)
+
+
+#### San Francisco, CA  
+[AI (Senior, Machine Learning)](v2luzgzhbgwgrgf0yq-ai-senior-machine-learning.md)
+
+
+[Data Scientist (Senior)](v2luzgzhbgwgrgf0yq-data-scientist-senior.md)
 
 
 #### San Francisco, CA  
@@ -324,13 +335,6 @@
 
 
 #### San Francisco, CA  
-[Data Scientist (Senior)](v2luzgzhbgwgrgf0yq-data-scientist-senior.md)
-
-
-[AI (Senior, Machine Learning)](v2luzgzhbgwgrgf0yq-ai-senior-machine-learning.md)
-
-
-#### San Francisco, CA  
 [Backend Engineer (Python / node.js)](q3j1axnl-backend-engineer-python-node-js.md)
 
 
@@ -340,10 +344,10 @@
 [Mobile Engineer (Android)](q3j1axnl-mobile-engineer-android.md)
 
 
-[Backend Engineer (C++)](q3j1axnl-backend-engineer-c.md)
-
-
 [Hardware Engineer (Senior, Firmware/Embedded)](q3j1axnl-hardware-engineer-senior-firmware-embedded.md)
+
+
+[Backend Engineer (C++)](q3j1axnl-backend-engineer-c.md)
 
 
 [DevOps Engineer](q3j1axnl-devops-engineer.md)
@@ -353,10 +357,6 @@
 
 
 [Platform Engineer (Senior, C/C++)](q3j1axnl-platform-engineer-senior-c-c.md)
-
-
-#### San Francisco, CA  
-[Infrastructure Engineer](vgfrda-infrastructure-engineer.md)
 
 
 #### San Francisco, CA  
