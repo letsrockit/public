@@ -1,13 +1,3 @@
-#### San Francisco, CA  
-[Game Client Engineer (C/C++/C#/Java)](tjnuv09ssw-game-client-engineer-c-c-c-java.md)
-
-
-[Analytics Pipeline Engineer (Python/Java)](tjnuv09ssw-analytics-pipeline-engineer-python-java.md)
-
-
-[Backend Engineer (C++)](tjnuv09ssw-backend-engineer-c.md)
-
-
 #### San Mateo, CA  
 [Mobile Engineer (Principal, iOS)](vglszq-mobile-engineer-principal-ios.md)
 
@@ -76,13 +66,6 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (Senior, Ruby/Python)](rwrlbg-fullstack-engineer-senior-ruby-python.md)
-
-
-[Designer (Senior, UI/UX)](rwrlbg-designer-senior-ui-ux.md)
-
-
-#### San Francisco, CA  
 [Frontend Engineer (Angular/React)](v2vhdmv3b3jrcw-frontend-engineer-angular-react.md)
 
 
@@ -113,10 +96,6 @@
 
 
 [AI (Senior, Machine Learning)](r2xpbnq-ai-senior-machine-learning.md)
-
-
-#### San Francisco, CA  
-[Backend Engineer (Go)](tg95ewfs-backend-engineer-go.md)
 
 
 #### San Francisco, CA  
@@ -274,19 +253,6 @@
 
 
 #### San Francisco, CA  
-[Hardware Engineer (Mechanical)](rw1iyxjrieryaxzl-hardware-engineer-mechanical.md)
-
-
-[Software Engineer (Computer Vision, Robotics, Localization)](rw1iyxjrieryaxzl-software-engineer-computer-vision-robotics-localization.md)
-
-
-[Hardware Engineer (Senior, Firmware/Embedded)](rw1iyxjrieryaxzl-hardware-engineer-senior-firmware-embedded.md)
-
-
-[DevOps Engineer](rw1iyxjrieryaxzl-devops-engineer.md)
-
-
-#### San Francisco, CA  
 [Backend Engineer (Python / node.js)](q3j1axnl-backend-engineer-python-node-js.md)
 
 
@@ -312,19 +278,6 @@
 
 
 #### San Francisco, CA  
-[DevOps Engineer](sg91c2vwyxj0eq-devops-engineer.md)
-
-
-[Mobile Engineer (iOS)](sg91c2vwyxj0eq-mobile-engineer-ios.md)
-
-
-[Data Engineer](sg91c2vwyxj0eq-data-engineer.md)
-
-
-[Mobile Engineer (Senior, Android)](sg91c2vwyxj0eq-mobile-engineer-senior-android.md)
-
-
-#### San Francisco, CA  
 [Backend Engineer (Lead, Ruby)](txvuy2hlcnk-backend-engineer-lead-ruby.md)
 
 
@@ -337,6 +290,16 @@
 
 
 [AI (Lead, Machine Learning)](vhviasbuvg-ai-lead-machine-learning.md)
+
+
+#### San Francisco, CA  
+[Game Client Engineer (C/C++/C#/Java)](tjnuv09ssw-game-client-engineer-c-c-c-java.md)
+
+
+[Analytics Pipeline Engineer (Python/Java)](tjnuv09ssw-analytics-pipeline-engineer-python-java.md)
+
+
+[Backend Engineer (C++)](tjnuv09ssw-backend-engineer-c.md)
 
 
 #### San Francisco, CA  
@@ -374,5 +337,42 @@
 
 
 [Mobile Engineer (Senior, Android)](q2hhcmlvda-mobile-engineer-senior-android.md)
+
+
+#### San Francisco, CA  
+[Fullstack Engineer (Senior, Ruby/Python)](rwrlbg-fullstack-engineer-senior-ruby-python.md)
+
+
+[Designer (Senior, UI/UX)](rwrlbg-designer-senior-ui-ux.md)
+
+
+#### San Francisco, CA  
+[Backend Engineer (Go)](tg95ewfs-backend-engineer-go.md)
+
+
+#### San Francisco, CA  
+[Hardware Engineer (Mechanical)](rw1iyxjrieryaxzl-hardware-engineer-mechanical.md)
+
+
+[Software Engineer (Computer Vision, Robotics, Localization)](rw1iyxjrieryaxzl-software-engineer-computer-vision-robotics-localization.md)
+
+
+[Hardware Engineer (Senior, Firmware/Embedded)](rw1iyxjrieryaxzl-hardware-engineer-senior-firmware-embedded.md)
+
+
+[DevOps Engineer](rw1iyxjrieryaxzl-devops-engineer.md)
+
+
+#### San Francisco, CA  
+[DevOps Engineer](sg91c2vwyxj0eq-devops-engineer.md)
+
+
+[Mobile Engineer (iOS)](sg91c2vwyxj0eq-mobile-engineer-ios.md)
+
+
+[Data Engineer](sg91c2vwyxj0eq-data-engineer.md)
+
+
+[Mobile Engineer (Senior, Android)](sg91c2vwyxj0eq-mobile-engineer-senior-android.md)
 
 
