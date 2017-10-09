@@ -137,28 +137,6 @@
 
 
 #### San Francisco, CA  
-[Engineering Manager](q2hhcmlvda-engineering-manager.md)
-
-
-[Frontend Engineer (Senior, Angular)](q2hhcmlvda-frontend-engineer-senior-angular.md)
-
-
-[Mobile Engineer (Senior, iOS)](q2hhcmlvda-mobile-engineer-senior-ios.md)
-
-
-[Backend Engineer (Senior, Python)](q2hhcmlvda-backend-engineer-senior-python.md)
-
-
-[DevOps Engineer (Lead)](q2hhcmlvda-devops-engineer-lead.md)
-
-
-[Fullstack Engineer (Senior, Python)](q2hhcmlvda-fullstack-engineer-senior-python.md)
-
-
-[Mobile Engineer (Senior, Android)](q2hhcmlvda-mobile-engineer-senior-android.md)
-
-
-#### San Francisco, CA  
 [Backend Engineer (Senior, Ruby)](ughpbg8-backend-engineer-senior-ruby.md)
 
 
@@ -374,5 +352,27 @@
 
 #### San Francisco, CA  
 [Infrastructure Engineer](vgfrda-infrastructure-engineer.md)
+
+
+#### San Francisco, CA  
+[Engineering Manager](q2hhcmlvda-engineering-manager.md)
+
+
+[Frontend Engineer (Senior, Angular)](q2hhcmlvda-frontend-engineer-senior-angular.md)
+
+
+[Mobile Engineer (Senior, iOS)](q2hhcmlvda-mobile-engineer-senior-ios.md)
+
+
+[Backend Engineer (Senior, Python)](q2hhcmlvda-backend-engineer-senior-python.md)
+
+
+[DevOps Engineer (Lead)](q2hhcmlvda-devops-engineer-lead.md)
+
+
+[Fullstack Engineer (Senior, Python)](q2hhcmlvda-fullstack-engineer-senior-python.md)
+
+
+[Mobile Engineer (Senior, Android)](q2hhcmlvda-mobile-engineer-senior-android.md)
 
 
