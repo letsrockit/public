@@ -1,8 +1,4 @@
 #### San Francisco, CA  
-[Fullstack Engineer (node.js)](wmlwb25nbw-fullstack-engineer-node-js.md)
-
-
-#### San Francisco, CA  
 [Game Client Engineer (C/C++/C#/Java)](tjnuv09ssw-game-client-engineer-c-c-c-java.md)
 
 
@@ -73,13 +69,6 @@
 
 
 [DevOps Engineer (Manager)](vghlifjlywxszwfs-devops-engineer-manager.md)
-
-
-#### San Francisco, CA  
-[Mobile Engineer (Lead, Android)](vhviasbuvg-mobile-engineer-lead-android.md)
-
-
-[AI (Lead, Machine Learning)](vhviasbuvg-ai-lead-machine-learning.md)
 
 
 #### San Francisco, CA  
@@ -181,13 +170,6 @@
 
 
 [Frontend Engineer (Senior)](ughpbg8-frontend-engineer-senior.md)
-
-
-#### San Francisco, CA  
-[Infrastructure Engineer (Senior)](rml2zvn0yxjz-infrastructure-engineer-senior.md)
-
-
-[Fullstack Engineer (Senior, Python)](rml2zvn0yxjz-fullstack-engineer-senior-python.md)
 
 
 #### San Francisco, CA  
@@ -374,5 +356,23 @@
 
 #### San Francisco, CA  
 [Backend Engineer (Lead, Ruby)](txvuy2hlcnk-backend-engineer-lead-ruby.md)
+
+
+#### San Francisco, CA  
+[Fullstack Engineer (node.js)](wmlwb25nbw-fullstack-engineer-node-js.md)
+
+
+#### San Francisco, CA  
+[Mobile Engineer (Lead, Android)](vhviasbuvg-mobile-engineer-lead-android.md)
+
+
+[AI (Lead, Machine Learning)](vhviasbuvg-ai-lead-machine-learning.md)
+
+
+#### San Francisco, CA  
+[Infrastructure Engineer (Senior)](rml2zvn0yxjz-infrastructure-engineer-senior.md)
+
+
+[Fullstack Engineer (Senior, Python)](rml2zvn0yxjz-fullstack-engineer-senior-python.md)
 
 
