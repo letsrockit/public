@@ -137,10 +137,6 @@
 
 
 #### San Francisco, CA  
-[VP of Engineering](tglmdelnbml0zxi-vp-of-engineering.md)
-
-
-#### San Francisco, CA  
 [Engineering Manager](q2hhcmlvda-engineering-manager.md)
 
 
@@ -281,10 +277,6 @@
 [Product Manager (Senior)](u2nyawjk-product-manager-senior.md)
 
 
-#### San Francisco, CA  
-[Infrastructure Engineer](vgfrda-infrastructure-engineer.md)
-
-
 #### San Mateo, CA  
 [Backend Engineer](q3j5chrvtw92zq-backend-engineer.md)
 
@@ -370,9 +362,17 @@
 
 
 #### San Francisco, CA  
+[VP of Engineering](tglmdelnbml0zxi-vp-of-engineering.md)
+
+
+#### San Francisco, CA  
 [Infrastructure Engineer (Senior)](rml2zvn0yxjz-infrastructure-engineer-senior.md)
 
 
 [Fullstack Engineer (Senior, Python)](rml2zvn0yxjz-fullstack-engineer-senior-python.md)
+
+
+#### San Francisco, CA  
+[Infrastructure Engineer](vgfrda-infrastructure-engineer.md)
 
 
