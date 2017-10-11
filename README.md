@@ -54,6 +54,12 @@
 [Mobile Engineer (Manager, iOS)](vgv4de5vdw-mobile-engineer-manager-ios.md)
 
 
+[Technical Recruiter (Senior)](vgv4de5vdw-technical-recruiter-senior.md)
+
+
+[Growth Web Developer](vgv4de5vdw-growth-web-developer.md)
+
+
 #### Redwood City, CA  
 [Backend Engineer (Senior, Agnostic/Ruby/Python/Java)](qmfuam8-backend-engineer-senior-agnostic-ruby-python-java.md)
 
