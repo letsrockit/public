@@ -50,6 +50,10 @@
 [Fullstack Engineer (Python)](u2t5zglv-fullstack-engineer-python.md)
 
 
+#### San Francisco, CA  
+[Mobile Engineer (Manager, iOS)](vgv4de5vdw-mobile-engineer-manager-ios.md)
+
+
 #### Redwood City, CA  
 [Backend Engineer (Senior, Agnostic/Ruby/Python/Java)](qmfuam8-backend-engineer-senior-agnostic-ruby-python-java.md)
 
