@@ -224,13 +224,6 @@
 [Frontend Engineer (JQuery)](t25lienvbmnlcm4-frontend-engineer-jquery.md)
 
 
-#### San Francisco, CA  
-[AI (Senior, Machine Learning)](qwxwaw5llmfpic8gvm9py2ugtgficw-ai-senior-machine-learning.md)
-
-
-[Backend Engineer (Senior, Agnostic/Python)](qwxwaw5llmfpic8gvm9py2ugtgficw-backend-engineer-senior-agnostic-python.md)
-
-
 #### Redwood City, CA  
 [Backend Engineer (Senior, C++)](ugxleenoyxq-backend-engineer-senior-c.md)
 
@@ -388,5 +381,12 @@
 
 #### San Francisco, CA  
 [Backend Engineer (Lead, Ruby)](txvuy2hlcnk-backend-engineer-lead-ruby.md)
+
+
+#### San Francisco, CA  
+[AI (Senior, Machine Learning)](qwxwaw5llmfpic8gvm9py2ugtgficw-ai-senior-machine-learning.md)
+
+
+[Backend Engineer (Senior, Agnostic/Python)](qwxwaw5llmfpic8gvm9py2ugtgficw-backend-engineer-senior-agnostic-python.md)
 
 
