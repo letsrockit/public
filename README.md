@@ -86,10 +86,6 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (Java)](u2hhcmvzcgfjzq-fullstack-engineer-java.md)
-
-
-#### San Francisco, CA  
 [Fullstack Engineer (Ruby)](umvwywlyugfs-fullstack-engineer-ruby.md)
 
 
@@ -391,6 +387,10 @@
 
 #### San Francisco, CA  
 [Backend Engineer (Lead, Ruby)](txvuy2hlcnk-backend-engineer-lead-ruby.md)
+
+
+#### San Francisco, CA  
+[Fullstack Engineer (Java)](u2hhcmvzcgfjzq-fullstack-engineer-java.md)
 
 
 #### San Francisco, CA  
