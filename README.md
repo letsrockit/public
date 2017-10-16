@@ -320,6 +320,10 @@
 [Backend Engineer](q3j5chrvtw92zq-backend-engineer.md)
 
 
+#### Oakland, CA  
+[Backend Engineer (Agnostic/Node/Go)](vlndtw-backend-engineer-agnostic-node-go.md)
+
+
 #### San Francisco, CA  
 [Site Reliability Engineer (Senior, Java)](u2lmdcbty2llbmnl-site-reliability-engineer-senior-java.md)
 
