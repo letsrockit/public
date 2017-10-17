@@ -25,13 +25,6 @@
 [Mobile Engineer (Principal, Android)](vglszq-mobile-engineer-principal-android.md)
 
 
-#### San Mateo, CA  
-[Frontend Engineer (Lead, React)](u25vd2zsywtl-frontend-engineer-lead-react.md)
-
-
-[Fullstack Engineer (Java)](u25vd2zsywtl-fullstack-engineer-java.md)
-
-
 #### Palo Alto, CA  
 [Backend Engineer (Senior, node.js)](qwlydgltzq-backend-engineer-senior-node-js.md)
 
@@ -85,6 +78,10 @@
 [DevOps Engineer (Senior)](vghlifjlywxszwfs-devops-engineer-senior.md)
 
 
+#### Oakland, CA  
+[Backend Engineer (Agnostic/Node/Go)](vlndtw-backend-engineer-agnostic-node-go.md)
+
+
 #### San Francisco, CA  
 [Fullstack Engineer (Java)](u2hhcmvzcgfjzq-fullstack-engineer-java.md)
 
@@ -100,18 +97,11 @@
 [Designer (Senior, UI/UX)](rwrlbg-designer-senior-ui-ux.md)
 
 
-#### San Francisco, CA  
-[Frontend Engineer (Angular/React)](v2vhdmv3b3jrcw-frontend-engineer-angular-react.md)
-
-
-[Backend Engineer (Agnostic/Ruby/Golang/Python)](v2vhdmv3b3jrcw-backend-engineer-agnostic-ruby-golang-python.md)
-
-
 #### San Mateo, CA  
-[Infrastructure Engineer (Senior)](wmlwy2fy-infrastructure-engineer-senior.md)
-
-
 [Fullstack Engineer (Senior)](wmlwy2fy-fullstack-engineer-senior.md)
+
+
+[Infrastructure Engineer (Senior)](wmlwy2fy-infrastructure-engineer-senior.md)
 
 
 [Data Engineer](wmlwy2fy-data-engineer.md)
@@ -174,13 +164,13 @@
 [Backend Engineer (Senior, Python)](q2hhcmlvda-backend-engineer-senior-python.md)
 
 
+[Mobile Engineer (Senior, Android)](q2hhcmlvda-mobile-engineer-senior-android.md)
+
+
 [DevOps Engineer (Lead)](q2hhcmlvda-devops-engineer-lead.md)
 
 
 [Fullstack Engineer (Senior, Python)](q2hhcmlvda-fullstack-engineer-senior-python.md)
-
-
-[Mobile Engineer (Senior, Android)](q2hhcmlvda-mobile-engineer-senior-android.md)
 
 
 #### San Francisco, CA  
@@ -241,10 +231,10 @@
 [Data Engineer (Senior Manager / Director)](v29ya2rheq-data-engineer-senior-manager-director.md)
 
 
+[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java-3a9b82c8-2f2d-445d-93b0-8ee2155cfdfb.md)
+
+
 [DevOps Engineer (Senior)](v29ya2rheq-devops-engineer-senior.md)
-
-
-[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java-6dc8cf2c-9829-46d1-84aa-da0b05241659.md)
 
 
 [Data Engineer (Senior, Query Processing)](v29ya2rheq-data-engineer-senior-query-processing.md)
@@ -253,7 +243,7 @@
 [Distributed Systems & Cloud Technologies Engineer (Senior)](v29ya2rheq-distributed-systems-cloud-technologies-engineer-senior.md)
 
 
-[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java-d9a927ba-996d-4f24-a64a-9d79f3ce79f1.md)
+[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java-9cb44e95-70a3-4888-85bc-06a26890592f.md)
 
 
 #### Oakland, CA  
@@ -271,13 +261,6 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (Agnostic/Ruby)](qmxvyw-fullstack-engineer-agnostic-ruby.md)
-
-
-#### San Francisco, CA  
-[Infrastructure Engineer](vgfrda-infrastructure-engineer.md)
-
-
 [Data Engineer](vgfrda-data-engineer.md)
 
 
@@ -320,19 +303,11 @@
 [Backend Engineer](q3j5chrvtw92zq-backend-engineer.md)
 
 
-#### Oakland, CA  
-[Backend Engineer (Agnostic/Node/Go)](vlndtw-backend-engineer-agnostic-node-go.md)
-
-
 #### San Francisco, CA  
-[Site Reliability Engineer (Senior, Java)](u2lmdcbty2llbmnl-site-reliability-engineer-senior-java.md)
-
-
-#### San Francisco, CA  
-[AI (Senior, Machine Learning)](v2luzgzhbgwgrgf0yq-ai-senior-machine-learning.md)
-
-
 [Data Scientist (Senior)](v2luzgzhbgwgrgf0yq-data-scientist-senior.md)
+
+
+[AI (Senior, Machine Learning)](v2luzgzhbgwgrgf0yq-ai-senior-machine-learning.md)
 
 
 #### San Francisco, CA  
@@ -381,6 +356,9 @@
 
 
 [Data Engineer](sg91c2vwyxj0eq-data-engineer.md)
+
+
+[Backend Engineer (Agnostic)](sg91c2vwyxj0eq-backend-engineer-agnostic.md)
 
 
 [Mobile Engineer (Senior, Android)](sg91c2vwyxj0eq-mobile-engineer-senior-android.md)
