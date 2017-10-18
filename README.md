@@ -261,6 +261,10 @@
 
 
 #### San Francisco, CA  
+[Fullstack Engineer (node.js/React)](sgf1cw-fullstack-engineer-node-js-react.md)
+
+
+#### San Francisco, CA  
 [Engineering Manager](rwf0c2e-engineering-manager.md)
 
 
