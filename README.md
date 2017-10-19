@@ -72,7 +72,7 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (Senior, Ruby)](vghlifjlywxszwfs-fullstack-engineer-senior-ruby.md)
+[Fullstack Engineer (Senior, Ruby on Rails)](vghlifjlywxszwfs-fullstack-engineer-senior-ruby.md)
 
 
 [DevOps Engineer (Senior)](vghlifjlywxszwfs-devops-engineer-senior.md)
@@ -205,19 +205,6 @@
 
 
 [Infrastructure Engineer (Lead)](tnvyea-infrastructure-engineer-lead.md)
-
-
-#### Palo Alto, CA  
-[Backend Engineer (Senior, Agnostic/Ruby/Node.js/ Flask)](t25lienvbmnlcm4-backend-engineer-senior-agnostic-ruby-node-js-flask.md)
-
-
-[Fullstack Engineer (Agnostic/ Ruby/ Node.js/ Flask)](t25lienvbmnlcm4-fullstack-engineer-agnostic-ruby-node-js-flask.md)
-
-
-[Data Engineer](t25lienvbmnlcm4-data-engineer.md)
-
-
-[Frontend Engineer (JQuery)](t25lienvbmnlcm4-frontend-engineer-jquery.md)
 
 
 #### Oakland, CA  
