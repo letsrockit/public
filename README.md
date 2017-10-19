@@ -300,7 +300,7 @@
 
 
 #### San Mateo, CA  
-[Backend Engineer](q3j5chrvtw92zq-backend-engineer.md)
+[Backend Engineer (Senior, C/C++/C#)](q3j5chrvtw92zq-backend-engineer.md)
 
 
 #### San Francisco, CA  
@@ -345,17 +345,11 @@
 [Backend Engineer (Senior, C++)](q3j1axnl-backend-engineer-senior-c.md)
 
 
-[Platform Engineer (Senior, C/C++)](q3j1axnl-platform-engineer-senior-c-c.md)
-
-
 #### San Francisco, CA  
 [Data Engineer](vgfrda-data-engineer.md)
 
 
 #### San Francisco, CA  
-[DevOps Engineer](sg91c2vwyxj0eq-devops-engineer.md)
-
-
 [Mobile Engineer (iOS)](sg91c2vwyxj0eq-mobile-engineer-ios.md)
 
 
