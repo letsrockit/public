@@ -212,6 +212,9 @@
 
 
 #### Pleasanton, CA  
+[VMWare Operations Engineer](v29ya2rheq-vmware-operations-engineer.md)
+
+
 [Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java.md)
 
 
