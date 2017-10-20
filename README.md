@@ -215,19 +215,19 @@
 [VMWare Operations Engineer](v29ya2rheq-vmware-operations-engineer.md)
 
 
-[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java.md)
+[Backend Engineer (Senior, Java, Core Platform)](v29ya2rheq-backend-engineer-senior-java.md)
 
 
-[Data Engineer (Senior Manager / Director)](v29ya2rheq-data-engineer-senior-manager-director.md)
+[Distributed Systems & Cloud Services (Senior Manager / Director)](v29ya2rheq-data-engineer-senior-manager-director.md)
 
 
 [DevOps Engineer (Senior)](v29ya2rheq-devops-engineer-senior.md)
 
 
-[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java-cd4ef12d-5616-4592-ab3d-8547e980e513.md)
+[Backend Engineer (Senior, Java, BI)](v29ya2rheq-backend-engineer-senior-java-cd4ef12d-5616-4592-ab3d-8547e980e513.md)
 
 
-[Data Engineer (Senior, Query Processing)](v29ya2rheq-data-engineer-senior-query-processing.md)
+[Distributed Systems Engineer, Query Processing (Senior, Java/Scala)](v29ya2rheq-data-engineer-senior-query-processing.md)
 
 
 [Distributed Systems & Cloud Technologies Engineer (Senior)](v29ya2rheq-distributed-systems-cloud-technologies-engineer-senior.md)

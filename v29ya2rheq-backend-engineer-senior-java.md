@@ -1,4 +1,4 @@
-## Backend Engineer (Senior, Java)
+## Backend Engineer (Senior, Java, Core Platform)
 #### San Francisco, CA
 
 ### Overview
