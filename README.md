@@ -258,7 +258,7 @@
 [Engineering Manager](rwf0c2e-engineering-manager.md)
 
 
-[Fullstack Engineer (Ruby)](rwf0c2e-fullstack-engineer-ruby.md)
+[Fullstack Engineer (Java)](rwf0c2e-fullstack-engineer-ruby.md)
 
 
 [Mobile Engineer (Senior, iOS)](rwf0c2e-mobile-engineer-senior-ios.md)
