@@ -218,6 +218,9 @@
 [Search Software Engineer (Senior, Java/Scala)](v29ya2rheq-search-software-engineer-senior-java-scala.md)
 
 
+[AI (Senior, Machine Learning)](v29ya2rheq-ai-senior-machine-learning.md)
+
+
 [Backend Engineer (Senior, Java, Core Platform)](v29ya2rheq-backend-engineer-senior-java-core-platform.md)
 
 
