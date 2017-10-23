@@ -215,6 +215,9 @@
 [Backend Engineer (Senior, Java, Machine Learning Platform)](v29ya2rheq-backend-engineer-senior-java-machine-learning-platform.md)
 
 
+[Search Software Engineer (Senior, Java/Scala)](v29ya2rheq-search-software-engineer-senior-java-scala.md)
+
+
 [Backend Engineer (Senior, Java, Core Platform)](v29ya2rheq-backend-engineer-senior-java-core-platform.md)
 
 
