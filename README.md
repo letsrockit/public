@@ -98,10 +98,10 @@
 
 
 #### San Mateo, CA  
-[Fullstack Engineer (Senior)](wmlwy2fy-fullstack-engineer-senior.md)
-
-
 [Infrastructure Engineer (Senior)](wmlwy2fy-infrastructure-engineer-senior.md)
+
+
+[Fullstack Engineer (Senior)](wmlwy2fy-fullstack-engineer-senior.md)
 
 
 [Data Engineer](wmlwy2fy-data-engineer.md)
@@ -148,6 +148,10 @@
 
 
 #### San Francisco, CA  
+[VP of Engineering](tglmdelnbml0zxi-vp-of-engineering.md)
+
+
+#### San Francisco, CA  
 [Engineering Manager](q2hhcmlvda-engineering-manager.md)
 
 
@@ -155,9 +159,6 @@
 
 
 [Mobile Engineer (Senior, iOS)](q2hhcmlvda-mobile-engineer-senior-ios.md)
-
-
-[Mobile Engineer (Senior, Android)](q2hhcmlvda-mobile-engineer-senior-android.md)
 
 
 [Backend Engineer (Senior, Python)](q2hhcmlvda-backend-engineer-senior-python.md)
@@ -169,8 +170,7 @@
 [Fullstack Engineer (Senior, Python)](q2hhcmlvda-fullstack-engineer-senior-python.md)
 
 
-#### San Francisco, CA  
-[VP of Engineering](tglmdelnbml0zxi-vp-of-engineering.md)
+[Mobile Engineer (Senior, Android)](q2hhcmlvda-mobile-engineer-senior-android.md)
 
 
 #### San Francisco, CA  
@@ -212,28 +212,28 @@
 
 
 #### Pleasanton, CA  
+[Backend Engineer (Senior, Java, Core Platform)](v29ya2rheq-backend-engineer-senior-java-core-platform.md)
+
+
+[Distributed Systems & Cloud Services (Senior Manager / Director)](v29ya2rheq-distributed-systems-cloud-services-senior-manager-director.md)
+
+
 [VMWare Operations Engineer](v29ya2rheq-vmware-operations-engineer.md)
 
 
-[Backend Engineer (Senior, Java, Core Platform)](v29ya2rheq-backend-engineer-senior-java.md)
-
-
-[Distributed Systems & Cloud Services (Senior Manager / Director)](v29ya2rheq-data-engineer-senior-manager-director.md)
+[Backend Engineer (Senior, Java, BI)](v29ya2rheq-backend-engineer-senior-java-bi.md)
 
 
 [DevOps Engineer (Senior)](v29ya2rheq-devops-engineer-senior.md)
 
 
-[Backend Engineer (Senior, Java, BI)](v29ya2rheq-backend-engineer-senior-java-cd4ef12d-5616-4592-ab3d-8547e980e513.md)
-
-
-[Distributed Systems Engineer, Query Processing (Senior, Java/Scala)](v29ya2rheq-data-engineer-senior-query-processing.md)
+[Distributed Systems Engineer, Query Processing (Senior, Java/Scala)](v29ya2rheq-distributed-systems-engineer-query-processing-senior-java-scala.md)
 
 
 [Distributed Systems & Cloud Technologies Engineer (Senior)](v29ya2rheq-distributed-systems-cloud-technologies-engineer-senior.md)
 
 
-[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java-299c825a-e2a4-4cf1-8701-848d4f1db197.md)
+[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java.md)
 
 
 #### Oakland, CA  
@@ -258,7 +258,7 @@
 [Engineering Manager](rwf0c2e-engineering-manager.md)
 
 
-[Fullstack Engineer (Java)](rwf0c2e-fullstack-engineer-ruby.md)
+[Fullstack Engineer (Java)](rwf0c2e-fullstack-engineer-java.md)
 
 
 [Mobile Engineer (Senior, iOS)](rwf0c2e-mobile-engineer-senior-ios.md)
@@ -308,10 +308,10 @@
 [Hardware Engineer (Mechanical)](rw1iyxjrieryaxzl-hardware-engineer-mechanical.md)
 
 
-[Software Engineer (Computer Vision, Robotics, Localization)](rw1iyxjrieryaxzl-software-engineer-computer-vision-robotics-localization.md)
-
-
 [Hardware Engineer (Senior, Firmware/Embedded)](rw1iyxjrieryaxzl-hardware-engineer-senior-firmware-embedded.md)
+
+
+[Software Engineer (Computer Vision, Robotics, Localization)](rw1iyxjrieryaxzl-software-engineer-computer-vision-robotics-localization.md)
 
 
 [DevOps Engineer](rw1iyxjrieryaxzl-devops-engineer.md)
