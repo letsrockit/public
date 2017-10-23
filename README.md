@@ -221,6 +221,9 @@
 [AI (Senior, Machine Learning)](v29ya2rheq-ai-senior-machine-learning.md)
 
 
+[AI (Manager, Machine Learning)](v29ya2rheq-ai-manager-machine-learning.md)
+
+
 [Backend Engineer (Senior, Java, Core Platform)](v29ya2rheq-backend-engineer-senior-java-core-platform.md)
 
 
