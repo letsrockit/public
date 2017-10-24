@@ -215,10 +215,6 @@
 [Backend Engineer (Senior, C++)](ugxleenoyxq-backend-engineer-senior-c.md)
 
 
-#### Menlo Park, CA  
-[AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
-
-
 #### Pleasanton, CA  
 [Backend Engineer (Senior, Java, Machine Learning Platform)](v29ya2rheq-backend-engineer-senior-java-machine-learning-platform.md)
 
@@ -254,6 +250,10 @@
 
 
 [Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java.md)
+
+
+#### Menlo Park, CA  
+[AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
 
 
 #### San Francisco, CA  
