@@ -211,12 +211,12 @@
 [Fullstack Engineer (Senior, Ruby)](sglyzwq-fullstack-engineer-senior-ruby.md)
 
 
-#### Menlo Park, CA  
-[AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
-
-
 #### Redwood City, CA  
 [Backend Engineer (Senior, C++)](ugxleenoyxq-backend-engineer-senior-c.md)
+
+
+#### Menlo Park, CA  
+[AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
 
 
 #### Pleasanton, CA  
