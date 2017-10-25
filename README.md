@@ -37,6 +37,12 @@
 [Game Engine Developer (Senior)](u2t5zglv-game-engine-developer-senior.md)
 
 
+[Mobile Engineer (Android)](u2t5zglv-mobile-engineer-android.md)
+
+
+[Mobile Engineer (iOS)](u2t5zglv-mobile-engineer-ios.md)
+
+
 [AI (Senior, Computer Vision)](u2t5zglv-ai-senior-computer-vision.md)
 
 
@@ -211,12 +217,12 @@
 [Fullstack Engineer (Senior, Ruby)](sglyzwq-fullstack-engineer-senior-ruby.md)
 
 
-#### Redwood City, CA  
-[Backend Engineer (Senior, C++)](ugxleenoyxq-backend-engineer-senior-c.md)
-
-
 #### Menlo Park, CA  
 [AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
+
+
+#### Redwood City, CA  
+[Backend Engineer (Senior, C++)](ugxleenoyxq-backend-engineer-senior-c.md)
 
 
 #### Pleasanton, CA  
