@@ -283,22 +283,6 @@
 
 
 #### San Francisco, CA  
-[Engineering Manager](rwf0c2e-engineering-manager.md)
-
-
-[Fullstack Engineer (Java)](rwf0c2e-fullstack-engineer-java.md)
-
-
-[Mobile Engineer (Senior, iOS)](rwf0c2e-mobile-engineer-senior-ios.md)
-
-
-[Mobile Engineer (Android)](rwf0c2e-mobile-engineer-android.md)
-
-
-[DevOps Engineer](rwf0c2e-devops-engineer.md)
-
-
-#### San Francisco, CA  
 [Infrastructure Engineer (Senior, Product)](u2nyawjk-infrastructure-engineer-senior-product.md)
 
 
@@ -393,5 +377,21 @@
 
 
 [Backend Engineer (Senior, Agnostic/Python)](qwxwaw5llmfpic8gvm9py2ugtgficw-backend-engineer-senior-agnostic-python.md)
+
+
+#### San Francisco, CA  
+[Engineering Manager](rwf0c2e-engineering-manager.md)
+
+
+[Fullstack Engineer (Java)](rwf0c2e-fullstack-engineer-java.md)
+
+
+[Mobile Engineer (Senior, iOS)](rwf0c2e-mobile-engineer-senior-ios.md)
+
+
+[Mobile Engineer (Android)](rwf0c2e-mobile-engineer-android.md)
+
+
+[DevOps Engineer](rwf0c2e-devops-engineer.md)
 
 
