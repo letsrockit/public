@@ -368,6 +368,10 @@
 [Fullstack Engineer (Senior, Agnostic/Python)](rufuiensdwi-fullstack-engineer-senior-agnostic-python.md)
 
 
+#### Menlo Park, CA  
+[AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
+
+
 #### San Francisco, CA  
 [Engineering Manager](rwf0c2e-engineering-manager.md)
 
@@ -382,10 +386,6 @@
 
 
 [DevOps Engineer](rwf0c2e-devops-engineer.md)
-
-
-#### Menlo Park, CA  
-[AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
 
 
 #### San Francisco, CA  
