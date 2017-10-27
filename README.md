@@ -278,6 +278,10 @@
 [Fullstack Engineer (node.js/React)](sgf1cw-fullstack-engineer-node-js-react.md)
 
 
+#### Redwood City, CA  
+[Fullstack Engineer (Senior, Agnostic/Python)](rufuiensdwi-fullstack-engineer-senior-agnostic-python.md)
+
+
 #### San Francisco, CA  
 [Infrastructure Engineer (Senior, Product)](u2nyawjk-infrastructure-engineer-senior-product.md)
 
@@ -362,10 +366,6 @@
 
 #### San Francisco, CA  
 [Backend Engineer (Lead, Ruby)](txvuy2hlcnk-backend-engineer-lead-ruby.md)
-
-
-#### Redwood City, CA  
-[Fullstack Engineer (Senior, Agnostic/Python)](rufuiensdwi-fullstack-engineer-senior-agnostic-python.md)
 
 
 #### San Francisco, CA  
