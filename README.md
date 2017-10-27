@@ -219,10 +219,6 @@
 [Frontend Engineer (Senior, Ember)](tnvyea-frontend-engineer-senior-ember.md)
 
 
-#### San Francisco, CA  
-[Fullstack Engineer (Senior, Ruby)](sglyzwq-fullstack-engineer-senior-ruby.md)
-
-
 #### Redwood City, CA  
 [Backend Engineer (Senior, C++)](ugxleenoyxq-backend-engineer-senior-c.md)
 
@@ -262,6 +258,10 @@
 
 
 [Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java.md)
+
+
+#### San Francisco, CA  
+[Fullstack Engineer (Senior, Ruby)](sglyzwq-fullstack-engineer-senior-ruby.md)
 
 
 #### San Francisco, CA  
