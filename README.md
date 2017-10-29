@@ -278,10 +278,6 @@
 [Fullstack Engineer (node.js/React)](sgf1cw-fullstack-engineer-node-js-react.md)
 
 
-#### Menlo Park, CA  
-[AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
-
-
 #### San Francisco, CA  
 [Infrastructure Engineer (Senior, Product)](u2nyawjk-infrastructure-engineer-senior-product.md)
 
@@ -370,6 +366,10 @@
 
 #### Redwood City, CA  
 [Fullstack Engineer (Senior, Agnostic/Python)](rufuiensdwi-fullstack-engineer-senior-agnostic-python.md)
+
+
+#### Menlo Park, CA  
+[AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
 
 
 #### San Francisco, CA  
