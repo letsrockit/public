@@ -219,13 +219,6 @@
 [Frontend Engineer (Senior, Ember)](tnvyea-frontend-engineer-senior-ember.md)
 
 
-#### San Francisco, CA  
-[AI (Senior, Machine Learning)](qwxwaw5llmfpic8gvm9py2ugtgficw-ai-senior-machine-learning.md)
-
-
-[Backend Engineer (Senior, Agnostic/Python)](qwxwaw5llmfpic8gvm9py2ugtgficw-backend-engineer-senior-agnostic-python.md)
-
-
 #### Redwood City, CA  
 [Backend Engineer (Senior, C++)](ugxleenoyxq-backend-engineer-senior-c.md)
 
@@ -283,6 +276,10 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (node.js/React)](sgf1cw-fullstack-engineer-node-js-react.md)
+
+
+#### Menlo Park, CA  
+[AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
 
 
 #### San Francisco, CA  
@@ -371,6 +368,17 @@
 [Backend Engineer (Lead, Ruby)](txvuy2hlcnk-backend-engineer-lead-ruby.md)
 
 
+#### Redwood City, CA  
+[Fullstack Engineer (Senior, Agnostic/Python)](rufuiensdwi-fullstack-engineer-senior-agnostic-python.md)
+
+
+#### San Francisco, CA  
+[AI (Senior, Machine Learning)](qwxwaw5llmfpic8gvm9py2ugtgficw-ai-senior-machine-learning.md)
+
+
+[Backend Engineer (Senior, Agnostic/Python)](qwxwaw5llmfpic8gvm9py2ugtgficw-backend-engineer-senior-agnostic-python.md)
+
+
 #### San Francisco, CA  
 [Engineering Manager](rwf0c2e-engineering-manager.md)
 
@@ -385,13 +393,5 @@
 
 
 [DevOps Engineer](rwf0c2e-devops-engineer.md)
-
-
-#### Redwood City, CA  
-[Fullstack Engineer (Senior, Agnostic/Python)](rufuiensdwi-fullstack-engineer-senior-agnostic-python.md)
-
-
-#### Menlo Park, CA  
-[AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
 
 
