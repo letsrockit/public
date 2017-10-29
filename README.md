@@ -159,6 +159,10 @@
 [Frontend Engineer (Senior, React)](qml0tuvy-frontend-engineer-senior-react.md)
 
 
+#### Menlo Park, CA  
+[AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
+
+
 #### San Francisco, CA  
 [VP of Engineering](tglmdelnbml0zxi-vp-of-engineering.md)
 
@@ -378,10 +382,6 @@
 
 
 [DevOps Engineer](rwf0c2e-devops-engineer.md)
-
-
-#### Menlo Park, CA  
-[AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
 
 
 #### Redwood City, CA  
