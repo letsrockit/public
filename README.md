@@ -380,12 +380,12 @@
 [DevOps Engineer](rwf0c2e-devops-engineer.md)
 
 
-#### Redwood City, CA  
-[Fullstack Engineer (Senior, Agnostic/Python)](rufuiensdwi-fullstack-engineer-senior-agnostic-python.md)
-
-
 #### Menlo Park, CA  
 [AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
+
+
+#### Redwood City, CA  
+[Fullstack Engineer (Senior, Agnostic/Python)](rufuiensdwi-fullstack-engineer-senior-agnostic-python.md)
 
 
 #### San Francisco, CA  
