@@ -172,9 +172,6 @@
 [Backend Engineer (Senior, Python)](q2hhcmlvda-backend-engineer-senior-python.md)
 
 
-[DevOps Engineer (Lead)](q2hhcmlvda-devops-engineer-lead.md)
-
-
 [Fullstack Engineer (Senior, Python)](q2hhcmlvda-fullstack-engineer-senior-python.md)
 
 
@@ -253,7 +250,7 @@
 [Distributed Systems & Cloud Technologies Engineer (Senior)](v29ya2rheq-distributed-systems-cloud-technologies-engineer-senior.md)
 
 
-[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java.md)
+[Backend Engineer (Senior, Java, Security Event Analytics)](v29ya2rheq-backend-engineer-senior-java.md)
 
 
 #### San Francisco, CA  
@@ -341,9 +338,6 @@
 
 #### San Francisco, CA  
 [Mobile Engineer (iOS)](sg91c2vwyxj0eq-mobile-engineer-ios.md)
-
-
-[Data Engineer](sg91c2vwyxj0eq-data-engineer.md)
 
 
 [Backend Engineer (Agnostic)](sg91c2vwyxj0eq-backend-engineer-agnostic.md)
