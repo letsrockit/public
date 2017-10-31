@@ -261,10 +261,6 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (Senior, Ruby)](sglyzwq-fullstack-engineer-senior-ruby.md)
-
-
-#### San Francisco, CA  
 [Fullstack Engineer (Lead, node.js)](u2vnbwvuda-fullstack-engineer-lead-node-js.md)
 
 
@@ -393,5 +389,9 @@
 
 
 [Backend Engineer (Senior, Agnostic/Python)](qwxwaw5llmfpic8gvm9py2ugtgficw-backend-engineer-senior-agnostic-python.md)
+
+
+#### San Francisco, CA  
+[Fullstack Engineer (Senior, Ruby)](sglyzwq-fullstack-engineer-senior-ruby.md)
 
 
