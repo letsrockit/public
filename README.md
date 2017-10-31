@@ -286,6 +286,9 @@
 [Fullstack Engineer (Senior, Ruby / Javascript)](u2nyawjk-fullstack-engineer-senior-ruby-javascript.md)
 
 
+[Mobile Engineer (Manager. iOS)](u2nyawjk-mobile-engineer-ios.md)
+
+
 #### San Francisco, CA  
 [Data Engineer](vgfrda-data-engineer.md)
 
