@@ -25,10 +25,6 @@
 [Mobile Engineer (Principal, Android)](vglszq-mobile-engineer-principal-android.md)
 
 
-#### Palo Alto, CA  
-[Backend Engineer (Senior, node.js)](qwlydgltzq-backend-engineer-senior-node-js.md)
-
-
 #### San Francisco, CA  
 [Hacker/Architect (Senior, C++, Python)](q29tbweuywk-hacker-architect-senior-c-python.md)
 
