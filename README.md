@@ -106,9 +106,6 @@
 [Fullstack Engineer (Senior)](wmlwy2fy-fullstack-engineer-senior.md)
 
 
-[Data Engineer](wmlwy2fy-data-engineer.md)
-
-
 [Test Engineer (Senior)](wmlwy2fy-test-engineer-senior.md)
 
 
