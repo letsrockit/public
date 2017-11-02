@@ -112,16 +112,6 @@
 [Frontend Engineer (Senior, Angular)](wmlwy2fy-frontend-engineer-senior-angular.md)
 
 
-#### Redwood City, CA  
-[Backend Engineer (Senior, Java)](r2xpbnq-backend-engineer-senior-java.md)
-
-
-[Web Application Engineer (Senior)](r2xpbnq-web-application-engineer-senior.md)
-
-
-[AI (Senior, Machine Learning)](r2xpbnq-ai-senior-machine-learning.md)
-
-
 #### San Francisco, CA  
 [Mobile Engineer (Lead, Android)](vhviasbuvg-mobile-engineer-lead-android.md)
 
@@ -383,6 +373,16 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (Senior, Ruby)](sglyzwq-fullstack-engineer-senior-ruby.md)
+
+
+#### Redwood City, CA  
+[Backend Engineer (Senior, Java)](r2xpbnq-backend-engineer-senior-java.md)
+
+
+[Web Application Engineer (Senior)](r2xpbnq-web-application-engineer-senior.md)
+
+
+[AI (Senior, Machine Learning)](r2xpbnq-ai-senior-machine-learning.md)
 
 
 #### San Mateo, CA  
