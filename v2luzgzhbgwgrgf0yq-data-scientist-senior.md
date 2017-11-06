@@ -1,4 +1,4 @@
-## Data Scientist (Senior)
+## Data Scientist
 #### San Francisco, CA
 
 ### Overview

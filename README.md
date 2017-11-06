@@ -285,7 +285,7 @@
 
 
 #### San Francisco, CA  
-[Data Scientist (Senior)](v2luzgzhbgwgrgf0yq-data-scientist-senior.md)
+[Data Scientist](v2luzgzhbgwgrgf0yq-data-scientist-senior.md)
 
 
 [AI (Senior, Machine Learning)](v2luzgzhbgwgrgf0yq-ai-senior-machine-learning.md)
