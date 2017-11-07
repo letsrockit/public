@@ -4,7 +4,9 @@
 ### Overview
 We help marketers drive conversions and revenue growth by personalizing websites to deliver the right experience to each visitor on any device. We automate this using machine learning. Leading companies rely on us to deliver more revenue, faster, and with less work than traditional A/B testing or rules based personalization.
 The company was founded in 2016 by an experienced ad tech marketer and two experienced machine learning leaders who had previously worked at Yahoo, Twitter, and BrightRoll. We are headquartered in San Mateo, CA, and backed by leading early stage investors including Homebrew, Hone Capital, Precursor Ventures, and Pear Ventures.
+
 A few more things about us:
+
 +	We are entrepreneurs with deep experience in paid digital media and personalization.
 +	We had experience building massive-scale (>1B users) personalized recommendation systems at Yahoo and Google.
 +	We bootstrapped in 2016, took funding from top-tier VCs in 2017, and are expanding.
