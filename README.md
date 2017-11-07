@@ -106,9 +106,6 @@
 [Fullstack Engineer (Senior)](wmlwy2fy-fullstack-engineer-senior.md)
 
 
-[Test Engineer (Senior)](wmlwy2fy-test-engineer-senior.md)
-
-
 [Frontend Engineer (Senior, Angular)](wmlwy2fy-frontend-engineer-senior-angular.md)
 
 
