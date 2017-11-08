@@ -388,6 +388,6 @@
 [Fullstack Engineer (Principal, Node.js)](sw50zwxsaw1pemu-fullstack-engineer-principal-node-js.md)
 
 
-[Frontend Engineer (Javascript / Node.js / React)](sw50zwxsaw1pemu-customer-success-frontend-engineer-javascript-node-js-react.md)
+[Frontend Engineer (Javascript / React)](sw50zwxsaw1pemu-customer-success-frontend-engineer-javascript-node-js-react.md)
 
 
