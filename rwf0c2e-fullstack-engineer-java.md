@@ -1,4 +1,4 @@
-## Fullstack Engineer (Java)
+## Fullstack Engineer (Senior, Java)
 #### San Francisco, CA
 
 ### Overview
@@ -12,14 +12,14 @@ Customers, investors, and media have responded with overwhelming enthusiasm. As 
 We are searching for talented software engineers with experience delivering high-quality products in a fast-paced startup environment. You will build the backend systems that power our products, refine existing systems, and continuously improve our engineering practices. Coding, technical design, operational support, and cross-functional collaboration are among the daily responsibilities for this role.
 
 ### What you’ll do
-+	Design, implement, deploy, and operate our internal tools
++	Design, implement, deploy, and operate our core services
 +	Collaborate with Product Management and Engineering colleagues on technical vision and design
 +	Write all manner of automated tests
 +	Participate in planning and retrospectives
 +	Follow & advocate engineering best practices
 
 ### What we look for
-+	3 plus years of full-stack experience
++	5+ years of experience building backend systems
 +	You have a track record of delivering challenging projects on-schedule
 +	You are software polyglot
 +	You have a penchant for agile and test-driven development
@@ -27,9 +27,10 @@ We are searching for talented software engineers with experience delivering high
 
 ### Bonus points
 +	Startup savvy
-+	iOS insight
-+	Kotlin know-how
-+	React rigor
++	AWS aptitude
++	Ruby rigor
++	Python proficiency
++	Java
 
 ### Perks
 +	Fun, creative and collaborative work environment
