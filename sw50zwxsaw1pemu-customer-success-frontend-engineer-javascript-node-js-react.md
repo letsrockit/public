@@ -1,4 +1,4 @@
-## Customer Success Frontend Engineer (JavaScript / Node.js / React)
+## Frontend Engineer (JavaScript / Node.js / React)
 #### San Mateo, CA
 
 ### Overview
@@ -15,23 +15,21 @@ A few more things about us:
 +	We believe in the importance of work/life balance to do your very best work.
 +	We like to geek out. Lambda function? IIFE? Yet another JS Framework?  Yes, yes, and yes.
 
+### What we look for
++	You love web technologies. You live and breathe JavaScript, DOM, CSS and HTML5. You have a great start, and you want to learn and grow rapidly on your journey to becoming a guru in web technologies.
++	You are curious. You want to learn how websites can be optimized for latency and conversion improvements. You want to learn different technologies used across the web. You want to learn how UX and AI can work together.
++	You enjoy using your creativity to solve interesting problems. You like being challenged with new and interesting technical scenarios every day.
++	You thrive in fast-paced environment.  You like short dev cycles.  You adapt.  You are comfortable getting started with minimal information and can bring clarity via rapid iterations.
++	You are a team player. You communicate well. Your attention to detail is unparalleled. You thrive in a collaborative environment.
++	You believe in “customers as true north”.  You can put on your product hat when you solve technical problems.  You exercise your creativity, intuition, and empathy for customers to solve problems in a pragmatic way.
++	You have at least 2 years of software development experience after your college degree.
+
 ### What you’ll do
 +	You will collaborate with Campaign Managers to bring personalization ideas live on our customers’ websites with your high quality code.
 +	You will participate in personalization brainstorming and contribute innovative ideas based on your knowledge of web technologies.
 +	You will investigate and implement the best way to interact with a wide range of web technologies used on our customers’ sites (Angular, React, proprietary SPA, WordPress, Shopify, custom in house CMS, etc).
 +	You will identify, design, and implement ideas to build reusable libraries to allow us to scale implementation effort with high quality.
 +	You will figure out and implement the best way to do automated testing in each of the personalization implementation scenarios.
-
-### What we look for
-+	You love web technologies. You live and breathe JavaScript, DOM, CSS and HTML5.
-+	You have a great start, and you want to learn and grow rapidly on your journey to becoming a guru in web technologies.
-+	You are curious. You want to learn how websites can be optimized for latency and conversion improvements. You want to learn different technologies used across the web. You want to learn how UX and AI can work together.
-+	You enjoy using your creativity to solve interesting problems. You like being challenged with new and interesting technical scenarios every day.
-+	You thrive in fast-paced environment.  You like short dev cycles.  You adapt.  You are comfortable getting started with minimal information and can bring clarity via rapid iterations.
-+	You are a team player. You communicate well. Your attention to detail is unparalleled.
-+	You thrive in a collaborative environment.
-+	You believe in “customers as true north”.  You can put on your product hat when you solve technical problems.  You exercise your creativity, intuition, and empathy for customers to solve problems in a pragmatic way.
-+	You have at least 2 years of software development experience after your college degree.
 
 ### Perks
 +	You get to work on a diverse range of interesting projects across a broad spectrum of web technologies on our customer sites. You don’t get stuck on one tech stack. You can’t get this learning opportunity anywhere else.
