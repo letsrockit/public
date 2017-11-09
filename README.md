@@ -325,6 +325,9 @@
 [Hardware Engineer (Senior, Firmware/Embedded)](q3j1axnl-hardware-engineer-senior-firmware-embedded.md)
 
 
+[Backend Engineer (Senior, Python / Go / node.js)](q3j1axnl-backend-engineer-senior-python-go-node-js.md)
+
+
 [DevOps Engineer](q3j1axnl-devops-engineer.md)
 
 
