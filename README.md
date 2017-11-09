@@ -328,6 +328,9 @@
 [Backend Engineer (Senior, Python / Go / node.js)](q3j1axnl-backend-engineer-senior-python-go-node-js.md)
 
 
+[Fullstack Engineer (Senior, Python)](q3j1axnl-fullstack-engineer-senior-python.md)
+
+
 [DevOps Engineer](q3j1axnl-devops-engineer.md)
 
 
