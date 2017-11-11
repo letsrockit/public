@@ -361,10 +361,6 @@
 [Mobile Engineer (Android)](rwf0c2e-mobile-engineer-android.md)
 
 
-#### Redwood City, CA  
-[Fullstack Engineer (Senior, Agnostic/Python)](rufuiensdwi-fullstack-engineer-senior-agnostic-python.md)
-
-
 #### San Francisco, CA  
 [Fullstack Engineer (Senior, Ruby)](sglyzwq-fullstack-engineer-senior-ruby.md)
 
@@ -379,15 +375,19 @@
 [AI (Senior, Machine Learning)](r2xpbnq-ai-senior-machine-learning.md)
 
 
+#### Menlo Park, CA  
+[AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
+
+
+#### Redwood City, CA  
+[Fullstack Engineer (Senior, Agnostic/Python)](rufuiensdwi-fullstack-engineer-senior-agnostic-python.md)
+
+
 #### San Mateo, CA  
 [Fullstack Engineer (Principal, Node.js)](sw50zwxsaw1pemu-fullstack-engineer-principal-node-js.md)
 
 
 [Frontend Engineer (Javascript / React)](sw50zwxsaw1pemu-customer-success-frontend-engineer-javascript-node-js-react.md)
-
-
-#### Menlo Park, CA  
-[AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
 
 
 #### San Francisco, CA  
