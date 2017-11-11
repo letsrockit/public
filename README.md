@@ -365,17 +365,6 @@
 [Fullstack Engineer (Senior, Agnostic/Python)](rufuiensdwi-fullstack-engineer-senior-agnostic-python.md)
 
 
-#### Menlo Park, CA  
-[AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
-
-
-#### San Francisco, CA  
-[AI (Senior, Machine Learning)](qwxwaw5llmfpic8gvm9py2ugtgficw-ai-senior-machine-learning.md)
-
-
-[Backend Engineer (Senior, Agnostic/Python)](qwxwaw5llmfpic8gvm9py2ugtgficw-backend-engineer-senior-agnostic-python.md)
-
-
 #### San Francisco, CA  
 [Fullstack Engineer (Senior, Ruby)](sglyzwq-fullstack-engineer-senior-ruby.md)
 
@@ -395,5 +384,16 @@
 
 
 [Frontend Engineer (Javascript / React)](sw50zwxsaw1pemu-customer-success-frontend-engineer-javascript-node-js-react.md)
+
+
+#### Menlo Park, CA  
+[AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
+
+
+#### San Francisco, CA  
+[AI (Senior, Machine Learning)](qwxwaw5llmfpic8gvm9py2ugtgficw-ai-senior-machine-learning.md)
+
+
+[Backend Engineer (Senior, Agnostic/Python)](qwxwaw5llmfpic8gvm9py2ugtgficw-backend-engineer-senior-agnostic-python.md)
 
 
