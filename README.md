@@ -15,10 +15,6 @@
 [Backend Engineer (C++)](tjnuv09ssw-backend-engineer-c.md)
 
 
-#### San Francisco, CA  
-[Hacker/Architect (Senior, C++, Python)](q29tbweuywk-hacker-architect-senior-c-python.md)
-
-
 #### Redwood City, CA  
 [Game Engine Developer (Senior)](u2t5zglv-game-engine-developer-senior.md)
 
