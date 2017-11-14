@@ -15,16 +15,6 @@
 [Backend Engineer (C++)](tjnuv09ssw-backend-engineer-c.md)
 
 
-#### San Mateo, CA  
-[Mobile Engineer (Principal, iOS)](vglszq-mobile-engineer-principal-ios.md)
-
-
-[Mobile Engineer (Senior, Android)](vglszq-mobile-engineer-senior-android.md)
-
-
-[Mobile Engineer (Principal, Android)](vglszq-mobile-engineer-principal-android.md)
-
-
 #### San Francisco, CA  
 [Hacker/Architect (Senior, C++, Python)](q29tbweuywk-hacker-architect-senior-c-python.md)
 
