@@ -352,6 +352,10 @@
 
 
 #### San Francisco, CA  
+[Fullstack Engineer (Senior, Ruby)](twvya2xlieluyw-fullstack-engineer-senior-ruby.md)
+
+
+#### San Francisco, CA  
 [Engineering Manager](rwf0c2e-engineering-manager.md)
 
 
