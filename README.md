@@ -276,7 +276,7 @@
 
 
 #### San Francisco, CA  
-[Data Scientist](v2luzgzhbgwgrgf0yq-data-scientist-senior.md)
+[Data Governance Engineer](v2luzgzhbgwgrgf0yq-data-scientist-senior.md)
 
 
 [AI (Senior, Machine Learning)](v2luzgzhbgwgrgf0yq-ai-senior-machine-learning.md)
