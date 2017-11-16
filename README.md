@@ -107,12 +107,6 @@
 
 
 #### San Francisco, CA  
-[DevOps Engineer (Senior)](tg95ewfs-devops-engineer-senior.md)
-
-
-[Business Analyst](tg95ewfs-business-analyst.md)
-
-
 [Backend Engineer (Go)](tg95ewfs-backend-engineer-go.md)
 
 
