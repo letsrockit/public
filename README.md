@@ -59,13 +59,6 @@
 [Backend Engineer (Agnostic, .net)](qwn0axzlag91cnm-backend-engineer-agnostic-net.md)
 
 
-#### San Francisco, CA  
-[Fullstack Engineer (Senior, Ruby on Rails)](vghlifjlywxszwfs-fullstack-engineer-senior-ruby-on-rails.md)
-
-
-[DevOps Engineer (Senior)](vghlifjlywxszwfs-devops-engineer-senior.md)
-
-
 #### Oakland, CA  
 [Backend Engineer (Agnostic/Node/Go)](vlndtw-backend-engineer-agnostic-node-go.md)
 
@@ -330,6 +323,16 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (Senior, Ruby)](twvya2xlieluyw-fullstack-engineer-senior-ruby.md)
+
+
+#### San Francisco, CA  
+[Backend Engineer (Senior, Ruby)](vghlifjlywxszwfs-backend-engineer-senior-ruby.md)
+
+
+[Fullstack Engineer (Senior, Ruby on Rails)](vghlifjlywxszwfs-fullstack-engineer-senior-ruby-on-rails.md)
+
+
+[DevOps Engineer (Senior)](vghlifjlywxszwfs-devops-engineer-senior.md)
 
 
 #### San Francisco, CA  
