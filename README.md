@@ -294,6 +294,9 @@
 [DevOps Engineer](q3j1axnl-devops-engineer.md)
 
 
+[Site Reliability Engineer (Senior, Go / Python / Agnostic)](q3j1axnl-site-reliability-engineer-senior-go-python-agnostic.md)
+
+
 [Backend Engineer (Senior, C++)](q3j1axnl-backend-engineer-senior-c.md)
 
 
