@@ -270,34 +270,13 @@
 
 
 #### San Francisco, CA  
-[Backend Engineer (Python / node.js)](q3j1axnl-backend-engineer-python-node-js.md)
-
-
-[Fullstack Engineer (Python/React)](q3j1axnl-fullstack-engineer-python-react.md)
-
-
-[Mobile Engineer (Android)](q3j1axnl-mobile-engineer-android.md)
-
-
-[Backend Engineer (C++)](q3j1axnl-backend-engineer-c.md)
-
-
-[Hardware Engineer (Senior, Firmware/Embedded)](q3j1axnl-hardware-engineer-senior-firmware-embedded.md)
-
-
 [Backend Engineer (Senior, Python / Go / node.js)](q3j1axnl-backend-engineer-senior-python-go-node-js.md)
 
 
 [Fullstack Engineer (Senior, Python)](q3j1axnl-fullstack-engineer-senior-python.md)
 
 
-[DevOps Engineer](q3j1axnl-devops-engineer.md)
-
-
 [Site Reliability Engineer (Senior, Go / Python / Agnostic)](q3j1axnl-site-reliability-engineer-senior-go-python-agnostic.md)
-
-
-[Backend Engineer (Senior, C++)](q3j1axnl-backend-engineer-senior-c.md)
 
 
 #### San Francisco, CA  
