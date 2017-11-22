@@ -140,13 +140,6 @@
 
 
 #### San Francisco, CA  
-[Infrastructure Engineer (Senior)](rml2zvn0yxjz-infrastructure-engineer-senior.md)
-
-
-[Fullstack Engineer (Senior, Python)](rml2zvn0yxjz-fullstack-engineer-senior-python.md)
-
-
-#### San Francisco, CA  
 [Infrastructure Engineer](u2hpznq-infrastructure-engineer.md)
 
 
@@ -161,10 +154,10 @@
 
 
 #### San Francisco, CA  
-[Infrastructure Engineer (Lead)](tnvyea-infrastructure-engineer-lead.md)
-
-
 [Frontend Engineer (Senior, Ember)](tnvyea-frontend-engineer-senior-ember.md)
+
+
+[Infrastructure Engineer (Lead)](tnvyea-infrastructure-engineer-lead.md)
 
 
 #### Redwood City, CA  
@@ -191,9 +184,6 @@
 
 
 [Backend Engineer (Senior, Java, BI)](v29ya2rheq-backend-engineer-senior-java-bi.md)
-
-
-[DevOps Engineer (Senior)](v29ya2rheq-devops-engineer-senior.md)
 
 
 [Distributed Systems Engineer, Query Processing (Senior, Java/Scala)](v29ya2rheq-distributed-systems-engineer-query-processing-senior-java-scala.md)
@@ -299,9 +289,6 @@
 
 #### San Francisco, CA  
 [Backend Engineer (Senior, Ruby)](vghlifjlywxszwfs-backend-engineer-senior-ruby.md)
-
-
-[Fullstack Engineer (Senior, Ruby on Rails)](vghlifjlywxszwfs-fullstack-engineer-senior-ruby-on-rails.md)
 
 
 [DevOps Engineer (Senior)](vghlifjlywxszwfs-devops-engineer-senior.md)
