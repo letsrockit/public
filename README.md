@@ -157,6 +157,9 @@
 [Frontend Engineer (Senior, Ember)](tnvyea-frontend-engineer-senior-ember.md)
 
 
+[Growth Engineer (Senior)](tnvyea-growth-engineer-senior.md)
+
+
 [Infrastructure Engineer (Lead)](tnvyea-infrastructure-engineer-lead.md)
 
 
