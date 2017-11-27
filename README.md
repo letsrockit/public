@@ -308,6 +308,10 @@
 
 
 #### San Francisco, CA  
+[Backend Engineer (Senior, Agnostic / node.js)](rk9tu0e-backend-engineer-senior-agnostic-node-js.md)
+
+
+#### San Francisco, CA  
 [Engineering Manager](rwf0c2e-engineering-manager.md)
 
 
