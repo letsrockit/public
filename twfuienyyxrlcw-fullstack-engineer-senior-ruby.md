@@ -21,7 +21,7 @@ As a Senior Full Stack Engineer you will be responsible for our e-commerce appli
 
 ### What we look for
 + Mastery of Rails' patterns, best practices, and testing strategies
-+ more than 5 years experience as a Fullstack Ruby on Rails engineer with excellent knowledge of Ruby 2.3plus
++ 5+ years experience as a Full Stack Engineer with Ruby on Rails, Django, or similar MVC frameworks
 + Bachelor’s Degree in Computer Science or related field required
 + Strong software engineering and architecture skills
 + Technical leadership experience in small product and engineering teams
