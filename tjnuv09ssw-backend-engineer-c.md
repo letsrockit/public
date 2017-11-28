@@ -1,4 +1,4 @@
-## Backend Engineer (C++)
+## Fullstack Game Engineer (C++)
 #### San Francisco, CA
 
 ### Job Description

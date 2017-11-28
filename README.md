@@ -3,16 +3,16 @@
 
 
 #### San Francisco, CA  
-[Backend Engineer (Senior, Agnostic/Python/Java)](tjnuv09ssw-backend-engineer-senior-agnostic-python-java.md)
-
-
 [Game Client Engineer (C/C++/C#/Java)](tjnuv09ssw-game-client-engineer-c-c-c-java.md)
+
+
+[Game Server Engineer (Senior, Agnostic/Python/Java)](tjnuv09ssw-backend-engineer-senior-agnostic-python-java.md)
 
 
 [Analytics Pipeline Engineer (Python/Java)](tjnuv09ssw-analytics-pipeline-engineer-python-java.md)
 
 
-[Backend Engineer (C++)](tjnuv09ssw-backend-engineer-c.md)
+[Fullstack Game Engineer (C++)](tjnuv09ssw-backend-engineer-c.md)
 
 
 #### Redwood City, CA  
