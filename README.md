@@ -9,9 +9,6 @@
 [Game Server Engineer (Senior, Agnostic/Python/Java)](tjnuv09ssw-backend-engineer-senior-agnostic-python-java.md)
 
 
-[Analytics Pipeline Engineer (Python/Java)](tjnuv09ssw-analytics-pipeline-engineer-python-java.md)
-
-
 [Fullstack Game Engineer (C++)](tjnuv09ssw-backend-engineer-c.md)
 
 
@@ -157,7 +154,7 @@
 [Frontend Engineer (Senior, Ember)](tnvyea-frontend-engineer-senior-ember.md)
 
 
-[Growth Engineer (Senior)](tnvyea-growth-engineer-senior.md)
+[Fullstack Engineer (Senior, Ember/Node, Agnostic)](tnvyea-growth-engineer-senior.md)
 
 
 [Infrastructure Engineer (Lead)](tnvyea-infrastructure-engineer-lead.md)
@@ -250,12 +247,6 @@
 
 
 #### San Francisco, CA  
-[Hardware Engineer (Mechanical)](rw1iyxjrieryaxzl-hardware-engineer-mechanical.md)
-
-
-[Hardware Engineer (Senior, Firmware/Embedded)](rw1iyxjrieryaxzl-hardware-engineer-senior-firmware-embedded.md)
-
-
 [Software Engineer (Computer Vision, Robotics, Localization)](rw1iyxjrieryaxzl-software-engineer-computer-vision-robotics-localization.md)
 
 
