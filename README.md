@@ -50,6 +50,9 @@
 [Backend Engineer (Agnostic/Node/Go)](vlndtw-backend-engineer-agnostic-node-go.md)
 
 
+[Data Engineer (Senior)](vlndtw-data-engineer-senior.md)
+
+
 #### San Francisco, CA  
 [Fullstack Engineer (React)](u2hhcmvzcgfjzq-fullstack-engineer-java.md)
 
