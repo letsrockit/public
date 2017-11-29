@@ -38,16 +38,6 @@
 [Mobile Engineer (Manager, iOS)](vgv4de5vdw-mobile-engineer-manager-ios.md)
 
 
-#### Redwood City, CA  
-[Backend Engineer (Senior, Agnostic/Ruby/Python/Java)](qmfuam8-backend-engineer-senior-agnostic-ruby-python-java.md)
-
-
-[Backend Engineer (Senior, Ruby)](qmfuam8-backend-engineer-senior-ruby.md)
-
-
-[DevOps Engineer (Senior)](qmfuam8-devops-engineer-senior.md)
-
-
 #### San Francisco, CA  
 [Designer (Senior, UX)](v29ub2xv-designer-senior-ux.md)
 
