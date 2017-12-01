@@ -240,13 +240,6 @@
 
 
 #### San Francisco, CA  
-[Software Engineer (Computer Vision, Robotics, Localization)](rw1iyxjrieryaxzl-software-engineer-computer-vision-robotics-localization.md)
-
-
-[DevOps Engineer](rw1iyxjrieryaxzl-devops-engineer.md)
-
-
-#### San Francisco, CA  
 [Backend Engineer (Senior, Python / Go / node.js)](q3j1axnl-backend-engineer-senior-python-go-node-js.md)
 
 
@@ -293,6 +286,13 @@
 
 #### San Francisco, CA  
 [Backend Engineer (Senior, Agnostic / node.js)](rk9tu0e-backend-engineer-senior-agnostic-node-js.md)
+
+
+#### San Francisco, CA  
+[Software Engineer (Computer Vision, Robotics, Localization)](rw1iyxjrieryaxzl-software-engineer-computer-vision-robotics-localization.md)
+
+
+[DevOps Engineer](rw1iyxjrieryaxzl-devops-engineer.md)
 
 
 #### San Francisco, CA  
