@@ -90,10 +90,6 @@
 
 
 #### San Francisco, CA  
-[Backend Engineer (Go)](tg95ewfs-backend-engineer-go.md)
-
-
-#### San Francisco, CA  
 [Head of Product (Lead)](qml0tuvy-head-of-product-lead.md)
 
 
@@ -200,6 +196,10 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (node.js/React)](sgf1cw-fullstack-engineer-node-js-react.md)
+
+
+#### San Francisco, CA  
+[Fullstack Engineer (Agnostic/Ruby)](qmxvyw-fullstack-engineer-agnostic-ruby.md)
 
 
 #### San Francisco, CA  
