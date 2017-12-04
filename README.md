@@ -29,16 +29,6 @@
 
 
 #### San Francisco, CA  
-[Technical Recruiter (Senior)](vgv4de5vdw-technical-recruiter-senior.md)
-
-
-[Growth Web Developer](vgv4de5vdw-growth-web-developer.md)
-
-
-[Mobile Engineer (Manager, iOS)](vgv4de5vdw-mobile-engineer-manager-ios.md)
-
-
-#### San Francisco, CA  
 [Designer (Senior, UX)](v29ub2xv-designer-senior-ux.md)
 
 
@@ -303,6 +293,10 @@
 
 
 [Mobile Engineer (Android)](rwf0c2e-mobile-engineer-android.md)
+
+
+#### San Francisco, CA  
+[Technical Recruiter (Senior)](vgv4de5vdw-technical-recruiter-senior.md)
 
 
 #### San Francisco, CA  
