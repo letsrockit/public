@@ -32,10 +32,6 @@
 [Designer (Senior, UX)](v29ub2xv-designer-senior-ux.md)
 
 
-#### Palo Alto, CA  
-[Backend Engineer (Agnostic, .net)](qwn0axzlag91cnm-backend-engineer-agnostic-net.md)
-
-
 #### Oakland, CA  
 [Backend Engineer (Agnostic/Node/Go)](vlndtw-backend-engineer-agnostic-node-go.md)
 
@@ -275,13 +271,6 @@
 
 #### San Francisco, CA  
 [Backend Engineer (Senior, Agnostic / node.js)](rk9tu0e-backend-engineer-senior-agnostic-node-js.md)
-
-
-#### San Francisco, CA  
-[Software Engineer (Computer Vision, Robotics, Localization)](rw1iyxjrieryaxzl-software-engineer-computer-vision-robotics-localization.md)
-
-
-[DevOps Engineer](rw1iyxjrieryaxzl-devops-engineer.md)
 
 
 #### San Francisco, CA  
