@@ -306,6 +306,9 @@
 [Fullstack Engineer (Senior, Ruby)](sglyzwq-fullstack-engineer-senior-ruby.md)
 
 
+[DevOps Engineer (Senior)](sglyzwq-devops-engineer-senior.md)
+
+
 #### Redwood City, CA  
 [Backend Engineer (Senior, Java)](r2xpbnq-backend-engineer-senior-java.md)
 
