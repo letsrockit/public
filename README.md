@@ -185,10 +185,6 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (node.js/React)](sgf1cw-fullstack-engineer-node-js-react.md)
-
-
-#### San Francisco, CA  
 [Fullstack Engineer (Agnostic/Ruby)](qmxvyw-fullstack-engineer-agnostic-ruby.md)
 
 
