@@ -161,6 +161,9 @@
 [Backend Engineer (Senior, Java, BI)](v29ya2rheq-backend-engineer-senior-java-bi.md)
 
 
+[Backend Engineer (Java)](v29ya2rheq-backend-engineer-java.md)
+
+
 [Distributed Systems Engineer, Query Processing (Senior, Java/Scala)](v29ya2rheq-distributed-systems-engineer-query-processing-senior-java-scala.md)
 
 
