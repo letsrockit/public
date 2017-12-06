@@ -290,13 +290,6 @@
 [Technical Recruiter (Senior)](vgv4de5vdw-technical-recruiter-senior.md)
 
 
-#### San Francisco, CA  
-[Fullstack Engineer (Senior, Ruby)](sglyzwq-fullstack-engineer-senior-ruby.md)
-
-
-[DevOps Engineer (Senior)](sglyzwq-devops-engineer-senior.md)
-
-
 #### Redwood City, CA  
 [Backend Engineer (Senior, Java)](r2xpbnq-backend-engineer-senior-java.md)
 
@@ -305,6 +298,13 @@
 
 
 [AI (Senior, Machine Learning)](r2xpbnq-ai-senior-machine-learning.md)
+
+
+#### San Francisco, CA  
+[Fullstack Engineer (Senior, Ruby)](sglyzwq-fullstack-engineer-senior-ruby.md)
+
+
+[DevOps Engineer (Senior)](sglyzwq-devops-engineer-senior.md)
 
 
 #### Menlo Park, CA  
