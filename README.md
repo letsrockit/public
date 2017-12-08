@@ -142,10 +142,6 @@
 [Infrastructure Engineer (Lead)](tnvyea-infrastructure-engineer-lead.md)
 
 
-#### Redwood City, CA  
-[Backend Engineer (Senior, C++)](ugxleenoyxq-backend-engineer-senior-c.md)
-
-
 #### Pleasanton, CA  
 [Backend Engineer (Senior, Java, Machine Learning Platform)](v29ya2rheq-backend-engineer-senior-java-machine-learning-platform.md)
 
