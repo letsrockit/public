@@ -2,16 +2,6 @@
 [Fullstack Engineer (node.js)](wmlwb25nbw-fullstack-engineer-node-js.md)
 
 
-#### San Francisco, CA  
-[Game Client Engineer (C/C++/C#/Java)](tjnuv09ssw-game-client-engineer-c-c-c-java.md)
-
-
-[Game Server Engineer (Senior, Agnostic/Python/Java)](tjnuv09ssw-backend-engineer-senior-agnostic-python-java.md)
-
-
-[Fullstack Game Engineer (C++)](tjnuv09ssw-backend-engineer-c.md)
-
-
 #### Redwood City, CA  
 [Game Engine Developer (Senior)](u2t5zglv-game-engine-developer-senior.md)
 
@@ -48,6 +38,16 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (React)](u2hhcmvzcgfjzq-fullstack-engineer-java.md)
+
+
+#### San Francisco, CA  
+[Game Client Engineer (C/C++/C#/Java)](tjnuv09ssw-game-client-engineer-c-c-c-java.md)
+
+
+[Game Server Engineer (Senior, Agnostic/Python/Java)](tjnuv09ssw-backend-engineer-senior-agnostic-python-java.md)
+
+
+[Fullstack Game Engineer (C++)](tjnuv09ssw-backend-engineer-c.md)
 
 
 #### San Francisco, CA  
