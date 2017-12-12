@@ -224,9 +224,6 @@
 [Data Governance Engineer](v2luzgzhbgwgrgf0yq-data-scientist-senior.md)
 
 
-[AI (Senior, Machine Learning)](v2luzgzhbgwgrgf0yq-ai-senior-machine-learning.md)
-
-
 #### San Francisco, CA  
 [Backend Engineer (Senior, Python / Go / node.js)](q3j1axnl-backend-engineer-senior-python-go-node-js.md)
 
