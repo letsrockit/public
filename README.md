@@ -83,12 +83,6 @@
 
 
 #### San Francisco, CA  
-[Head of Product (Lead)](qml0tuvy-head-of-product-lead.md)
-
-
-[Designer (Lead, UX)](qml0tuvy-designer-lead-ux.md)
-
-
 [Data Visualization (Senior, D3.js)](qml0tuvy-data-engineer-senior-d3-js.md)
 
 
