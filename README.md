@@ -76,6 +76,9 @@
 [Fullstack Engineer (Senior)](wmlwy2fy-fullstack-engineer-senior.md)
 
 
+[Fullstack Data Engineer](wmlwy2fy-data-engineer.md)
+
+
 [Frontend Engineer (Senior, Angular)](wmlwy2fy-frontend-engineer-senior-angular.md)
 
 
