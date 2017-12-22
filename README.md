@@ -25,6 +25,9 @@
 [Data Scientist](v29ub2xv-data-scientist.md)
 
 
+[Fullstack Engineer (Ruby)](v29ub2xv-fullstack-engineer-ruby.md)
+
+
 #### San Francisco, CA  
 [Mobile Engineer (iOS)](vm94zxi-mobile-engineer-ios.md)
 
@@ -32,18 +35,18 @@
 [Mobile Engineer (Android)](vm94zxi-mobile-engineer-android.md)
 
 
-#### Oakland, CA  
-[Backend Engineer (Agnostic/Node/Go)](vlndtw-backend-engineer-agnostic-node-go.md)
-
-
-[Data Engineer (Senior)](vlndtw-data-engineer-senior.md)
-
-
 #### Santa Clara, CA  
 [Frontend Engineer (Senior, Javascript / React / Ethereum)](thvuexi-frontend-engineer-senior-javascript-react-ethereum.md)
 
 
 [Backend Engineer (Senior, node.js / Solidity)](thvuexi-backend-engineer-senior-node-js-solidity.md)
+
+
+#### Oakland, CA  
+[Backend Engineer (Agnostic/Node/Go)](vlndtw-backend-engineer-agnostic-node-go.md)
+
+
+[Data Engineer (Senior)](vlndtw-data-engineer-senior.md)
 
 
 #### San Francisco, CA  
@@ -224,10 +227,6 @@
 [Mobile Engineer (Manager, iOS)](u2nyawjk-mobile-engineer-ios.md)
 
 
-#### San Francisco, CA  
-[Data Engineer](vgfrda-data-engineer.md)
-
-
 #### San Mateo, CA  
 [Backend Engineer (Senior, C/C++/C#)](q3j5chrvtw92zq-backend-engineer-senior-c-c-c.md)
 
@@ -312,6 +311,9 @@
 
 
 #### San Francisco, CA  
+[Mobile Engineer (Senior, iOS)](vgv4de5vdw-mobile-engineer-senior-ios.md)
+
+
 [Technical Recruiter (Senior)](vgv4de5vdw-technical-recruiter-senior.md)
 
 
