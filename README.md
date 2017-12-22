@@ -22,6 +22,9 @@
 [Designer (Senior, UX)](v29ub2xv-designer-senior-ux.md)
 
 
+[Data Scientist](v29ub2xv-data-scientist.md)
+
+
 #### San Francisco, CA  
 [Mobile Engineer (iOS)](vm94zxi-mobile-engineer-ios.md)
 
