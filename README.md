@@ -32,18 +32,18 @@
 [Mobile Engineer (Android)](vm94zxi-mobile-engineer-android.md)
 
 
-#### Santa Clara, CA  
-[Frontend Engineer (Senior, Javascript / React / Ethereum)](thvuexi-frontend-engineer-senior-javascript-react-ethereum.md)
-
-
-[Backend Engineer (Senior, node.js / Solidity)](thvuexi-backend-engineer-senior-node-js-solidity.md)
-
-
 #### Oakland, CA  
 [Backend Engineer (Agnostic/Node/Go)](vlndtw-backend-engineer-agnostic-node-go.md)
 
 
 [Data Engineer (Senior)](vlndtw-data-engineer-senior.md)
+
+
+#### Santa Clara, CA  
+[Frontend Engineer (Senior, Javascript / React / Ethereum)](thvuexi-frontend-engineer-senior-javascript-react-ethereum.md)
+
+
+[Backend Engineer (Senior, node.js / Solidity)](thvuexi-backend-engineer-senior-node-js-solidity.md)
 
 
 #### San Francisco, CA  
@@ -210,9 +210,6 @@
 
 
 [AI (Senior, Machine Learning)](u2nyawjk-ai-senior-machine-learning.md)
-
-
-[Infrastructure Engineer (Senior, DevOps)](u2nyawjk-infrastructure-engineer-senior-devops.md)
 
 
 [Backend Engineer (Senior, Ruby)](u2nyawjk-backend-engineer-senior-ruby.md)
