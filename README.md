@@ -19,6 +19,12 @@
 
 
 #### San Francisco, CA  
+[Data Scientist (Lead)](v29ub2xv-data-scientist-lead.md)
+
+
+[Product Manager (Enterprise)](v29ub2xv-product-manager-enterprise.md)
+
+
 [Designer (Senior, UX)](v29ub2xv-designer-senior-ux.md)
 
 
@@ -143,14 +149,10 @@
 [Fullstack Engineer (React/Golang)](u2hpznq-fullstack-engineer-react-golang.md)
 
 
-#### Redwood City, CA  
-[Frontend Engineer (Senior)](twfuienyyxrlcw-frontend-engineer-senior.md)
-
-
-[Fullstack Engineer (Senior, Ruby)](twfuienyyxrlcw-fullstack-engineer-senior-ruby.md)
-
-
 #### San Francisco, CA  
+[Backend Engineer (Senior, Agnostic/node.js)](tnvyea-backend-engineer-senior-agnostic-node-js.md)
+
+
 [Frontend Engineer (Senior, Ember)](tnvyea-frontend-engineer-senior-ember.md)
 
 
@@ -235,6 +237,17 @@
 [Data Governance Engineer](v2luzgzhbgwgrgf0yq-data-scientist-senior.md)
 
 
+#### San Mateo, CA  
+[Frontend Engineer (Senior)](twfuienyyxrlcw-frontend-engineer-senior.md)
+
+
+[Fullstack Engineer (Senior, Ruby)](twfuienyyxrlcw-fullstack-engineer-senior-ruby.md)
+
+
+#### Sunnyvale, CA  
+[Frontend Engineer (Senior, React / Angular)](rm9ntg9nawm-frontend-engineer-senior-react-angular.md)
+
+
 #### San Francisco, CA  
 [Backend Engineer (Senior, Python / Go / node.js)](q3j1axnl-backend-engineer-senior-python-go-node-js.md)
 
@@ -311,9 +324,6 @@
 
 
 #### San Francisco, CA  
-[Mobile Engineer (Senior, iOS)](vgv4de5vdw-mobile-engineer-senior-ios.md)
-
-
 [Technical Recruiter (Senior)](vgv4de5vdw-technical-recruiter-senior.md)
 
 
