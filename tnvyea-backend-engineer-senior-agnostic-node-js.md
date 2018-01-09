@@ -19,12 +19,12 @@ We are looking for a top notch backend developer to build our API framework and 
 +	Proficiency with relational databases
 +	Expert in at least one programming language
 +	Experience writing automated tests
-+	2+ years experience writing APIs that are:
-++	External facing
-++	Consumed by multiple internal teams
-+	Either:
-++	BS in Computer Science or equivalent and 2+ years experience
-++	3+ years of experience
+2+ years experience writing APIs that are: 
++	External facing
++	Consumed by multiple internal teams
+Either: 
++	BS in Computer Science or equivalent and 2+ years experience
++	3+ years of experience
 
 ### Bonus points
 +	Multiple years experience working in a startup environment at a company with high growth
