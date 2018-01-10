@@ -286,6 +286,9 @@
 [Backend Engineer (Python)](uelyifn5c3rlbxm-backend-engineer-python.md)
 
 
+[Project Manager](uelyifn5c3rlbxm-project-manager.md)
+
+
 #### Sunnyvale, CA  
 [Frontend Engineer (Senior, React / Angular)](rm9ntg9nawm-frontend-engineer-senior-react-angular.md)
 
