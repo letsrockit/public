@@ -228,10 +228,6 @@
 [Mobile Engineer (Manager, iOS)](u2nyawjk-mobile-engineer-ios.md)
 
 
-#### San Mateo, CA  
-[Backend Engineer (Senior, C/C++/C#)](q3j5chrvtw92zq-backend-engineer-senior-c-c-c.md)
-
-
 #### San Francisco, CA  
 [Data Governance Engineer](v2luzgzhbgwgrgf0yq-data-scientist-senior.md)
 
@@ -346,6 +342,10 @@
 
 
 [Growth Mobile Engineer (Android)](vgv4de5vdw-growth-mobile-engineer-android.md)
+
+
+#### San Mateo, CA  
+[Backend Engineer (Senior, C/C++/C#)](q3j5chrvtw92zq-backend-engineer-senior-c-c-c.md)
 
 
 #### Redwood City, CA  
