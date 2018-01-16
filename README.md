@@ -73,9 +73,6 @@
 [Fullstack Engineer (Senior, Ruby/Python)](rwrlbg-fullstack-engineer-senior-ruby-python.md)
 
 
-[Designer (Senior, UI/UX)](rwrlbg-designer-senior-ui-ux.md)
-
-
 #### Mountain View, CA  
 [Test Engineer (Lead)](v2vucnvzda-test-engineer-lead.md)
 
@@ -105,9 +102,6 @@
 
 
 #### San Francisco, CA  
-[Data Visualization (Senior, D3.js)](qml0tuvy-data-engineer-senior-d3-js.md)
-
-
 [Frontend Engineer (Senior, React)](qml0tuvy-frontend-engineer-senior-react.md)
 
 
@@ -324,16 +318,6 @@
 
 
 #### San Francisco, CA  
-[Engineering Manager](rwf0c2e-engineering-manager.md)
-
-
-[Fullstack Engineer (Senior, Java)](rwf0c2e-fullstack-engineer-java.md)
-
-
-[Mobile Engineer (Android)](rwf0c2e-mobile-engineer-android.md)
-
-
-#### San Francisco, CA  
 [Fullstack Engineer (Senior, Ruby)](twvya2xlieluyw-fullstack-engineer-senior-ruby.md)
 
 
@@ -353,9 +337,6 @@
 
 
 [Web Application Engineer (Senior)](r2xpbnq-web-application-engineer-senior.md)
-
-
-[AI (Senior, Machine Learning)](r2xpbnq-ai-senior-machine-learning.md)
 
 
 #### San Francisco, CA  
