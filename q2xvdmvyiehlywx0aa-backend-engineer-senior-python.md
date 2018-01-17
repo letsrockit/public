@@ -4,8 +4,7 @@
 ### Overview
 Our company is transforming the healthcare industry utilizing modern data analytics platforms to provide customized preventative health plans by identifying gaps in their members’ care. Unlike other competing health insurance companies that strive to practice preventative care, Clover focuses on helping Medicare members with tailored technology they built from scratch. Clover directly involves doctors, clinicians, and nurse practitioners into their system to provide them with actionable information that helps their patients prevent acute health episodes.
 
-### Job Description
-As a Senior Software Engineer, you will:
+### What you'll do
 +	Commit to simplifying the complexities of healthcare by building systems that multiply human efforts.
 +	Be a pragmatic voice, collaborating across multiple teams and areas of concern.
 +	Dig into projects in order to build robust and easy to use APIs.
