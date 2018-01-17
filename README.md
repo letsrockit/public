@@ -15,6 +15,9 @@
 [AI (Senior, Computer Vision)](u2t5zglv-ai-senior-computer-vision.md)
 
 
+[Hardware Engineer (Firmware/Embedded)](u2t5zglv-hardware-engineer-firmware-embedded.md)
+
+
 [Fullstack Engineer (Python)](u2t5zglv-fullstack-engineer-python.md)
 
 
@@ -42,6 +45,9 @@
 
 
 #### Oakland, CA  
+[Mobile Engineer (Android)](vlndtw-mobile-engineer-android.md)
+
+
 [Data Engineer (Senior)](vlndtw-data-engineer-senior.md)
 
 
@@ -297,6 +303,10 @@
 
 #### San Francisco, CA  
 [Growth Mobile Engineer (Android)](vgv4de5vdw-growth-mobile-engineer-android.md)
+
+
+#### San Francisco, CA  
+[Backend Engineer (Senior, Python)](q2xvdmvyiehlywx0aa-backend-engineer-senior-python.md)
 
 
 #### San Mateo, CA  
