@@ -41,13 +41,7 @@
 [Mobile Engineer (iOS)](vm94zxi-mobile-engineer-ios.md)
 
 
-[Mobile Engineer (Android)](vm94zxi-mobile-engineer-android.md)
-
-
 #### Oakland, CA  
-[Backend Engineer (Agnostic/Node/Go)](vlndtw-backend-engineer-agnostic-node-go.md)
-
-
 [Data Engineer (Senior)](vlndtw-data-engineer-senior.md)
 
 
@@ -71,10 +65,6 @@
 
 #### Mountain View, CA  
 [Test Engineer (Lead)](v2vucnvzda-test-engineer-lead.md)
-
-
-#### San Francisco, CA  
-[Backend Engineer (Agnostic/Ruby/Golang/Python)](v2vhdmv3b3jrcw-backend-engineer-agnostic-ruby-golang-python.md)
 
 
 #### San Mateo, CA  
@@ -263,25 +253,6 @@
 [Backend Engineer (Lead, Ruby)](txvuy2hlcnk-backend-engineer-lead-ruby.md)
 
 
-#### San Francisco, CA  
-[Security Engineer (Senior)](uelyifn5c3rlbxm-security-engineer-senior.md)
-
-
-[IT Support Engineer](uelyifn5c3rlbxm-it-support-engineer.md)
-
-
-[DevOps Engineer](uelyifn5c3rlbxm-devops-engineer.md)
-
-
-[Frontend Engineer (Angular / Ember / React)](uelyifn5c3rlbxm-frontend-engineer-angular-ember-react.md)
-
-
-[Backend Engineer (Python)](uelyifn5c3rlbxm-backend-engineer-python.md)
-
-
-[Project Manager](uelyifn5c3rlbxm-project-manager.md)
-
-
 #### Sunnyvale, CA  
 [Frontend Engineer (Senior, React / Angular)](rm9ntg9nawm-frontend-engineer-senior-react-angular.md)
 
@@ -325,9 +296,6 @@
 
 
 #### San Francisco, CA  
-[Technical Recruiter (Senior)](vgv4de5vdw-technical-recruiter-senior.md)
-
-
 [Growth Mobile Engineer (Android)](vgv4de5vdw-growth-mobile-engineer-android.md)
 
 
@@ -347,6 +315,25 @@
 
 
 [DevOps Engineer (Senior)](sglyzwq-devops-engineer-senior.md)
+
+
+#### San Francisco, CA  
+[Security Engineer (Senior)](uelyifn5c3rlbxm-security-engineer-senior.md)
+
+
+[DevOps Engineer](uelyifn5c3rlbxm-devops-engineer.md)
+
+
+[Backend Engineer (Python)](uelyifn5c3rlbxm-backend-engineer-python.md)
+
+
+[Project Manager](uelyifn5c3rlbxm-project-manager.md)
+
+
+[IT Support Engineer](uelyifn5c3rlbxm-it-support-engineer.md)
+
+
+[Frontend Engineer (Angular / Ember / React)](uelyifn5c3rlbxm-frontend-engineer-angular-ember-react.md)
 
 
 #### Menlo Park, CA  
