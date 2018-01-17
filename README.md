@@ -66,10 +66,6 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (Ruby)](umvwywlyugfs-fullstack-engineer-ruby.md)
-
-
-#### San Francisco, CA  
 [Fullstack Engineer (Senior, Ruby/Python)](rwrlbg-fullstack-engineer-senior-ruby-python.md)
 
 
@@ -155,6 +151,10 @@
 [Infrastructure Engineer (Lead)](tnvyea-infrastructure-engineer-lead.md)
 
 
+#### Redwood City, CA  
+[Backend Engineer (Senior, C++)](ugxleenoyxq-backend-engineer-senior-c.md)
+
+
 #### Pleasanton, CA  
 [Backend Engineer (Senior, Java, Machine Learning Platform)](v29ya2rheq-backend-engineer-senior-java-machine-learning-platform.md)
 
@@ -208,6 +208,9 @@
 
 
 [AI (Senior, Machine Learning)](u2nyawjk-ai-senior-machine-learning.md)
+
+
+[Infrastructure Engineer (Senior, DevOps)](u2nyawjk-infrastructure-engineer-senior-devops.md)
 
 
 [Backend Engineer (Senior, Ruby)](u2nyawjk-backend-engineer-senior-ruby.md)
