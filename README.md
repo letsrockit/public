@@ -66,6 +66,10 @@
 
 
 #### San Francisco, CA  
+[Fullstack Engineer (Senior, Ruby)](umvwywlyugfs-fullstack-engineer-senior-ruby.md)
+
+
+#### San Francisco, CA  
 [Fullstack Engineer (Senior, Ruby/Python)](rwrlbg-fullstack-engineer-senior-ruby-python.md)
 
 
