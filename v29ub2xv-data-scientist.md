@@ -29,4 +29,4 @@ Your opportunity is to build on this foundation, leveraging our unique dataset t
 +	Ability to thrive in a fast-paced startup environment.
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/v29ub2xv-data-scientist)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/v29ub2xv-data-scientist)

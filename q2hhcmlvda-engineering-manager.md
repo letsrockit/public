@@ -18,4 +18,4 @@ As a core member of a cross-functional team comprised of engineers, PMs, designe
 +	Unit and Integration testing
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/q2hhcmlvda-engineering-manager)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/q2hhcmlvda-engineering-manager)

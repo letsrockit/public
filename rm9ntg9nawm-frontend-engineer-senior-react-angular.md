@@ -29,4 +29,4 @@ As a senior member of our engineering team, you will be responsible for helping 
 +	Incredible communication skills and ability to work well with a team.
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/rm9ntg9nawm-frontend-engineer-senior-react-angular)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/rm9ntg9nawm-frontend-engineer-senior-react-angular)

@@ -19,4 +19,4 @@ As part of the team, you will be responsible for designing and implementing tech
 +	BS in Computer Science, MS or PhD preferred
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/v29ya2rheq-distributed-systems-engineer-query-processing-senior-java-scala)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/v29ya2rheq-distributed-systems-engineer-query-processing-senior-java-scala)

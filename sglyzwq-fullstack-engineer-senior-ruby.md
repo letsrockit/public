@@ -40,4 +40,4 @@ As a Senior Software Engineer, you will work on various projects critical to our
 +	Weekly educational classes & catered lunch
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/sglyzwq-fullstack-engineer-senior-ruby)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/sglyzwq-fullstack-engineer-senior-ruby)

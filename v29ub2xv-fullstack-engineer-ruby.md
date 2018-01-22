@@ -28,4 +28,4 @@ We are seeking a solid back-end engineer who can help us continue to develop our
 +	“Can do” attitude, self-starter, able to deliver results independently
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/v29ub2xv-fullstack-engineer-ruby)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/v29ub2xv-fullstack-engineer-ruby)

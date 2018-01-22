@@ -22,4 +22,4 @@ You would also have the lead role on a new React Native application based on the
 +	Familiarity with current UX trends and curiosity for new UX concepts (conversational UI, etc)
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/qml0tuvy-frontend-engineer-senior-react)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/qml0tuvy-frontend-engineer-senior-react)

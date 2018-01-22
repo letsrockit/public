@@ -40,4 +40,4 @@ As a Senior Full Stack Engineer you will be responsible for our e-commerce appli
 + Master’s Degree in Computer Science or related field a plus
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/twfuienyyxrlcw-fullstack-engineer-senior-ruby)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/twfuienyyxrlcw-fullstack-engineer-senior-ruby)

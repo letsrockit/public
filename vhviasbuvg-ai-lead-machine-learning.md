@@ -22,4 +22,4 @@ We collect a massive amount of data which is used to help our users discover the
 +	Yearly bonuses depending on individual and company performance
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/vhviasbuvg-ai-lead-machine-learning)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/vhviasbuvg-ai-lead-machine-learning)

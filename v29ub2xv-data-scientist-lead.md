@@ -30,4 +30,4 @@ Your opportunity is to leverage our unique dataset to take our data science effo
 + Work cohesively with Engineering and Product teams – Data Science must not exist atop an ivory tower.  Ability to surface machine learning models as product features.
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/v29ub2xv-data-scientist-lead)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/v29ub2xv-data-scientist-lead)

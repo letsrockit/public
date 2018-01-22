@@ -31,4 +31,4 @@ Our product is the soul and center of everything we do and our product team is t
 +	Company events that include monthly happy hours and offsites (past events include Safari West, Stinson Beach, ski trips, etc.)
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/u2nyawjk-product-manager-senior)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/u2nyawjk-product-manager-senior)

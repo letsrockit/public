@@ -28,4 +28,4 @@ We believe in continuously improving our skills and codebase, work/life balance,
 +	Company events that include monthly happy hours and offsites (past events include Safari West, Stinson Beach, ski trips, etc.)
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/u2nyawjk-infrastructure-engineer-senior-devops)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/u2nyawjk-infrastructure-engineer-senior-devops)

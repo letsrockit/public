@@ -46,4 +46,4 @@ Want to work for a company that is shaping the future of urban mobility? Ready t
 +	Discounts on a variety of products and services through our partners
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/wmlwy2fy-data-engineer)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/wmlwy2fy-data-engineer)

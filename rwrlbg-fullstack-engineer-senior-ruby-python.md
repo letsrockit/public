@@ -40,4 +40,4 @@ As a full-time Senior Software Engineer, you'll have a direct impact on the cust
 + Great location in the SOMA district of SF
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/rwrlbg-fullstack-engineer-senior-ruby-python)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/rwrlbg-fullstack-engineer-senior-ruby-python)

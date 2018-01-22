@@ -24,4 +24,4 @@ We are seeking machine learning engineers to join our team. The ideal candidate 
 +	You know your way around cloud services like AWS and/or Google cloud
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/qwxwaw5llmfpic8gvm9py2ugtgficw-ai-senior-machine-learning)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/qwxwaw5llmfpic8gvm9py2ugtgficw-ai-senior-machine-learning)

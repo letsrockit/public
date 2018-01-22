@@ -26,4 +26,4 @@ Our mission is to become the world's first sustainable mass transit service by c
 Founded in 2014 in SF, we have expanded to Austin, TX and has over 50 routes, providing tens of thousands of rides per week. The company participated in Y Combinator's Winter 2015 batch and was acquired by Ford Smart Mobility in September 2016. As a cornerstone of Ford's urban mobility strategy, our company has the mandate and resources to scale its concept worldwide, and will expand to at least another 5 markets worldwide this year.
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/q2hhcmlvda-backend-engineer-senior-python)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/q2hhcmlvda-backend-engineer-senior-python)

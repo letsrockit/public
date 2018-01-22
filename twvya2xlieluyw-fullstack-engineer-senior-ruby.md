@@ -29,4 +29,4 @@ As a member of our small but seriously talented engineering team, you will play 
 +	NO ASSHOLES AND POLITICS
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/twvya2xlieluyw-fullstack-engineer-senior-ruby)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/twvya2xlieluyw-fullstack-engineer-senior-ruby)

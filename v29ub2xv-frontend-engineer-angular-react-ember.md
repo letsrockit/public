@@ -16,4 +16,4 @@ You’re a talented, self-motivated and hardworking developer who is hungry to b
 +	Exhibit of a sense of ownership for the quality of your work
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/v29ub2xv-frontend-engineer-angular-react-ember)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/v29ub2xv-frontend-engineer-angular-react-ember)

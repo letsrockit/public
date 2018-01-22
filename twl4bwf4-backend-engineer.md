@@ -38,4 +38,4 @@ As a founding team member, you’ll wear multiple hats, embrace ambiguity, and t
 Our office is in San Francisco near Caltrain. We offer competitive compensation and benefits. You’ll work with a great team on a product people love!
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/twl4bwf4-backend-engineer)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/twl4bwf4-backend-engineer)

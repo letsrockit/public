@@ -26,4 +26,4 @@ We are looking for a Senior Data Engineer to evolve and scale our data infrastru
 +	An appreciation for photography and/or other aspects of the arts
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/vlndtw-data-engineer-senior)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/vlndtw-data-engineer-senior)

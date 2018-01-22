@@ -27,4 +27,4 @@ We're usually in about four different time zones, and multiple continents. And w
 + Competitive pay, equity package, health benefits
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/tg95ewfs-backend-engineer-go)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/tg95ewfs-backend-engineer-go)

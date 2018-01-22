@@ -24,4 +24,4 @@ We are looking for a growth hacking expert to spearhead our growth initiatives. 
 +	Improve our internal experiment framework
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/tnvyea-growth-engineer-senior)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/tnvyea-growth-engineer-senior)

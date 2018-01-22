@@ -30,4 +30,4 @@ Data Science is at the core of the company DNA. Our mission is to make accurate 
 +	Knowledge of consumer data space or economics / finance
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/v2luzgzhbgwgrgf0yq-data-scientist-senior)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/v2luzgzhbgwgrgf0yq-data-scientist-senior)

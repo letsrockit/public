@@ -14,4 +14,4 @@ Your magical powers enable you to design advanced computer vision algorithms tha
 +	Knowledge of IMU and other related hardware
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision)

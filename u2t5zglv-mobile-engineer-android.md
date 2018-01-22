@@ -16,4 +16,4 @@ When a drone understands its surroundings, it can respond to a much richer set o
 +	You know how to create tools and automate your workflow with python scripts
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/u2t5zglv-mobile-engineer-android)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/u2t5zglv-mobile-engineer-android)

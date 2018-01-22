@@ -33,4 +33,4 @@ You will lead the design process from user research to collaboration with develo
 +	HTML,CSS, Javascript knowledge, current on latest responsive design techniques
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/v29ub2xv-designer-senior-ux)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/v29ub2xv-designer-senior-ux)

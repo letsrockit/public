@@ -42,4 +42,4 @@ The entire team is an honest, collaborative group focused on solving interesting
 We provide a generous benefits package, stock options, 401k, and we'll hook you up with the gear of your choice.
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/qmxvyw-fullstack-engineer-agnostic-ruby)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/qmxvyw-fullstack-engineer-agnostic-ruby)

@@ -17,4 +17,4 @@ We are proud of our nimble, startup-like culture. We practice quick ideation, ag
 +	Skills in effective communication and influencing team’s direction
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/v29ya2rheq-backend-engineer-senior-java)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/v29ya2rheq-backend-engineer-senior-java)

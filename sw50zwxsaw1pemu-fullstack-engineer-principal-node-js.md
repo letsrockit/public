@@ -42,4 +42,4 @@ A few more things about us:
 +	Yes, you get competitive salary, equity, and benefits (health, dental, vision, and 401k).
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/sw50zwxsaw1pemu-fullstack-engineer-principal-node-js)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/sw50zwxsaw1pemu-fullstack-engineer-principal-node-js)

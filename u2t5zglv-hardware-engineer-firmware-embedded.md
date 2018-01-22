@@ -20,4 +20,4 @@ Reliable embedded firmware will act as the brain stem of the autonomous camera -
 + Ability to understand the algorithmic considerations in play
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/u2t5zglv-hardware-engineer-firmware-embedded)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/u2t5zglv-hardware-engineer-firmware-embedded)

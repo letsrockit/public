@@ -22,4 +22,4 @@ optimized for mobile platforms. Two years of Objective C experience.
 +	If you have a Github account - please submit it with your application.
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/vm94zxi-mobile-engineer-ios)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/vm94zxi-mobile-engineer-ios)

@@ -31,4 +31,4 @@ In this role, you will work with a top-notch team to deliver an enterprise-grade
 +	Scala skills preferred
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/v29ya2rheq-backend-engineer-senior-java-bi)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/v29ya2rheq-backend-engineer-senior-java-bi)

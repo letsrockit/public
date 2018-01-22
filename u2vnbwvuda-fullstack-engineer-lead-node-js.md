@@ -24,4 +24,4 @@ Our mission is to make it super easy for companies to use their customer data to
 +	Experience with web best practices such as A/B testing and test coverage
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/u2vnbwvuda-fullstack-engineer-lead-node-js)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/u2vnbwvuda-fullstack-engineer-lead-node-js)

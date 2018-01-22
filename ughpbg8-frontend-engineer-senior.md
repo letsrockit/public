@@ -22,4 +22,4 @@ The Product Team is responsible for designing, building, testing, and quite lite
 + Working in a codebase with multiple contributors
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/ughpbg8-frontend-engineer-senior)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/ughpbg8-frontend-engineer-senior)
