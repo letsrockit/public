@@ -16,4 +16,4 @@ As Head of UX, you will work together with the CTO and VP of Frontend Engineerin
 +	Familiarity with current UX trends and curiosity for new UX concepts (conversational UI, etc)
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/qml0tuvy-designer-lead-ux)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/qml0tuvy-designer-lead-ux)

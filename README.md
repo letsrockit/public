@@ -52,10 +52,6 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (React)](u2hhcmvzcgfjzq-fullstack-engineer-java.md)
-
-
-#### San Francisco, CA  
 [Fullstack Game Engineer (C++)](tjnuv09ssw-backend-engineer-c.md)
 
 
@@ -98,6 +94,9 @@
 
 
 #### San Francisco, CA  
+[Designer (Lead, UX)](qml0tuvy-designer-lead-ux.md)
+
+
 [Frontend Engineer (Senior, React)](qml0tuvy-frontend-engineer-senior-react.md)
 
 
@@ -257,6 +256,9 @@
 [Mobile Engineer (Senior, Android)](sg91c2vwyxj0eq-mobile-engineer-senior-android.md)
 
 
+[iOS Lead](sg91c2vwyxj0eq-ios-lead.md)
+
+
 [Mobile Engineer (iOS)](sg91c2vwyxj0eq-mobile-engineer-ios.md)
 
 
@@ -343,6 +345,25 @@
 
 
 #### San Francisco, CA  
+[Infrastructure Engineer (Senior)](v2lzaa-infrastructure-engineer-senior.md)
+
+
+[Mobile Engineer (Senior, iOS)](v2lzaa-mobile-engineer-senior-ios.md)
+
+
+[Backend Engineer (Senior, Python)](v2lzaa-backend-engineer-senior-python.md)
+
+
+[Mobile Engineer (Senior, Android)](v2lzaa-mobile-engineer-senior-android.md)
+
+
+[Data Scientist (Senior)](v2lzaa-data-scientist-senior.md)
+
+
+[Fullstack Engineer (Senior, Python)](v2lzaa-fullstack-engineer-senior-python.md)
+
+
+#### San Francisco, CA  
 [Security Engineer (Senior)](uelyifn5c3rlbxm-security-engineer-senior.md)
 
 
@@ -359,6 +380,23 @@
 
 
 [IT Support Engineer](uelyifn5c3rlbxm-it-support-engineer.md)
+
+
+#### San Francisco, CA  
+[AI (Lead, Machine Learning)](u2t5y2f0y2g-ai-lead-machine-learning.md)
+
+
+[Fullstack Engineer (Manager, Agnostic)](u2t5y2f0y2g-fullstack-engineer-manager-agnostic.md)
+
+
+[Mobile Engineer (Lead, iOS)](u2t5y2f0y2g-mobile-engineer-lead-ios.md)
+
+
+#### San Francisco, CA  
+[Frontend Engineer (Senior, React)](q29tcg9sb2d5-frontend-engineer-senior-react.md)
+
+
+[Backend Engineer (Senior, node.js)](q29tcg9sb2d5-backend-engineer-senior-node-js.md)
 
 
 #### Menlo Park, CA  
