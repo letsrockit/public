@@ -31,10 +31,10 @@
 [Fullstack Engineer (Ruby)](v29ub2xv-fullstack-engineer-ruby.md)
 
 
-[Designer (Senior, UX)](v29ub2xv-designer-senior-ux.md)
-
-
 [Frontend Engineer (Angular / React / Ember)](v29ub2xv-frontend-engineer-angular-react-ember.md)
+
+
+[Designer (Senior, UX)](v29ub2xv-designer-senior-ux.md)
 
 
 [Data Scientist](v29ub2xv-data-scientist.md)
