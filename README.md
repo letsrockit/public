@@ -147,6 +147,12 @@
 [Frontend Engineer (Senior, Ember)](tnvyea-frontend-engineer-senior-ember.md)
 
 
+[Infrastructure Engineer (Senior)](tnvyea-infrastructure-engineer-senior.md)
+
+
+[AI (Lead, Machine Learning)](tnvyea-ai-lead-machine-learning.md)
+
+
 [Fullstack Engineer (Senior, Ember/Node, Agnostic)](tnvyea-growth-engineer-senior.md)
 
 
