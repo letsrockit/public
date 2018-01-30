@@ -332,10 +332,6 @@
 [Backend Engineer (Senior, C/C++/C#)](q3j5chrvtw92zq-backend-engineer-senior-c-c-c.md)
 
 
-#### San Francisco, CA  
-[Frontend Engineer (Ember)](sgvhzhnwywnl-frontend-engineer-ember.md)
-
-
 #### Redwood City, CA  
 [Web Application Engineer (Senior)](r2xpbnq-web-application-engineer-senior.md)
 
