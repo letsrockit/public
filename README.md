@@ -73,19 +73,6 @@
 [Test Engineer (Lead)](v2vucnvzda-test-engineer-lead.md)
 
 
-#### San Mateo, CA  
-[Infrastructure Engineer (Senior)](wmlwy2fy-infrastructure-engineer-senior.md)
-
-
-[Fullstack Engineer (Senior)](wmlwy2fy-fullstack-engineer-senior.md)
-
-
-[Fullstack Data Engineer](wmlwy2fy-data-engineer.md)
-
-
-[Frontend Engineer (Senior, Angular)](wmlwy2fy-frontend-engineer-senior-angular.md)
-
-
 #### San Francisco, CA  
 [Backend Engineer (Senior, Scala)](vhviasbuvg-backend-engineer-senior-scala.md)
 
@@ -97,10 +84,10 @@
 
 
 #### San Francisco, CA  
-[Designer (Lead, UX)](qml0tuvy-designer-lead-ux.md)
-
-
 [Frontend Engineer (Senior, React)](qml0tuvy-frontend-engineer-senior-react.md)
+
+
+[Designer (Lead, UX)](qml0tuvy-designer-lead-ux.md)
 
 
 #### San Francisco, CA  
@@ -111,29 +98,19 @@
 [Engineering Manager](q2hhcmlvda-engineering-manager.md)
 
 
-[Frontend Engineer (Senior, Angular)](q2hhcmlvda-frontend-engineer-senior-angular.md)
-
-
 [Mobile Engineer (Senior, iOS)](q2hhcmlvda-mobile-engineer-senior-ios.md)
 
 
 [Backend Engineer (Senior, Python)](q2hhcmlvda-backend-engineer-senior-python.md)
 
 
-[Fullstack Engineer (Senior, Python)](q2hhcmlvda-fullstack-engineer-senior-python.md)
-
-
 [Mobile Engineer (Senior, Android)](q2hhcmlvda-mobile-engineer-senior-android.md)
 
 
 #### San Francisco, CA  
-[DevOps Engineer (Senior)](tg95ewfs-devops-engineer-senior.md)
+[Mobile Engineer (iOS)](u2hpznq-mobile-engineer-ios.md)
 
 
-[Backend Engineer (Go)](tg95ewfs-backend-engineer-go.md)
-
-
-#### San Francisco, CA  
 [Fullstack Engineer (React/Golang)](u2hpznq-fullstack-engineer-react-golang.md)
 
 
@@ -141,9 +118,6 @@
 
 
 #### San Francisco, CA  
-[Infrastructure Engineer (Lead)](tnvyea-infrastructure-engineer-lead.md)
-
-
 [Backend Engineer (Senior, Agnostic/node.js)](tnvyea-backend-engineer-senior-agnostic-node-js.md)
 
 
@@ -167,9 +141,6 @@
 [Backend Engineer (Senior, Java, Machine Learning Platform)](v29ya2rheq-backend-engineer-senior-java-machine-learning-platform.md)
 
 
-[Search Software Engineer (Senior, Java/Scala)](v29ya2rheq-search-software-engineer-senior-java-scala.md)
-
-
 [AI (Senior, Machine Learning)](v29ya2rheq-ai-senior-machine-learning.md)
 
 
@@ -179,9 +150,6 @@
 [Distributed Systems & Cloud Services (Senior Manager / Director)](v29ya2rheq-distributed-systems-cloud-services-senior-manager-director.md)
 
 
-[Backend Engineer (Senior, Java, BI)](v29ya2rheq-backend-engineer-senior-java-bi.md)
-
-
 [Distributed Systems Engineer, Query Processing (Senior, Java/Scala)](v29ya2rheq-distributed-systems-engineer-query-processing-senior-java-scala.md)
 
 
@@ -189,9 +157,6 @@
 
 
 [Backend Engineer (Senior, Java, Core Platform)](v29ya2rheq-backend-engineer-senior-java-core-platform.md)
-
-
-[VMWare Operations Engineer](v29ya2rheq-vmware-operations-engineer.md)
 
 
 [Backend Engineer (Java)](v29ya2rheq-backend-engineer-java.md)
@@ -242,9 +207,6 @@
 
 
 #### San Mateo, CA  
-[Frontend Engineer (Senior)](twfuienyyxrlcw-frontend-engineer-senior.md)
-
-
 [Fullstack Engineer (Senior, Ruby)](twfuienyyxrlcw-fullstack-engineer-senior-ruby.md)
 
 
