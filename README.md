@@ -96,6 +96,12 @@
 [Mobile Designer (Senior, Android / iOS)](qml0tuvy-mobile-designer-senior-android-ios.md)
 
 
+[Designer (Senior, UX)](qml0tuvy-designer-senior-ux.md)
+
+
+[Security Engineer (Senior)](qml0tuvy-security-engineer-senior.md)
+
+
 #### San Francisco, CA  
 [VP of Engineering](tglmdelnbml0zxi-vp-of-engineering.md)
 
