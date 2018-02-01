@@ -93,6 +93,9 @@
 [Data Engineer (Senior)](qml0tuvy-data-engineer-senior.md)
 
 
+[Mobile Designer (Senior, Android / iOS)](qml0tuvy-mobile-designer-senior-android-ios.md)
+
+
 #### San Francisco, CA  
 [VP of Engineering](tglmdelnbml0zxi-vp-of-engineering.md)
 
