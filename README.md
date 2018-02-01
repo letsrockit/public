@@ -162,6 +162,15 @@
 [Distributed Systems & Cloud Services (Senior Manager / Director)](v29ya2rheq-distributed-systems-cloud-services-senior-manager-director.md)
 
 
+[Backend Engineer (Principal, Java)](v29ya2rheq-backend-engineer-principal-java.md)
+
+
+[Backend Engineer (Manager, Java)](v29ya2rheq-backend-engineer-manager-java.md)
+
+
+[Backend Engineer (Senior, Java)](v29ya2rheq-backend-engineer-senior-java-57ab538e-5b51-4243-9640-5ef099a50606.md)
+
+
 [Distributed Systems Engineer, Query Processing (Senior, Java/Scala)](v29ya2rheq-distributed-systems-engineer-query-processing-senior-java-scala.md)
 
 
