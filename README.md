@@ -90,6 +90,9 @@
 [Designer (Lead, UX)](qml0tuvy-designer-lead-ux.md)
 
 
+[Data Engineer (Senior)](qml0tuvy-data-engineer-senior.md)
+
+
 #### San Francisco, CA  
 [VP of Engineering](tglmdelnbml0zxi-vp-of-engineering.md)
 
@@ -360,10 +363,10 @@
 
 
 #### San Francisco, CA  
-[Frontend Engineer (Senior, React)](q29tcg9sb2d5-frontend-engineer-senior-react.md)
-
-
 [Backend Engineer (Senior, node.js)](q29tcg9sb2d5-backend-engineer-senior-node-js.md)
+
+
+[Frontend Engineer (Senior, React)](q29tcg9sb2d5-frontend-engineer-senior-react.md)
 
 
 #### Menlo Park, CA  
