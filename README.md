@@ -61,10 +61,6 @@
 [Fullstack Engineer (Senior, Ruby)](umvwywlyugfs-fullstack-engineer-senior-ruby.md)
 
 
-#### Mountain View, CA  
-[Test Engineer (Lead)](v2vucnvzda-test-engineer-lead.md)
-
-
 #### San Francisco, CA  
 [Backend Engineer (Senior, Scala)](vhviasbuvg-backend-engineer-senior-scala.md)
 
