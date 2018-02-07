@@ -40,6 +40,13 @@
 [Mobile Engineer (iOS)](vm94zxi-mobile-engineer-ios.md)
 
 
+#### Palo Alto, CA  
+[Hardware Engineer (Senior, Robotics)](we1vdg9ycy5haq-hardware-engineer-senior-robotics.md)
+
+
+[AI (Senior, Machine Learning)](we1vdg9ycy5haq-ai-senior-machine-learning.md)
+
+
 #### Oakland, CA  
 [Mobile Engineer (Android)](vlndtw-mobile-engineer-android.md)
 
