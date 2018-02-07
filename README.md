@@ -261,13 +261,6 @@
 
 
 #### San Francisco, CA  
-[Backend Engineer (Senior, Ruby)](vghlifjlywxszwfs-backend-engineer-senior-ruby.md)
-
-
-[DevOps Engineer (Senior)](vghlifjlywxszwfs-devops-engineer-senior.md)
-
-
-#### San Francisco, CA  
 [Site Reliability Engineer](twl4bwf4-site-reliability-engineer.md)
 
 
@@ -275,6 +268,13 @@
 
 
 [Backend Engineer](twl4bwf4-backend-engineer.md)
+
+
+#### San Francisco, CA  
+[Backend Engineer (Senior, Ruby)](vghlifjlywxszwfs-backend-engineer-senior-ruby.md)
+
+
+[DevOps Engineer (Senior)](vghlifjlywxszwfs-devops-engineer-senior.md)
 
 
 #### San Francisco, CA  
