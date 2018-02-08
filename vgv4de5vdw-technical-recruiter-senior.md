@@ -29,4 +29,4 @@ We are looking for a Technical Recruiter to join our team in San Francisco, CA. 
 +	Fitness membership
 
 
-[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/jobs/vgv4de5vdw-technical-recruiter-senior)
+[<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/vgv4de5vdw-technical-recruiter-senior)

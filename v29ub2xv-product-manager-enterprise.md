@@ -1,4 +1,4 @@
-## Product Manager (Enterprise)
+## Product Manager, Marketplace
 #### San Francisco, CA
 
 ### Overview

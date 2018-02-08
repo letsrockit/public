@@ -21,7 +21,7 @@
 [Data Scientist (Lead)](v29ub2xv-data-scientist-lead.md)
 
 
-[Product Manager (Enterprise)](v29ub2xv-product-manager-enterprise.md)
+[Product Manager, Marketplace](v29ub2xv-product-manager-enterprise.md)
 
 
 [Fullstack Engineer (Ruby)](v29ub2xv-fullstack-engineer-ruby.md)
@@ -95,6 +95,9 @@
 
 
 [Security Engineer (Senior)](qml0tuvy-security-engineer-senior.md)
+
+
+[Backend Engineer (Senior, node.js)](qml0tuvy-backend-engineer-senior-node-js.md)
 
 
 #### San Francisco, CA  
@@ -302,6 +305,9 @@
 
 
 #### San Francisco, CA  
+[Technical Recruiter (Senior)](vgv4de5vdw-technical-recruiter-senior.md)
+
+
 [Growth Mobile Engineer (Android)](vgv4de5vdw-growth-mobile-engineer-android.md)
 
 
@@ -395,6 +401,9 @@
 
 #### San Francisco, CA  
 [Backend Engineer (Senior, Agnostic/Python)](qwxwaw5llmfpic8gvm9py2ugtgficw-backend-engineer-senior-agnostic-python.md)
+
+
+[Fullstack Engineer (Agnostic)](qwxwaw5llmfpl1zvawnliexhynm-fullstack-engineer-agnostic.md)
 
 
 [AI (Senior, Machine Learning)](qwxwaw5llmfpic8gvm9py2ugtgficw-ai-senior-machine-learning.md)
