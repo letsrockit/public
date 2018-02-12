@@ -336,13 +336,6 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (Senior, Ruby)](sglyzwq-fullstack-engineer-senior-ruby.md)
-
-
-[DevOps Engineer (Senior)](sglyzwq-devops-engineer-senior.md)
-
-
-#### San Francisco, CA  
 [Infrastructure Engineer (Senior)](v2lzaa-infrastructure-engineer-senior.md)
 
 
@@ -359,6 +352,13 @@
 
 
 [Fullstack Engineer (Senior, Python)](v2lzaa-fullstack-engineer-senior-python.md)
+
+
+#### San Francisco, CA  
+[Fullstack Engineer (Senior, Ruby)](sglyzwq-fullstack-engineer-senior-ruby.md)
+
+
+[DevOps Engineer (Senior)](sglyzwq-devops-engineer-senior.md)
 
 
 #### San Francisco, CA  
