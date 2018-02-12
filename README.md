@@ -182,13 +182,13 @@
 
 
 #### San Francisco, CA  
-[Fullstack Engineer (Lead, node.js)](u2vnbwvuda-fullstack-engineer-lead-node-js.md)
+[Product Engineer (Senior / Lead)](u2vnbwvuda-fullstack-engineer-lead-node-js.md)
 
 
-[Infrastructure Engineer](u2vnbwvuda-infrastructure-engineer.md)
+[Software Engineer (Infrastructure Tooling)](u2vnbwvuda-infrastructure-engineer.md)
 
 
-[DevOps Engineer](u2vnbwvuda-devops-engineer.md)
+[Software Engineer (Distributed Systems)](u2vnbwvuda-devops-engineer.md)
 
 
 #### San Francisco, CA  
@@ -323,7 +323,7 @@
 
 
 #### Redwood City, CA  
-[Web Application Engineer (Senior)](r2xpbnq-web-application-engineer-senior.md)
+[Frontend Engineer (Senior, Angular)](r2xpbnq-web-application-engineer-senior.md)
 
 
 [Backend Engineer (Senior, Java)](r2xpbnq-backend-engineer-senior-java.md)
