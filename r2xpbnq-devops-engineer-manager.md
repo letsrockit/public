@@ -1,4 +1,4 @@
-## DevOps Engineer (Manager)
+## DevOps Engineer
 #### Redwood City, CA
 
 ### Overview
