@@ -5,6 +5,9 @@
 [Hardware Engineer (Electrical)](sxjpcybbdxrvbwf0aw9u-hardware-engineer-electrical.md)
 
 
+[AI (Senior, Computer Vision)](sxjpcybbdxrvbwf0aw9u-ai-senior-computer-vision.md)
+
+
 #### Redwood City, CA  
 [Hardware Engineer (Firmware/Embedded)](u2t5zglv-hardware-engineer-firmware-embedded.md)
 
