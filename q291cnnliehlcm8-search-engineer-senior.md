@@ -1,5 +1,5 @@
 ## Search Engineer (Senior)
-#### San Francisco, CA
+#### Redwood City, CA
 
 ### Overview
 We are looking for a Senior Search Engineer who can hit the ground running. You’ll take ownership of the design and implementation of our consumer-facing search. As part of our engineering team, you will release code every day and your work will be seen by millions of users.
