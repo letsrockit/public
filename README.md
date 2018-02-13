@@ -397,6 +397,10 @@
 [Frontend Engineer (Senior, React)](q29tcg9sb2d5-frontend-engineer-senior-react.md)
 
 
+#### Redwood City, CA  
+[Search Engineer (Senior)](q291cnnliehlcm8-search-engineer-senior.md)
+
+
 #### Menlo Park, CA  
 [AI (Lead, Computer Vision)](vghliexvb2tpbmcgr2xhc3m-ai-lead-computer-vision.md)
 
