@@ -185,10 +185,10 @@
 [Product Engineer (Senior / Lead)](u2vnbwvuda-fullstack-engineer-lead-node-js.md)
 
 
-[Software Engineer (Infrastructure Tooling)](u2vnbwvuda-infrastructure-engineer.md)
-
-
 [Software Engineer (Distributed Systems)](u2vnbwvuda-devops-engineer.md)
+
+
+[Software Engineer (Infrastructure Tooling)](u2vnbwvuda-infrastructure-engineer.md)
 
 
 #### San Francisco, CA  

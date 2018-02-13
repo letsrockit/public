@@ -1,33 +1,20 @@
-## DevOps Engineer
+## Software Engineer (Distributed Systems)
 #### San Francisco, CA
 
-### Quick Summary
-We believe companies should be able to send their data wherever they want, whenever they want, with no fuss. We make this easy with a single platform that collects, stores and sends data to hundreds of business tools with the flip of a switch. Our goal is to make using data easy, and we’re looking for people to join us on the journey. We are excited about building toward a world where engineers at other companies spend their time working on their core product, rather than spending nights and weekends tweaking their customer data into various formats for 3rd party tools.
-Site Reliability Engineers (SRE) are members of the engineering team whose primary goal is to ensure the reliability, flexibility, and cost effectiveness of our production infrastructure.
+### Overview
+We’re looking for software engineering generalists, with a predominantly backend focus or interest, who are excited to build large-scale distributed systems. Our small team is providing the data infrastructure for thousands of companies and processing billions of API calls every single day. Customers entrust us with some of their most valuable data, depending on us to process and deliver it reliably and with low latency. So, getting this right counts for a lot.
 
-While these responsibilities are shared with the entire engineering team, SREs build and maintain the portions of our stack that ensure the entire engineering team can confidently ship software day in and day out. They complement other engineers with their deeper knowledge of the fundamental pieces of technology that underpin our production infrastructure. The SRE team are our in-house experts on building reliable, maintainable systems and they are responsible for setting the direction that determines how we go about constructing and deploying our production environment.
-
-### Job Description
-+	Build software that improves the reliability, performance, and efficiency of our high-throughput, large-scale SaaS platform.
-+	Collaborate with the entire engineering team on projects as the expert on reliability, performance, and efficiency.
-+	Automate away the process of managing capacity, safely deploying software, and mitigating failures.
-+	Troubleshoot and mitigate the thorniest problems in our most mission-critical systems. Advise the team during postmortems on effectively avoiding repeated incidents.
-+	Share a 24x7 on-call rotation with the other engineers in your focus area.
-+	Work with cutting edge technology, share with others through open source, and spread your expertise through contributions to our engineering blog.
-
-### Qualifications
-+	CS Degree and/or a demonstrable, solid understanding of CS fundamentals.
-+	Proficient coder: strong with at least one programming language.
-+	Solid grasp of Linux systems and networking concepts
-+	Drive to dig into problems and burrow until the solution is found.
-+	Excellent communicator; writes great documentation.
-+	Bonus:
-   +	Experience operating large-scale, distributed systems on top of cloud infrastructure such as Amazon Web Services or Google Compute Platform.
-   +	Broad understanding of the OS and of networking protocols with demonstrated ability to apply this understanding to solve real problems.
-   +	Strong proficiency with OS tuning and expertise at the application of debugging tools.
-   +	Strong sense of urgency and ownership over critical problem areas.
-   +	Demonstrable experience effectively coordinating response for outages and incidents.
-   +	Rare ability to inspire engineering teams to up their reliability game.
+### What we look for
++	CS or EE degree or relevant industry or open source contributor experience. 
++	Great computing fundamentals and shown ability to write code that solves real problems using a statically typed programming language.
++	Strong theoretical fundamentals and hands-on experience designing and implementing highly available and performant fault-tolerant distributed systems.
++	Experience with implementing large-scale event processing pipelines, preferably using streaming technologies.
++	Well-versed in concurrent programming.
++	Familiar with good practices for deploying and testing code into a Production environment.
++	You value and enjoy being part of a cohesive and supportive team.
++	You are passionate about finding elegant solutions to challenging technical problems.
++	You are able to lead an engineering solution to a business problem end-to-end.
++	You know when it is time to refactor, and when it's time to ship.
 
 
 [<img src='https://dabuttonfactory.com/button.png?t=Learn+More&f=Calibri-Bold&ts=24&tc=fff&hp=20&vp=8&c=5&bgt=unicolored&bgc=29aafe'>](https://letsrockit.co/job/u2vnbwvuda-devops-engineer)
