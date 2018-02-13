@@ -2,6 +2,9 @@
 [Backend Engineer (Senior, Python)](sxjpcybbdxrvbwf0aw9u-backend-engineer-senior-python.md)
 
 
+[Hardware Engineer (Electrical)](sxjpcybbdxrvbwf0aw9u-hardware-engineer-electrical.md)
+
+
 #### Redwood City, CA  
 [Hardware Engineer (Firmware/Embedded)](u2t5zglv-hardware-engineer-firmware-embedded.md)
 
