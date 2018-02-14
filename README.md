@@ -40,12 +40,6 @@
 [Frontend Engineer (Angular / React / Ember)](v29ub2xv-frontend-engineer-angular-react-ember.md)
 
 
-[Designer (Senior, UX)](v29ub2xv-designer-senior-ux.md)
-
-
-[Data Scientist](v29ub2xv-data-scientist.md)
-
-
 #### San Francisco, CA  
 [Mobile Engineer (iOS)](vm94zxi-mobile-engineer-ios.md)
 
@@ -89,9 +83,6 @@
 
 
 #### San Francisco, CA  
-[Designer (Lead, UX)](qml0tuvy-designer-lead-ux.md)
-
-
 [Frontend Engineer (Senior, React)](qml0tuvy-frontend-engineer-senior-react.md)
 
 
@@ -142,9 +133,6 @@
 
 
 [Frontend Engineer (Senior, Ember)](tnvyea-frontend-engineer-senior-ember.md)
-
-
-[Infrastructure Engineer (Senior)](tnvyea-infrastructure-engineer-senior.md)
 
 
 [AI (Lead, Machine Learning)](tnvyea-ai-lead-machine-learning.md)
@@ -209,10 +197,6 @@
 
 
 #### San Francisco, CA  
-[Backend Engineer (PHP)](qwxsluluym94-backend-engineer-php.md)
-
-
-#### San Francisco, CA  
 [Infrastructure Engineer (Senior, Product)](u2nyawjk-infrastructure-engineer-senior-product.md)
 
 
@@ -272,10 +256,6 @@
 [Backend Engineer (Lead, Ruby)](txvuy2hlcnk-backend-engineer-lead-ruby.md)
 
 
-#### Sunnyvale, CA  
-[Frontend Engineer (Senior, React / Angular)](rm9ntg9nawm-frontend-engineer-senior-react-angular.md)
-
-
 #### San Francisco, CA  
 [Site Reliability Engineer](twl4bwf4-site-reliability-engineer.md)
 
@@ -290,11 +270,12 @@
 [Backend Engineer (Senior, Ruby)](vghlifjlywxszwfs-backend-engineer-senior-ruby.md)
 
 
-[DevOps Engineer (Senior)](vghlifjlywxszwfs-devops-engineer-senior.md)
+#### San Francisco, CA  
+[Backend Engineer (Senior, Agnostic / node.js)](rk9tu0e-backend-engineer-senior-agnostic-node-js.md)
 
 
 #### San Francisco, CA  
-[Backend Engineer (Senior, Agnostic / node.js)](rk9tu0e-backend-engineer-senior-agnostic-node-js.md)
+[Director of Engineering](v2vhdmuud29ya3m-director-of-engineering.md)
 
 
 #### San Francisco, CA  
@@ -402,9 +383,6 @@
 
 #### San Francisco, CA  
 [AI (Lead, Machine Learning)](u2t5y2f0y2g-ai-lead-machine-learning.md)
-
-
-[Fullstack Engineer (Manager, Agnostic)](u2t5y2f0y2g-fullstack-engineer-manager-agnostic.md)
 
 
 [Mobile Engineer (Lead, iOS)](u2t5y2f0y2g-mobile-engineer-lead-ios.md)
