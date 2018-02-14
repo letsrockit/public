@@ -146,9 +146,6 @@
 
 
 #### Pleasanton, CA  
-[Backend Engineer (Senior, Java, Machine Learning Platform)](v29ya2rheq-backend-engineer-senior-java-machine-learning-platform.md)
-
-
 [AI (Senior, Machine Learning)](v29ya2rheq-ai-senior-machine-learning.md)
 
 
@@ -159,6 +156,9 @@
 
 
 [Backend Engineer (Principal, Java)](v29ya2rheq-backend-engineer-principal-java.md)
+
+
+[Backend Engineer (Principal, Java, BI)](v29ya2rheq-backend-engineer-senior-java-bi.md)
 
 
 [Backend Engineer (Manager, Java)](v29ya2rheq-backend-engineer-manager-java.md)

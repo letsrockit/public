@@ -1,4 +1,4 @@
-## Backend Engineer (Senior, Java, BI)
+## Backend Engineer (Principal, Java, BI)
 #### Pleasanton, CA
 
 ### Overview
