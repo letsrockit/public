@@ -32,6 +32,13 @@
 
 
 #### San Francisco, CA  
+[Backend Engineer (Node.js)](rnv6enk-backend-engineer-node-js.md)
+
+
+[Frontend Engineer (React)](rnv6enk-frontend-engineer-react.md)
+
+
+#### San Francisco, CA  
 [Data Scientist (Lead)](v29ub2xv-data-scientist-lead.md)
 
 
@@ -327,13 +334,6 @@
 
 
 [Backend Engineer (Senior, Java)](r2xpbnq-backend-engineer-senior-java.md)
-
-
-#### San Francisco, CA  
-[Backend Engineer (Node.js)](rnv6enk-backend-engineer-node-js.md)
-
-
-[Frontend Engineer (React)](rnv6enk-frontend-engineer-react.md)
 
 
 #### San Francisco, CA  
