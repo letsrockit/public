@@ -214,6 +214,9 @@
 [AI (Senior, Machine Learning)](u2nyawjk-ai-senior-machine-learning.md)
 
 
+[Mobile Engineer (Senior, Android)](u2nyawjk-mobile-engineer-senior-android.md)
+
+
 [Infrastructure Engineer (Senior, DevOps)](u2nyawjk-infrastructure-engineer-senior-devops.md)
 
 
