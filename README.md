@@ -8,6 +8,10 @@
 [AI (Senior, Computer Vision)](sxjpcybbdxrvbwf0aw9u-ai-senior-computer-vision.md)
 
 
+#### San Francisco, CA  
+[Director of Engineering](v2vhdmuud29ya3m-director-of-engineering.md)
+
+
 #### Redwood City, CA  
 [Hardware Engineer (Firmware/Embedded)](u2t5zglv-hardware-engineer-firmware-embedded.md)
 
@@ -275,10 +279,6 @@
 
 
 #### San Francisco, CA  
-[Director of Engineering](v2vhdmuud29ya3m-director-of-engineering.md)
-
-
-#### San Francisco, CA  
 [Backend Engineer (Senior, Ruby)](ughpbg8-backend-engineer-senior-ruby.md)
 
 
@@ -330,6 +330,13 @@
 
 
 #### San Francisco, CA  
+[Backend Engineer (Node.js)](rnv6enk-backend-engineer-node-js.md)
+
+
+[Frontend Engineer (React)](rnv6enk-frontend-engineer-react.md)
+
+
+#### San Francisco, CA  
 [Infrastructure Engineer (Senior)](v2lzaa-infrastructure-engineer-senior.md)
 
 
@@ -353,13 +360,6 @@
 
 
 [DevOps Engineer (Senior)](sglyzwq-devops-engineer-senior.md)
-
-
-#### San Francisco, CA  
-[Backend Engineer (Node.js)](rnv6enk-backend-engineer-node-js.md)
-
-
-[Frontend Engineer (React)](rnv6enk-frontend-engineer-react.md)
 
 
 #### San Francisco, CA  
