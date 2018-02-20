@@ -1,4 +1,8 @@
 #### San Francisco, CA  
+[Director of Engineering](v2vhdmuud29ya3m-director-of-engineering.md)
+
+
+#### San Francisco, CA  
 [Backend Engineer (Senior, Python)](sxjpcybbdxrvbwf0aw9u-backend-engineer-senior-python.md)
 
 
@@ -6,10 +10,6 @@
 
 
 [AI (Senior, Computer Vision)](sxjpcybbdxrvbwf0aw9u-ai-senior-computer-vision.md)
-
-
-#### San Francisco, CA  
-[Director of Engineering](v2vhdmuud29ya3m-director-of-engineering.md)
 
 
 #### Redwood City, CA  
@@ -352,19 +352,10 @@
 [Infrastructure Engineer (Senior)](v2lzaa-infrastructure-engineer-senior.md)
 
 
-[Mobile Engineer (Senior, iOS)](v2lzaa-mobile-engineer-senior-ios.md)
-
-
 [Backend Engineer (Senior, Python)](v2lzaa-backend-engineer-senior-python.md)
 
 
-[Mobile Engineer (Senior, Android)](v2lzaa-mobile-engineer-senior-android.md)
-
-
 [Data Scientist (Senior)](v2lzaa-data-scientist-senior.md)
-
-
-[Fullstack Engineer (Senior, Python)](v2lzaa-fullstack-engineer-senior-python.md)
 
 
 #### San Francisco, CA  
@@ -394,9 +385,6 @@
 
 
 #### San Francisco, CA  
-[AI (Lead, Machine Learning)](u2t5y2f0y2g-ai-lead-machine-learning.md)
-
-
 [Mobile Engineer (Lead, iOS)](u2t5y2f0y2g-mobile-engineer-lead-ios.md)
 
 
@@ -423,9 +411,6 @@
 
 
 #### San Francisco, CA  
-[Backend Engineer (Senior, Agnostic/Python)](qwxwaw5llmfpic8gvm9py2ugtgficw-backend-engineer-senior-agnostic-python.md)
-
-
 [Fullstack Engineer (Agnostic)](qwxwaw5llmfpl1zvawnliexhynm-fullstack-engineer-agnostic.md)
 
 
