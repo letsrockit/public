@@ -63,6 +63,9 @@
 
 
 #### Oakland, CA  
+[Database Specialist (Senior, MongoDB / MySQL)](vlndtw-database-specialist-senior-mongodb-mysql.md)
+
+
 [Mobile Engineer (Android)](vlndtw-mobile-engineer-android.md)
 
 
@@ -215,6 +218,12 @@
 
 
 [Mobile Engineer (Senior, Android)](u2nyawjk-mobile-engineer-senior-android.md)
+
+
+[Mobile Engineer (Manager, Android)](u2nyawjk-mobile-engineer-manager-android.md)
+
+
+[Mobile Engineer (Senior, iOS)](u2nyawjk-mobile-engineer-senior-ios.md)
 
 
 [Infrastructure Engineer (Senior, DevOps)](u2nyawjk-infrastructure-engineer-senior-devops.md)
