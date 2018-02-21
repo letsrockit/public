@@ -266,6 +266,9 @@
 [Software Engineer (Senior, C++)](q3j1axnl-software-engineer-senior-c.md)
 
 
+[Software Engineer (Senior, Planning)](q3j1axnl-software-engineer-senior-planning.md)
+
+
 #### San Francisco, CA  
 [Backend Engineer (Agnostic)](sg91c2vwyxj0eq-backend-engineer-agnostic.md)
 
