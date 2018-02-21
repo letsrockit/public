@@ -263,6 +263,9 @@
 [Backend Engineer (Senior, Python / Go / node.js)](q3j1axnl-backend-engineer-senior-python-go-node-js.md)
 
 
+[Software Engineer (Senior, C++)](q3j1axnl-software-engineer-senior-c.md)
+
+
 #### San Francisco, CA  
 [Backend Engineer (Agnostic)](sg91c2vwyxj0eq-backend-engineer-agnostic.md)
 
