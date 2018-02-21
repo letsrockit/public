@@ -52,6 +52,10 @@
 
 
 #### San Francisco, CA  
+[Fullstack Engineer (Manager, node.js)](uhjvzglneq-fullstack-engineer-manager-node-js.md)
+
+
+#### San Francisco, CA  
 [Mobile Engineer (iOS)](vm94zxi-mobile-engineer-ios.md)
 
 
