@@ -1,4 +1,4 @@
-## Fullstack Engineer (Principal, Node.js)
+## Principal Frontend Engineer
 #### San Mateo, CA
 
 ### Overview

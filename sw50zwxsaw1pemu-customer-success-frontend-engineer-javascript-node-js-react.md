@@ -1,4 +1,4 @@
-## Frontend Engineer (JavaScript / React)
+## Frontend Engineer (HTML / CSS / Javascript)
 #### San Mateo, CA
 
 ### Overview

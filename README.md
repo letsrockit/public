@@ -420,10 +420,10 @@
 
 
 #### San Mateo, CA  
-[Fullstack Engineer (Principal, Node.js)](sw50zwxsaw1pemu-fullstack-engineer-principal-node-js.md)
+[Principal Frontend Engineer](sw50zwxsaw1pemu-fullstack-engineer-principal-node-js.md)
 
 
-[Frontend Engineer (Javascript / React)](sw50zwxsaw1pemu-customer-success-frontend-engineer-javascript-node-js-react.md)
+[Frontend Engineer (HTML / CSS / Javascript)](sw50zwxsaw1pemu-customer-success-frontend-engineer-javascript-node-js-react.md)
 
 
 #### San Francisco, CA  
