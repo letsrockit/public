@@ -207,6 +207,9 @@
 [Site Reliability Engineer](u2vnbwvuda-site-reliability-engineer.md)
 
 
+[Site Reliability Engineering Manager](u2vnbwvuda-site-reliability-engineering-manager.md)
+
+
 [Software Engineer (Infrastructure Tooling)](u2vnbwvuda-infrastructure-engineer.md)
 
 
