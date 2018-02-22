@@ -52,6 +52,9 @@
 
 
 #### San Francisco, CA  
+[Frontend Engineer (Senior, React)](uhjvzglneq-frontend-engineer-senior-react.md)
+
+
 [Fullstack Engineer (Manager, node.js)](uhjvzglneq-fullstack-engineer-manager-node-js.md)
 
 
