@@ -398,9 +398,6 @@
 [Project Manager](uelyifn5c3rlbxm-project-manager.md)
 
 
-[IT Support Engineer](uelyifn5c3rlbxm-it-support-engineer.md)
-
-
 [Frontend Engineer (Angular / Ember / React)](uelyifn5c3rlbxm-frontend-engineer-angular-ember-react.md)
 
 
