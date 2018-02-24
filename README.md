@@ -392,13 +392,13 @@
 [DevOps Engineer](uelyifn5c3rlbxm-devops-engineer.md)
 
 
+[Frontend Engineer (Angular / Ember / React)](uelyifn5c3rlbxm-frontend-engineer-angular-ember-react.md)
+
+
 [Backend Engineer (Python)](uelyifn5c3rlbxm-backend-engineer-python.md)
 
 
 [Project Manager](uelyifn5c3rlbxm-project-manager.md)
-
-
-[Frontend Engineer (Angular / Ember / React)](uelyifn5c3rlbxm-frontend-engineer-angular-ember-react.md)
 
 
 #### San Francisco, CA  
