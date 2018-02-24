@@ -318,6 +318,9 @@
 
 
 #### San Francisco, CA  
+[Frontend Engineer (Senior, Javascript / React / Rails / Marketing)](ughpbg8-frontend-engineer-senior-javascript-react-rails-marketing.md)
+
+
 [Backend Engineer (Senior, Ruby)](ughpbg8-backend-engineer-senior-ruby.md)
 
 
@@ -325,9 +328,6 @@
 
 
 [Frontend Engineer (Senior)](ughpbg8-frontend-engineer-senior.md)
-
-
-[Frontend Engineer (Senior, Javascript / React / Rails / Marketing)](ughpbg8-frontend-engineer-senior-javascript-react-rails-marketing.md)
 
 
 #### San Francisco, CA  
