@@ -347,10 +347,6 @@
 [Growth Mobile Engineer (Android)](vgv4de5vdw-growth-mobile-engineer-android.md)
 
 
-#### San Francisco, CA  
-[Backend Engineer (Senior, Python)](q2xvdmvyiehlywx0aa-backend-engineer-senior-python.md)
-
-
 #### San Mateo, CA  
 [Backend Engineer (Senior, C/C++/C#)](q3j5chrvtw92zq-backend-engineer-senior-c-c-c.md)
 
