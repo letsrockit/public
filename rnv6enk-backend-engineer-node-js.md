@@ -1,4 +1,4 @@
-## Backend Engineer (Node.js)
+## Backend Engineer (Node.js / Agnostic)
 #### San Francisco, CA
 
 ### Overview

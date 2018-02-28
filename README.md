@@ -35,7 +35,7 @@
 
 
 #### San Francisco, CA  
-[Backend Engineer (Node.js)](rnv6enk-backend-engineer-node-js.md)
+[Backend Engineer (Node.js / Agnostic)](rnv6enk-backend-engineer-node-js.md)
 
 
 [Frontend Engineer (React)](rnv6enk-frontend-engineer-react.md)
