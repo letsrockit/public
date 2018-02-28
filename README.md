@@ -55,9 +55,6 @@
 
 
 #### San Francisco, CA  
-[Frontend Engineer (Senior, React)](uhjvzglneq-frontend-engineer-senior-react.md)
-
-
 [Fullstack Engineer (Manager, node.js)](uhjvzglneq-fullstack-engineer-manager-node-js.md)
 
 
@@ -105,9 +102,6 @@
 
 
 [Mobile Engineer (Lead, Android)](vhviasbuvg-mobile-engineer-lead-android.md)
-
-
-[AI (Lead, Machine Learning)](vhviasbuvg-ai-lead-machine-learning.md)
 
 
 #### San Francisco, CA  
@@ -231,9 +225,6 @@
 [Infrastructure Engineer (Senior, Product)](u2nyawjk-infrastructure-engineer-senior-product.md)
 
 
-[AI (Senior, Machine Learning)](u2nyawjk-ai-senior-machine-learning.md)
-
-
 [Mobile Engineer (Senior, Android)](u2nyawjk-mobile-engineer-senior-android.md)
 
 
@@ -246,16 +237,10 @@
 [Infrastructure Engineer (Senior, DevOps)](u2nyawjk-infrastructure-engineer-senior-devops.md)
 
 
-[Product Manager (Senior)](u2nyawjk-product-manager-senior.md)
-
-
 [Fullstack Engineer (Senior, Ruby / Javascript)](u2nyawjk-fullstack-engineer-senior-ruby-javascript.md)
 
 
 [Mobile Engineer (Manager, iOS)](u2nyawjk-mobile-engineer-ios.md)
-
-
-[Backend Engineer (Senior, Ruby)](u2nyawjk-backend-engineer-senior-ruby.md)
 
 
 #### San Francisco, CA  
@@ -313,14 +298,6 @@
 
 
 #### San Francisco, CA  
-[Backend Engineer (Senior, Ruby)](vghlifjlywxszwfs-backend-engineer-senior-ruby.md)
-
-
-#### San Francisco, CA  
-[Backend Engineer (Senior, Agnostic / node.js)](rk9tu0e-backend-engineer-senior-agnostic-node-js.md)
-
-
-#### San Francisco, CA  
 [Backend Engineer (Senior, Ruby)](ughpbg8-backend-engineer-senior-ruby.md)
 
 
@@ -348,6 +325,10 @@
 
 
 [Growth Mobile Engineer (Android)](vgv4de5vdw-growth-mobile-engineer-android.md)
+
+
+#### San Francisco, CA  
+[Backend Engineer (Senior, Python)](q2xvdmvyiehlywx0aa-backend-engineer-senior-python.md)
 
 
 #### San Mateo, CA  
