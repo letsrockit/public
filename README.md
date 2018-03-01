@@ -225,6 +225,9 @@
 [Infrastructure Engineer (Senior, Product)](u2nyawjk-infrastructure-engineer-senior-product.md)
 
 
+[Designer (Manager, UX)](u2nyawjk-designer-manager-ux.md)
+
+
 [Mobile Engineer (Senior, Android)](u2nyawjk-mobile-engineer-senior-android.md)
 
 
