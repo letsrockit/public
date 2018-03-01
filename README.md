@@ -181,9 +181,6 @@
 [Distributed Systems & Cloud Technologies Engineer (Senior)](v29ya2rheq-distributed-systems-cloud-technologies-engineer-senior.md)
 
 
-[Distributed Systems & Cloud Services (Senior Manager / Director)](v29ya2rheq-distributed-systems-cloud-services-senior-manager-director.md)
-
-
 [Backend Engineer (Principal, Java)](v29ya2rheq-backend-engineer-principal-java.md)
 
 
