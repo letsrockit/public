@@ -12,6 +12,10 @@
 [AI (Senior, Computer Vision)](sxjpcybbdxrvbwf0aw9u-ai-senior-computer-vision.md)
 
 
+#### San Mateo, CA  
+[Fullstack Engineer (Senior, node.js)](rxzpzgf0aw9uiehlywx0aa-fullstack-engineer-senior-node-js.md)
+
+
 #### Redwood City, CA  
 [DevOps Engineer (Senior)](u2t5zglv-devops-engineer-senior.md)
 
@@ -105,6 +109,9 @@
 
 
 #### San Francisco, CA  
+[Product Manager (Senior)](qml0tuvy-head-of-product-lead.md)
+
+
 [Frontend Engineer (Senior, React)](qml0tuvy-frontend-engineer-senior-react.md)
 
 
