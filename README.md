@@ -39,6 +39,10 @@
 
 
 #### San Francisco, CA  
+[Principal Software Engineer](u2n5dgfszq-principal-software-engineer.md)
+
+
+#### San Francisco, CA  
 [Backend Engineer (Node.js / Agnostic)](rnv6enk-backend-engineer-node-js.md)
 
 
@@ -60,10 +64,6 @@
 
 #### San Francisco, CA  
 [Fullstack Engineer (Manager, node.js)](uhjvzglneq-fullstack-engineer-manager-node-js.md)
-
-
-#### San Francisco, CA  
-[Principal Software Engineer](u2n5dgfszq-principal-software-engineer.md)
 
 
 #### San Francisco, CA  
