@@ -1,4 +1,4 @@
-## Fullstack Engineer (Senior, node.js)
+## Fullstack Engineer (Senior, Ruby on Rails)
 #### San Francisco, CA
 
 ### Overview
