@@ -16,12 +16,12 @@ Want to work for a company that is shaping the future of urban mobility? Ready t
 ### What we look for
 +	BS in Computer Science, Mathematics, Statistics, Engineering, or equivalent experience
 +	Experience and skill in data technologies, including:
-	+	Hadoop distributions (e.g. Cloudera, AWS)
-	+	Data pipelines (e.g. Kafka / Flume, Kinesis / Lambda)
-	+	Data storage (e.g. HDFS, S3)
-	+	Data processing frameworks (e.g. Spark, MapReduce)
-	+	Data querying (e.g. Impala, Redshift, SparkSQL)
-	+	Programming languages (e.g. Java, Python, Scala)
+	 +	Hadoop distributions (e.g. Cloudera, AWS)
+	 +	Data pipelines (e.g. Kafka / Flume, Kinesis / Lambda)
+	 +	Data storage (e.g. HDFS, S3)
+	 +	Data processing frameworks (e.g. Spark, MapReduce)
+	 +	Data querying (e.g. Impala, Redshift, SparkSQL)
+	 +	Programming languages (e.g. Java, Python, Scala)
 +	Experience supporting data-driven products, applications, and features
 +	Excellent verbal and written communication skills
 
